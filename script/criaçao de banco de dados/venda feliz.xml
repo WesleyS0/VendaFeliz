@@ -1,0 +1,247 @@
+CREATE TABLE Tb_Avaliacao_Produto (
+  IdAvaliacao INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Usuario VARCHAR(45) NULL,
+  Descricao VARCHAR(90) NULL,
+  Nota CHAR(1) NULL,
+  Imagens_do_produto BLOB NULL,
+  Data_de_avaliacao DATETIME NULL,
+  Recomendaria_o_produto BOOL NULL,
+  Palavras-chaves_Tags VARCHAR(45) NULL,
+  PRIMARY KEY(IdAvaliacao)
+);
+
+CREATE TABLE Tb_Caixa (
+  idTb_caixa INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Tb_Forma_Pagamento_IdPagamento INTEGER UNSIGNED NOT NULL,
+  Tb_Entrega_Rastreamento INTEGER UNSIGNED NOT NULL,
+  Tb_Pedidos_Compras_Id_Pedidos INTEGER UNSIGNED NOT NULL,
+  Tb_Notafiscal_idTb_notafiscal INTEGER UNSIGNED NOT NULL,
+  Valor_total_do_caixa NUMERIC NULL,
+  Data_de_abertura DATETIME NULL,
+  Data_de_fechamento DATETIME NULL,
+  Saldo_inicial NUMERIC NULL,
+  Saldo_final NUMERIC NULL,
+  PRIMARY KEY(idTb_caixa),
+  INDEX Tb_caixa_FKIndex1(Tb_Pedidos_Compras_Id_Pedidos),
+  INDEX Tb_caixa_FKIndex2(Tb_Forma_Pagamento_IdPagamento),
+  INDEX Tb_caixa_FKIndex3(Tb_Notafiscal_idTb_notafiscal),
+  INDEX Tb_caixa_FKIndex4(Tb_Entrega_Rastreamento)
+);
+
+CREATE TABLE Tb_Cliente (
+  CPF VARCHAR(11) NOT NULL,
+  Nome VARCHAR(45) NULL,
+  Sobrenome VARCHAR(45) NULL,
+  Email VARCHAR(45) NULL,
+  Numero_telefonico VARCHAR(45) NULL,
+  Estado VARCHAR(45) NULL,
+  Cidade VARCHAR(45) NULL,
+  Bairro VARCHAR(45) NULL,
+  Rua_e_numero VARCHAR(45) NULL,
+  Genero VARCHAR(45) NULL,
+  Usuario VARCHAR(45) NULL,
+  Data_de_nascimento DATE NULL,
+  Data_de_cadastro DATETIME NULL,
+  Status_da_conta VARCHAR(45) NULL,
+  Preferencia_de_comunicacao VARCHAR(45) NULL,
+  Pontos_de_fidelidade NUMERIC NULL,
+  PRIMARY KEY(CPF)
+);
+
+CREATE TABLE Tb_Consolida_Negocio (
+  IdConsolidacao INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Tb_Entrega_Reversa_Protocolo INTEGER UNSIGNED NOT NULL,
+  Tb_Avaliacao_Produto_IdAvaliacao INTEGER UNSIGNED NOT NULL,
+  Tb_Pedidos_Compras_Id_Pedidos INTEGER UNSIGNED NOT NULL,
+  Data_de_consolidacao DATETIME NULL,
+  Descricao_de_consolidacao VARCHAR(45) NULL,
+  Dados_adicionais VARCHAR(45) NULL,
+  Total_do_pedido NUMERIC NULL,
+  PRIMARY KEY(IdConsolidacao),
+  INDEX Tb_consolida_negocio_FKIndex1(Tb_Pedidos_Compras_Id_Pedidos),
+  INDEX Tb_consolida_negocio_FKIndex3(Tb_Entrega_Reversa_Protocolo),
+  INDEX Tb_consolida_negocio_FKIndex4(Tb_Avaliacao_Produto_IdAvaliacao)
+);
+
+CREATE TABLE Tb_Contrato (
+  Protocolo INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Data_de_inicio DATETIME NULL,
+  Data_de_termino DATETIME NULL,
+  Valor_de_contrato NUMERIC NULL,
+  Tipo_de_contrato VARCHAR(45) NULL,
+  Status_do_contrato VARCHAR(45) NULL,
+  Data_de_renovacao DATETIME NULL,
+  Documentos_adicionais VARCHAR(45) NULL,
+  PRIMARY KEY(Protocolo)
+);
+
+CREATE TABLE Tb_Entrega (
+  Rastreamento INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Tb_Transportadora_CNPJ_2 VARCHAR(14) NOT NULL,
+  Data_Estimada DATE NULL,
+  Status_da_entrega VARCHAR(45) NULL,
+  Data_real_da_entrega DATETIME NULL,
+  Assinatura_do_recebedor VARCHAR(45) NULL,
+  Instrucoes_de_entrega VARCHAR(60) NULL,
+  Custo_de_entrega NUMERIC NULL,
+  PRIMARY KEY(Rastreamento),
+  INDEX Tb_entrega_FKIndex1(Tb_Transportadora_CNPJ_2)
+);
+
+CREATE TABLE Tb_Entrega_Reversa (
+  Protocolo INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Usuario VARCHAR(45) NULL,
+  Estado VARCHAR(45) NULL,
+  Cidade VARCHAR(45) NULL,
+  Bairro VARCHAR(45) NULL,
+  Rua_numero VARCHAR(45) NULL,
+  Numero_de_contato VARCHAR(12) NULL,
+  Email_para_contato VARCHAR(45) NULL,
+  Produtos_devolvidos VARCHAR(45) NULL,
+  Motivo_da_devolucao VARCHAR(50) NULL,
+  Imagens_produto BLOB NULL,
+  Data_de_Regristro DATETIME NULL,
+  Data_de_devolucao DATETIME NULL,
+  Status_da_devolucao VARCHAR(45) NULL,
+  Instrucoes_de_devolucao VARCHAR(45) NULL,
+  Assinatura_do_cliente VARCHAR(45) NULL,
+  Custo_de_devolucao NUMERIC NULL,
+  Reposicao_pela_devolucao CHAR(1) NULL,
+  PRIMARY KEY(Protocolo)
+);
+
+CREATE TABLE Tb_Estoque (
+  idEstoque INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Tb_Produto_idProduto INTEGER UNSIGNED NOT NULL,
+  Quantidade VARCHAR(45) NULL,
+  Data_de_validade DATETIME NULL,
+  Lote VARCHAR(20) NULL,
+  Ultima_atualizacao DATETIME NULL,
+  PRIMARY KEY(idEstoque),
+  INDEX Tb_estoque_FKIndex1(Tb_Produto_idProduto)
+);
+
+CREATE TABLE Tb_Forma_Pagamento (
+  IdPagamento INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Meio_Selecionado VARCHAR(45) NULL,
+  Valor_Juros NUMERIC NULL,
+  Valor_Desconto NUMERIC NULL,
+  Valor_do_Item NUMERIC NULL,
+  Valor_Total NUMERIC NULL,
+  Data_de_pagamento DATETIME NULL,
+  Qt_parcelas VARCHAR(2) NULL,
+  Valor_da_parcelas NUMERIC NULL,
+  Status_de_pagemento VARCHAR(45) NULL,
+  Tipo_de_moeda VARCHAR(45) NULL,
+  Data_de_pagamento_2 DATETIME NULL,
+  PRIMARY KEY(IdPagamento)
+);
+
+CREATE TABLE Tb_Fornecedor (
+  CNPJ VARCHAR(14) NOT NULL,
+  Nome VARCHAR(45) NULL,
+  Numero_Telefonico VARCHAR(12) NULL,
+  Email VARCHAR(45) NULL,
+  Estado VARCHAR(45) NULL,
+  Cidade VARCHAR(45) NULL,
+  Bairro VARCHAR(45) NULL,
+  Rua_e_numero VARCHAR(45) NULL,
+  Ramo VARCHAR(45) NULL,
+  Inicio_de_parceria DATETIME NULL,
+  Termino_de_parceria DATETIME NULL,
+  PRIMARY KEY(CNPJ)
+);
+
+CREATE TABLE Tb_Itens (
+  Tb_Fornecedor_CNPJ VARCHAR(14) NOT NULL,
+  Tb_Produto_idProduto INTEGER UNSIGNED NOT NULL,
+  Duracao_de_Garantia VARCHAR(45) NULL,
+  Qt_no_estoque VARCHAR(45) NULL,
+  Preco_de_compra NUMERIC NULL,
+  Data_de_inclusao DATETIME NULL,
+  Status_do_item VARCHAR(45) NULL,
+  Informacoes_adicionais VARCHAR(45) NULL,
+  PRIMARY KEY(Tb_Fornecedor_CNPJ, Tb_Produto_idProduto),
+  INDEX Tb_fornecedor_has_Tb_produto_FKIndex1(Tb_Fornecedor_CNPJ),
+  INDEX Tb_fornecedor_has_Tb_produto_FKIndex2(Tb_Produto_idProduto)
+);
+
+CREATE TABLE Tb_ItensNoCarrinho (
+  Tb_Cliente_CPF VARCHAR(11) NOT NULL,
+  Tb_Pedidos_Compras_Id_Pedidos INTEGER UNSIGNED NOT NULL,
+  Data_de_adicao VARCHAR(45) NULL,
+  Qt_de_itens VARCHAR(45) NULL,
+  Status_do_item VARCHAR(45) NULL,
+  Desconto_ou_promocoes CHAR(1) NULL,
+  Informacoes_adicionais VARCHAR(45) NULL,
+  Tempo_gasto_no_carrinho TIMESTAMP NULL,
+  PRIMARY KEY(Tb_Cliente_CPF, Tb_Pedidos_Compras_Id_Pedidos),
+  INDEX Tb_cliente_has_Tb_pedidos_compras_FKIndex1(Tb_Cliente_CPF),
+  INDEX Tb_cliente_has_Tb_pedidos_compras_FKIndex2(Tb_Pedidos_Compras_Id_Pedidos)
+);
+
+CREATE TABLE Tb_Notafiscal (
+  idTb_notafiscal INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Dia_Realizado DATETIME NULL,
+  Valor_total NUMERIC NULL,
+  Mes_de_Referencia VARCHAR(45) NULL,
+  PRIMARY KEY(idTb_notafiscal)
+);
+
+CREATE TABLE Tb_Pedidos_Compras (
+  Id_Pedidos INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Tb_Contrato_Protocolo INTEGER UNSIGNED NOT NULL,
+  Tb_Produto_idProduto INTEGER UNSIGNED NOT NULL,
+  Data_de_pedido DATETIME NULL,
+  Quantidade VARCHAR(45) NULL,
+  PRIMARY KEY(Id_Pedidos),
+  INDEX Tb_pedidos_compras_FKIndex1(Tb_Produto_idProduto),
+  INDEX Tb_pedidos_compras_FKIndex2(Tb_Contrato_Protocolo)
+);
+
+CREATE TABLE Tb_Produto (
+  idProduto INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Nome INTEGER UNSIGNED NULL,
+  Descricao INTEGER UNSIGNED NULL,
+  Valor FLOAT NULL,
+  Altura FLOAT NULL,
+  Largura FLOAT NULL,
+  Profundidade  FLOAT NULL,
+  Peso FLOAT NULL,
+  Categoria  VARCHAR(45) NULL,
+  Data_de_Fabricacao DATETIME NULL,
+  Garantia CHAR(1) NULL,
+  Novo_ou_Usado CHAR(1) NULL,
+  PRIMARY KEY(idProduto)
+);
+
+CREATE TABLE Tb_Secao (
+  idTb_secao INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Tb_Cliente_CPF VARCHAR(11) NOT NULL,
+  Inicio_de_navegacao DATETIME NULL,
+  Termino_de_navegacao DATETIME NULL,
+  Dispositivo VARCHAR NULL,
+  Acao_do_cliente VARCHAR(45) NULL,
+  Referencia VARCHAR(45) NULL,
+  Qt_paginas_visitadas VARCHAR(4) NULL,
+  Taxa_de_rejeicao NUMERIC NULL,
+  Referencia_de_produtos CHAR(1) NULL,
+  PRIMARY KEY(idTb_secao),
+  INDEX Tb_secao_FKIndex1(Tb_Cliente_CPF)
+);
+
+CREATE TABLE Tb_Transportadora (
+  CNPJ_2 VARCHAR(14) NOT NULL,
+  Nome VARCHAR(45) NULL,
+  Estado VARCHAR(45) NULL,
+  Cidade VARCHAR(45) NULL,
+  Bairro VARCHAR(45) NULL,
+  Rua_numero VARCHAR(45) NULL,
+  QT_Veiculos VARCHAR(4) NULL,
+  Qt.Entregas VARCHAR(5) NULL,
+  Data_de_inicio DATETIME NULL,
+  Data_de_termino DATETIME NULL,
+  PRIMARY KEY(CNPJ_2)
+);
+
+
