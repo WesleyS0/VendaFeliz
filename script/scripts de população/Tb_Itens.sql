@@ -1,2982 +1,2938 @@
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65869138718148', 1, '4 anos', 891, 7406.7, '2018-01-07 15:07:07', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05662531522234', 2, '3 anos', 3509, 2705.23, '2010-12-21 00:54:07', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82557151229736', 3, '3 anos', 4062, 5635.74, '2014-06-30 05:12:15', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11411436275872', 4, '2 anos', 6273, 7935.03, '2012-04-16 23:51:02', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75085678419891', 5, '5 anos', 5080, 963.73, '2010-10-26 22:59:26', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25708993605087', 6, '5 anos', 4192, 4411.36, '2022-05-10 06:28:35', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13576772203144', 7, '1 anos', 6570, 1790.29, '2018-06-17 06:40:40', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15563341264655', 8, '5 anos', 7872, 659.37, '2008-12-22 15:33:02', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71010371545821', 9, '4 anos', 952, 7767.34, '2016-04-24 02:45:36', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49664225583690', 10, '2 anos', 326, 1345.11, '2018-04-30 07:27:03', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26975747792388', 11, '5 anos', 1660, 4667.77, '2012-12-22 20:47:11', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 12, '1 anos', 3031, 152.82, '2014-01-17 06:13:58', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71596852063162', 13, '5 anos', 4372, 2980.69, '2011-10-09 01:59:33', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28214394881575', 14, '5 anos', 9494, 4353.99, '2019-06-07 18:27:11', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 15, '1 anos', 4200, 1413.03, '2015-10-13 11:41:38', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87853887057098', 16, '2 anos', 7252, 8223.67, '2013-11-27 13:37:28', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 17, '5 anos', 7923, 781.92, '2013-07-03 21:04:21', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79538225436295', 18, '3 anos', 5366, 515.41, '2020-07-09 18:52:08', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08817814429254', 19, '3 anos', 7355, 979.14, '2016-06-14 07:07:23', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16632174555357', 20, '1 anos', 936, 8924.99, '2017-06-16 19:44:55', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78510469695477', 21, '3 anos', 3728, 101.36, '2011-08-02 13:45:17', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38086945753488', 22, '5 anos', 919, 5439.23, '2022-09-19 22:26:53', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60649690785386', 23, '5 anos', 8771, 3028.3, '2009-01-01 07:54:50', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90794390984478', 24, '2 anos', 6251, 8876.55, '2015-09-14 17:24:41', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82784599471313', 25, '3 anos', 3859, 4523.4, '2022-06-13 14:33:40', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27331618479147', 26, '4 anos', 2459, 1976.45, '2023-10-18 16:05:45', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15048207036826', 1, '4 anos', 3267, 8825.54, '2012-11-22 15:07:48', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77568803555168', 2, '1 anos', 4856, 777.36, '2021-03-04 13:22:03', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35858596424265', 3, '4 anos', 6718, 2258.66, '2023-01-25 12:40:07', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 27, '2 anos', 3074, 9592.71, '2013-01-07 11:48:17', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93398310125736', 28, '2 anos', 3360, 4930.68, '2014-07-01 21:43:49', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97198984307237', 29, '2 anos', 724, 6900.9, '2016-02-16 05:57:05', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81117613140060', 30, '2 anos', 4016, 7743.0, '2016-12-14 17:42:35', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01429606225085', 31, '4 anos', 6559, 4834.76, '2011-10-08 02:18:43', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 32, '3 anos', 2507, 9719.79, '2012-02-14 04:09:51', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('03300831514305', 33, '4 anos', 8587, 7221.71, '2014-09-15 23:17:26', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89802954427203', 34, '4 anos', 310, 9943.19, '2011-06-27 21:45:18', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53805963619139', 35, '4 anos', 7864, 1114.4, '2017-04-13 21:16:22', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90167235114776', 36, '4 anos', 9682, 2403.42, '2008-04-09 10:11:27', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38997128558815', 37, '1 anos', 3135, 4209.54, '2021-10-14 23:28:53', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65635754344929', 38, '4 anos', 4907, 5431.48, '2020-10-18 06:54:57', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15563341264655', 39, '4 anos', 1782, 4111.33, '2016-03-12 05:24:16', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62035575386328', 4, '1 anos', 5899, 8459.13, '2022-09-09 19:09:13', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93811878071863', 40, '4 anos', 2013, 2155.94, '2008-12-23 15:12:43', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13712249121189', 41, '5 anos', 8003, 8560.11, '2015-10-01 22:17:43', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22958924438847', 42, '1 anos', 2719, 4123.02, '2018-03-16 14:41:33', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16908611482599', 43, '1 anos', 9179, 5069.63, '2018-05-22 14:03:35', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27331618479147', 44, '4 anos', 5952, 4888.46, '2014-08-25 09:45:00', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75199641178217', 45, '4 anos', 7931, 6391.95, '2019-09-28 08:04:50', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09629990597436', 46, '5 anos', 2256, 820.51, '2008-09-19 09:56:37', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 47, '3 anos', 809, 3776.97, '2014-02-15 20:28:48', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58050827026855', 48, '2 anos', 2371, 795.57, '2021-09-09 13:31:39', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86012379421010', 49, '2 anos', 3536, 8352.99, '2013-09-03 19:43:41', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09907024406368', 50, '4 anos', 1423, 9779.45, '2014-02-10 05:29:15', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67045382125304', 51, '1 anos', 8499, 246.99, '2023-08-07 00:09:40', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20355787650419', 52, '2 anos', 1678, 3923.84, '2020-06-19 12:47:27', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81117613140060', 53, '2 anos', 1422, 8838.69, '2012-06-30 02:43:37', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 54, '1 anos', 6316, 3038.29, '2010-02-11 13:52:07', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 55, '3 anos', 1996, 223.09, '2018-08-31 20:23:06', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70199071376507', 56, '1 anos', 354, 6546.01, '2020-03-20 21:28:38', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90794390984478', 57, '1 anos', 745, 5406.74, '2021-05-08 09:22:58', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01537801097095', 58, '2 anos', 810, 5266.51, '2017-02-06 13:12:12', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80517388143791', 59, '3 anos', 3653, 4018.37, '2008-03-17 07:30:39', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25708993605087', 60, '4 anos', 1430, 6480.22, '2021-11-13 06:47:03', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01537801097095', 61, '4 anos', 709, 4060.71, '2023-05-01 03:55:40', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59368832888120', 62, '5 anos', 9786, 2972.05, '2010-03-22 08:25:11', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53805963619139', 63, '4 anos', 9192, 9196.45, '2020-02-11 10:31:16', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06277287100169', 64, '4 anos', 4016, 1358.32, '2012-06-06 12:06:15', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61513450714942', 65, '3 anos', 2949, 8164.38, '2008-02-14 01:55:31', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49331048053497', 66, '2 anos', 4471, 14.17, '2009-08-09 02:49:45', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32720117170509', 67, '3 anos', 5517, 8596.65, '2008-04-05 14:18:47', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85105703159166', 68, '3 anos', 2282, 5880.79, '2014-04-03 19:35:52', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78514088976125', 69, '4 anos', 1208, 7649.22, '2013-02-23 19:14:26', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67554234193019', 70, '2 anos', 1882, 9503.63, '2021-07-10 20:44:24', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81401013743127', 5, '5 anos', 4788, 4707.68, '2019-01-30 17:35:33', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94714815536054', 71, '3 anos', 884, 8566.98, '2022-04-24 09:09:32', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96967096996105', 6, '5 anos', 8133, 2870.05, '2018-03-23 22:00:33', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18950314405184', 7, '5 anos', 2878, 6064.14, '2015-07-24 18:50:03', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34807336800165', 72, '3 anos', 2206, 5855.1, '2014-10-11 22:08:47', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33604762148625', 8, '4 anos', 4972, 5650.36, '2011-07-22 04:22:39', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31250229263825', 73, '3 anos', 6970, 1048.74, '2016-04-26 16:18:30', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00036904191354', 74, '5 anos', 2551, 1993.17, '2022-01-19 05:32:58', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05107669365965', 75, '4 anos', 8992, 5808.88, '2008-12-11 09:17:52', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62840170169521', 76, '2 anos', 6088, 3236.97, '2008-09-23 04:38:27', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09907024406368', 77, '4 anos', 253, 8359.36, '2014-05-02 19:57:46', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22643039533154', 78, '1 anos', 681, 1442.19, '2016-09-19 14:47:20', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86012379421010', 79, '1 anos', 9467, 9778.91, '2012-07-12 02:15:51', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49462358289146', 80, '1 anos', 155, 4917.65, '2013-07-15 12:21:53', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82557151229736', 81, '1 anos', 1564, 937.56, '2015-03-22 15:23:04', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24813106449624', 82, '3 anos', 7466, 3698.72, '2012-09-04 13:53:13', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58991621624880', 83, '3 anos', 668, 9212.58, '2008-04-28 15:04:41', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60519593676544', 84, '1 anos', 8603, 9961.81, '2021-02-12 16:09:32', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80517388143791', 85, '3 anos', 6344, 5432.25, '2014-10-09 21:45:31', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49462358289146', 86, '5 anos', 8648, 9916.97, '2011-05-02 09:35:48', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89065962118018', 87, '3 anos', 5799, 8652.5, '2018-10-27 18:46:33', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75085678419891', 88, '3 anos', 1942, 2485.71, '2012-05-19 03:37:58', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25708993605087', 89, '5 anos', 4369, 6702.64, '2017-01-18 04:49:23', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20355787650419', 90, '1 anos', 3044, 8325.86, '2018-02-03 05:06:59', 'Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84388135925252', 91, '5 anos', 4466, 6796.31, '2013-10-14 19:27:55', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64975097259523', 92, '5 anos', 9011, 8968.17, '2014-09-29 16:30:58', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34807336800165', 93, '2 anos', 2688, 3437.42, '2022-12-05 03:44:38', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58050827026855', 94, '5 anos', 1068, 1760.45, '2021-02-10 20:20:15', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49588582038903', 95, '4 anos', 4982, 8779.71, '2012-08-04 06:10:52', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58050827026855', 96, '4 anos', 6360, 83.73, '2012-12-20 02:00:38', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47780150671900', 97, '5 anos', 3111, 7255.77, '2012-05-29 10:43:49', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89802954427203', 98, '1 anos', 4841, 7578.62, '2017-12-13 06:55:21', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53805963619139', 99, '4 anos', 9718, 1208.32, '2011-08-22 18:31:14', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34036077127222', 100, '4 anos', 1814, 2893.4, '2015-01-20 08:22:43', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01537801097095', 101, '3 anos', 1703, 1986.63, '2016-09-02 22:10:48', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90952066922480', 102, '2 anos', 8354, 5883.16, '2020-12-03 19:07:05', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62832194571253', 103, '4 anos', 9655, 2667.28, '2017-01-31 12:01:18', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81117613140060', 104, '3 anos', 347, 172.75, '2018-04-09 20:08:51', 'Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39796039142836', 105, '3 anos', 7376, 9532.17, '2015-04-09 23:24:47', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('14021054681659', 106, '2 anos', 5250, 8723.78, '2013-02-11 04:08:30', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00640584369556', 107, '5 anos', 5913, 5019.15, '2023-08-06 05:26:23', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80903876671724', 108, '2 anos', 4754, 7612.42, '2012-07-17 15:37:50', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09208094474709', 109, '4 anos', 1600, 9764.95, '2019-07-02 06:36:07', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87853887057098', 110, '3 anos', 1146, 5021.2, '2010-07-23 21:17:15', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22958924438847', 111, '1 anos', 1390, 7898.68, '2010-01-04 05:31:15', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30507102237432', 112, '4 anos', 548, 2573.11, '2009-04-29 20:08:40', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26975747792388', 113, '4 anos', 8275, 6822.81, '2019-03-14 02:38:28', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09208094474709', 114, '4 anos', 1715, 3522.6, '2011-12-31 02:30:39', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81443648925064', 115, '4 anos', 4053, 5482.52, '2023-09-25 03:58:37', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75085678419891', 116, '3 anos', 6126, 395.42, '2016-05-03 21:35:56', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90952066922480', 117, '3 anos', 5667, 5507.29, '2017-07-10 01:43:52', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53805963619139', 118, '1 anos', 2213, 9772.11, '2008-12-26 18:13:32', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80517388143791', 119, '1 anos', 6638, 1353.86, '2017-07-05 19:03:03', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90794390984478', 120, '1 anos', 8955, 7800.22, '2020-10-15 18:18:30', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71596852063162', 121, '3 anos', 9476, 3801.5, '2016-06-24 19:33:25', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24813106449624', 122, '1 anos', 4960, 4155.74, '2022-08-19 13:52:23', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90952066922480', 123, '3 anos', 7735, 4290.07, '2008-12-16 15:50:11', 'Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91809679529558', 124, '5 anos', 5555, 5289.17, '2009-01-23 16:16:42', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82826053548745', 9, '4 anos', 2704, 6850.47, '2019-02-05 05:17:06', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26728923764754', 125, '2 anos', 1604, 4973.59, '2009-08-30 20:51:11', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82784599471313', 126, '3 anos', 7132, 2919.81, '2010-01-13 01:29:56', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26975747792388', 127, '1 anos', 643, 4918.44, '2012-07-27 08:11:38', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08282096324540', 128, '2 anos', 2887, 2031.03, '2019-03-18 10:48:57', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68632986305026', 129, '4 anos', 3058, 2867.77, '2014-01-13 04:17:08', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16632174555357', 130, '5 anos', 3010, 4085.65, '2022-05-17 21:00:14', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94105954832876', 131, '4 anos', 3419, 3593.49, '2021-12-13 12:34:16', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22643039533154', 132, '4 anos', 9197, 2092.05, '2020-10-31 07:06:51', 'Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77628213336390', 133, '2 anos', 1490, 5670.59, '2019-10-18 11:16:03', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62664748403886', 10, '1 anos', 928, 7678.11, '2012-08-09 04:38:40', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19961968071052', 11, '3 anos', 2007, 1841.32, '2022-05-08 15:27:42', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71042745201781', 12, '3 anos', 1593, 2041.09, '2017-04-18 12:19:16', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58235630305307', 13, '4 anos', 1539, 6357.23, '2008-11-22 05:26:29', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71596852063162', 134, '5 anos', 6889, 6961.54, '2021-09-26 23:10:36', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26975747792388', 135, '3 anos', 2159, 4493.1, '2015-01-01 13:43:43', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49664225583690', 136, '3 anos', 4220, 7958.7, '2010-07-31 14:42:13', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22353148275349', 14, '4 anos', 2370, 8145.26, '2015-11-19 10:48:39', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22643039533154', 137, '2 anos', 5767, 5871.7, '2022-08-23 07:57:46', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08817814429254', 138, '5 anos', 7481, 8114.36, '2015-06-12 20:40:39', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76675613844881', 139, '1 anos', 4739, 4101.15, '2019-09-12 18:36:00', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30507102237432', 140, '5 anos', 2746, 1018.2, '2017-07-13 20:48:32', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07902940356501', 141, '1 anos', 3261, 5504.68, '2019-04-13 11:30:38', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44393460927962', 142, '2 anos', 1677, 9999.02, '2011-12-15 11:25:54', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58050827026855', 143, '1 anos', 813, 398.12, '2014-12-15 01:21:11', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95519864206480', 144, '5 anos', 4737, 1623.81, '2017-03-29 11:06:22', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09629990597436', 145, '2 anos', 2525, 6649.21, '2011-07-19 02:54:17', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98996050767313', 146, '1 anos', 5858, 9980.43, '2020-07-09 02:22:56', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66141554631090', 147, '2 anos', 9262, 9157.63, '2020-07-30 18:13:25', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31250229263825', 148, '2 anos', 3121, 907.46, '2016-02-28 20:33:06', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98751650170902', 149, '3 anos', 8362, 7129.34, '2020-09-05 07:31:01', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39796039142836', 150, '2 anos', 9554, 1145.22, '2013-01-25 15:37:30', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57864079314455', 151, '1 anos', 4275, 5565.17, '2021-08-06 14:58:51', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34036077127222', 152, '3 anos', 8494, 5691.35, '2011-10-31 19:08:04', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60519593676544', 153, '3 anos', 158, 7804.12, '2016-09-27 03:07:28', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22643039533154', 154, '3 anos', 7726, 944.49, '2018-10-15 16:05:57', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75085678419891', 155, '5 anos', 9438, 3733.78, '2020-09-07 08:19:52', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71375229654740', 156, '1 anos', 6318, 3783.66, '2018-06-07 00:21:30', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67554234193019', 157, '5 anos', 1559, 7397.97, '2010-09-29 22:51:34', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16984928040296', 158, '4 anos', 7839, 5402.03, '2009-06-13 01:39:00', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00036904191354', 159, '1 anos', 2310, 9682.93, '2019-04-14 04:13:39', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19292492979759', 160, '1 anos', 9983, 3271.81, '2020-04-20 16:59:51', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20569726407371', 161, '4 anos', 5523, 4211.23, '2009-07-18 10:07:21', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32502420169139', 162, '4 anos', 481, 6838.18, '2020-08-31 15:28:52', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46629629377423', 163, '5 anos', 1258, 466.59, '2016-09-04 11:55:30', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11833255579116', 164, '4 anos', 3111, 7926.97, '2023-01-20 17:03:05', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58745955662709', 165, '5 anos', 5476, 1586.71, '2016-07-24 17:44:04', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90794390984478', 166, '5 anos', 7031, 8102.15, '2008-07-10 23:38:30', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28214394881575', 167, '3 anos', 5915, 4144.79, '2020-01-09 16:09:25', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81763852989095', 168, '3 anos', 1090, 8073.3, '2016-01-30 20:58:46', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16908611482599', 169, '4 anos', 9835, 4383.52, '2016-08-10 05:31:25', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08350053761517', 170, '4 anos', 5364, 6129.24, '2009-10-11 18:59:11', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 171, '3 anos', 4514, 9953.7, '2016-03-22 22:11:30', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05669178078582', 172, '5 anos', 7211, 6791.34, '2020-12-05 17:45:45', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09208094474709', 173, '1 anos', 1125, 3367.37, '2019-10-02 17:34:19', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04306242467363', 174, '5 anos', 9090, 2478.97, '2018-12-13 23:03:44', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32874606494024', 175, '3 anos', 3397, 8057.98, '2019-02-26 04:34:57', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24952438559550', 176, '2 anos', 9063, 6205.11, '2017-06-26 07:12:01', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59830377741206', 177, '5 anos', 8859, 2510.23, '2009-06-22 16:03:06', 'Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91714729879810', 178, '5 anos', 3607, 8984.71, '2020-05-09 15:53:12', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71111803371951', 179, '1 anos', 8065, 6207.71, '2016-02-15 23:23:56', 'Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06868308679031', 180, '3 anos', 9879, 6930.05, '2017-11-07 00:13:33', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42144614662726', 181, '1 anos', 1751, 7249.17, '2022-12-12 21:16:00', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87853887057098', 182, '5 anos', 7410, 6975.36, '2009-10-23 06:14:01', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13712249121189', 183, '2 anos', 4320, 9342.29, '2019-01-25 07:29:18', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25136238673293', 184, '1 anos', 5964, 9458.01, '2011-06-01 13:16:37', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89065962118018', 185, '4 anos', 2209, 2354.28, '2009-12-09 10:52:58', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 186, '1 anos', 3153, 403.82, '2018-10-06 18:41:37', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26975747792388', 187, '2 anos', 9787, 5077.21, '2011-04-15 13:00:24', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62832194571253', 188, '4 anos', 761, 1757.52, '2014-06-17 19:03:17', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42144614662726', 189, '4 anos', 6773, 9338.4, '2022-01-29 16:52:10', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09629990597436', 190, '5 anos', 8636, 664.81, '2023-01-01 05:50:59', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45777137073423', 191, '3 anos', 9179, 7707.26, '2016-11-06 20:06:56', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32502420169139', 192, '5 anos', 3621, 9233.57, '2010-04-12 21:47:57', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28387459962063', 15, '5 anos', 2041, 2885.04, '2018-05-19 05:37:36', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('51028292747512', 16, '4 anos', 3866, 3209.28, '2021-01-22 00:57:00', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31172043372359', 193, '5 anos', 6035, 2806.45, '2022-03-12 10:38:08', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34482074015567', 194, '1 anos', 9112, 7359.7, '2015-09-27 05:36:36', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86012379421010', 195, '2 anos', 128, 6678.79, '2014-09-15 08:19:05', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53695282078294', 196, '3 anos', 4517, 3862.89, '2018-07-18 18:28:31', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11411436275872', 197, '3 anos', 3925, 9718.11, '2014-06-05 19:08:27', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45622925307035', 198, '1 anos', 2776, 8444.62, '2023-10-05 07:17:28', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00640584369556', 199, '4 anos', 1214, 8053.53, '2010-04-06 20:57:52', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71375229654740', 200, '1 anos', 1886, 3477.54, '2008-10-31 15:35:05', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78514088976125', 201, '3 anos', 4343, 1892.35, '2017-07-06 18:22:24', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45777137073423', 202, '2 anos', 1244, 5416.97, '2020-07-05 17:20:35', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78191260532623', 203, '3 anos', 1795, 282.2, '2020-12-16 13:33:34', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90952066922480', 204, '3 anos', 4498, 2075.74, '2009-07-20 09:49:41', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25119466579691', 17, '4 anos', 8915, 1197.16, '2010-09-24 15:29:28', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27940603865982', 205, '2 anos', 7819, 7725.62, '2021-02-08 06:30:28', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09208094474709', 206, '2 anos', 1807, 8418.01, '2021-09-24 03:06:11', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('52198700930318', 207, '3 anos', 4718, 8773.63, '2011-02-07 11:34:48', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20355787650419', 208, '1 anos', 9933, 8575.49, '2016-04-15 07:36:37', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28387459962063', 18, '4 anos', 8516, 8451.5, '2014-11-11 07:34:42', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69465680138023', 19, '4 anos', 3852, 1330.46, '2018-02-18 17:40:17', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25136238673293', 209, '1 anos', 8408, 5905.21, '2008-08-29 12:45:29', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('14021054681659', 210, '5 anos', 3082, 1614.77, '2018-06-22 03:51:38', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35284308175788', 20, '3 anos', 8383, 4400.51, '2015-11-01 17:12:02', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05669178078582', 211, '3 anos', 8892, 8620.32, '2010-12-04 07:43:36', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59830377741206', 212, '3 anos', 4266, 5151.31, '2016-07-02 08:10:07', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28214394881575', 213, '1 anos', 2638, 3322.56, '2020-11-02 20:26:19', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06868308679031', 214, '1 anos', 7445, 3342.09, '2022-09-14 10:24:00', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90495219907304', 215, '5 anos', 3040, 6318.01, '2017-09-24 01:08:57', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08350053761517', 216, '1 anos', 5440, 6785.68, '2018-06-14 02:09:26', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26728923764754', 217, '1 anos', 5654, 9033.5, '2021-05-28 14:57:05', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38086945753488', 218, '5 anos', 8853, 3631.46, '2008-05-12 09:27:36', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61513450714942', 219, '4 anos', 2965, 2372.4, '2009-09-11 08:46:10', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46629629377423', 220, '5 anos', 8655, 9674.4, '2009-01-11 12:58:46', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82784599471313', 221, '5 anos', 2132, 2868.63, '2011-09-21 09:01:36', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66090881888541', 222, '3 anos', 8224, 8338.52, '2017-03-17 03:51:10', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53695282078294', 223, '3 anos', 685, 9547.75, '2017-05-16 18:13:58', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94062818657535', 224, '4 anos', 3942, 796.78, '2014-08-12 17:47:56', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53695282078294', 225, '5 anos', 852, 5815.66, '2010-08-10 09:19:49', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53211136593874', 226, '2 anos', 3725, 548.06, '2015-07-24 20:07:54', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80903876671724', 227, '1 anos', 8390, 6570.21, '2023-12-29 07:28:33', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31250229263825', 228, '4 anos', 1266, 9554.8, '2014-02-09 10:06:19', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94062818657535', 229, '3 anos', 3072, 7378.04, '2014-02-13 15:39:32', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81166779131971', 230, '5 anos', 22, 8860.64, '2022-02-27 00:20:14', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27331618479147', 231, '5 anos', 3601, 5379.34, '2014-08-06 04:19:23', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19292492979759', 232, '1 anos', 4037, 4926.87, '2010-01-17 23:08:57', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22643039533154', 233, '2 anos', 6683, 2145.66, '2010-06-27 08:57:21', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95874926965001', 234, '4 anos', 7794, 7366.52, '2011-12-18 08:11:33', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05669178078582', 235, '3 anos', 3700, 254.32, '2019-07-14 14:50:38', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71010371545821', 236, '5 anos', 5214, 2887.72, '2021-04-02 09:37:34', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32720117170509', 237, '4 anos', 9001, 5354.81, '2023-08-21 01:51:23', 'Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19888367709268', 238, '1 anos', 3747, 9818.44, '2011-08-11 12:24:53', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90101893342255', 239, '2 anos', 7419, 3486.78, '2017-09-12 17:03:39', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22643039533154', 240, '3 anos', 5743, 3130.8, '2023-12-29 12:35:51', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('14021054681659', 241, '2 anos', 2752, 3299.91, '2017-02-21 15:08:37', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32720117170509', 242, '4 anos', 8796, 5148.75, '2014-06-07 10:48:13', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70964100890182', 243, '2 anos', 9132, 7008.58, '2010-05-17 03:18:27', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66141554631090', 244, '4 anos', 7642, 2627.02, '2016-08-11 09:05:47', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70964100890182', 245, '1 anos', 8936, 7507.83, '2021-12-16 09:28:10', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96028811836805', 246, '2 anos', 8482, 5155.14, '2018-09-21 18:37:39', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53695282078294', 247, '3 anos', 2116, 1019.7, '2015-09-14 14:52:20', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86012379421010', 248, '3 anos', 4652, 6816.84, '2013-06-26 23:58:51', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34714441878188', 249, '4 anos', 2752, 8002.9, '2020-09-17 19:19:11', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67554234193019', 250, '2 anos', 3964, 7261.79, '2015-10-26 03:25:56', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23879318943567', 251, '5 anos', 2039, 1000.47, '2017-04-19 00:44:44', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38456032927056', 252, '4 anos', 4141, 3849.4, '2015-07-01 04:56:36', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15783427174529', 253, '2 anos', 3322, 9540.47, '2012-06-09 00:07:54', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71375229654740', 254, '2 anos', 8223, 3650.99, '2011-03-02 08:07:43', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09907024406368', 255, '1 anos', 2235, 2941.97, '2014-04-30 05:29:02', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71010371545821', 256, '1 anos', 4139, 4319.45, '2009-04-22 02:18:49', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31172043372359', 257, '3 anos', 1745, 3729.24, '2009-09-04 17:00:15', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20821694675256', 258, '4 anos', 4261, 6222.4, '2012-08-05 15:55:48', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67045382125304', 259, '5 anos', 5805, 6831.23, '2012-10-19 01:32:14', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95519864206480', 260, '1 anos', 9381, 1797.46, '2021-04-23 03:47:28', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('03300831514305', 261, '5 anos', 9617, 6318.73, '2011-04-27 23:09:45', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66141554631090', 262, '2 anos', 605, 1833.63, '2018-05-14 00:12:05', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00640584369556', 263, '3 anos', 6666, 8369.31, '2023-03-25 15:21:21', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38456032927056', 264, '1 anos', 9450, 8239.73, '2010-02-14 01:52:52', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65869138718148', 265, '5 anos', 6622, 956.93, '2015-09-19 11:30:46', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54662755477526', 21, '4 anos', 1577, 2755.33, '2010-09-11 08:45:38', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08817814429254', 266, '1 anos', 652, 7326.82, '2012-03-16 21:15:05', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90495219907304', 267, '5 anos', 8874, 4274.5, '2017-05-09 06:27:34', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84388135925252', 268, '4 anos', 3997, 7994.45, '2017-09-03 23:37:31', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('92214876664004', 22, '5 anos', 1376, 6355.1, '2021-07-15 04:23:38', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70964100890182', 269, '4 anos', 5404, 6265.69, '2017-02-04 13:10:45', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34269069548761', 270, '1 anos', 8152, 8225.32, '2019-07-02 23:08:47', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49331048053497', 271, '5 anos', 7364, 3876.32, '2016-06-01 17:08:42', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13576772203144', 272, '3 anos', 4160, 4406.81, '2022-01-24 23:18:58', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30507102237432', 273, '5 anos', 3661, 3589.87, '2008-12-11 08:05:08', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94714815536054', 274, '1 anos', 6263, 3031.66, '2014-04-04 00:22:23', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34036077127222', 275, '4 anos', 4102, 6904.6, '2010-02-22 02:00:27', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66141554631090', 276, '2 anos', 6593, 3494.98, '2023-11-08 20:06:48', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('03300831514305', 277, '4 anos', 8560, 1941.94, '2014-05-19 07:12:56', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64975097259523', 278, '1 anos', 5808, 6783.22, '2022-09-12 22:06:42', 'Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61513450714942', 279, '4 anos', 5961, 9163.99, '2017-07-14 06:48:34', 'Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06277287100169', 280, '3 anos', 5382, 9490.94, '2015-10-29 09:03:17', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45686168008854', 281, '2 anos', 7696, 9381.72, '2014-07-21 12:47:50', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89065962118018', 282, '5 anos', 224, 2158.85, '2022-03-13 09:30:01', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 283, '4 anos', 3122, 4941.25, '2013-01-24 17:06:05', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58991621624880', 284, '1 anos', 2585, 8134.71, '2009-03-07 15:50:45', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58050827026855', 285, '3 anos', 455, 5203.82, '2021-12-02 20:26:49', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67934065677686', 286, '1 anos', 7157, 7052.26, '2017-07-04 12:47:24', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58745955662709', 287, '5 anos', 5986, 4617.4, '2010-12-09 12:36:09', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16182193254144', 288, '1 anos', 2444, 6505.75, '2023-05-28 06:05:51', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30507102237432', 289, '4 anos', 440, 6238.7, '2011-06-20 02:54:27', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13226509710000', 290, '2 anos', 1265, 4349.63, '2010-08-28 13:25:50', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28935890970693', 291, '5 anos', 5508, 9502.95, '2016-02-18 23:42:32', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90495219907304', 292, '5 anos', 4499, 1410.08, '2008-09-24 06:31:51', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90794390984478', 293, '2 anos', 9919, 4644.97, '2019-03-21 05:03:21', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47944747739660', 294, '4 anos', 1531, 9109.59, '2023-08-06 11:17:46', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05669178078582', 295, '5 anos', 4798, 3395.8, '2009-03-21 05:07:11', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87594783132419', 296, '3 anos', 8394, 3677.58, '2019-06-01 07:16:20', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68258182383723', 297, '1 anos', 9278, 3085.61, '2018-10-06 05:23:06', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09907024406368', 298, '4 anos', 2187, 6285.68, '2018-10-19 10:28:42', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08282096324540', 299, '4 anos', 9911, 8748.05, '2012-02-28 03:54:20', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81763852989095', 300, '5 anos', 1997, 8723.54, '2022-01-22 17:07:31', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54285367327615', 23, '3 anos', 4493, 9388.1, '2023-04-26 08:21:34', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49299869221562', 24, '3 anos', 491, 7954.83, '2023-09-28 02:38:20', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94105954832876', 301, '4 anos', 9180, 721.54, '2009-09-24 19:48:54', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('21028458111538', 25, '1 anos', 3382, 7824.77, '2020-08-01 18:07:40', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93398310125736', 302, '2 anos', 993, 7577.15, '2012-03-02 17:54:23', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 303, '4 anos', 4988, 6326.65, '2009-07-25 15:50:30', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27127472044636', 26, '1 anos', 844, 2757.96, '2009-05-28 22:18:00', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62840170169521', 304, '3 anos', 9185, 2493.56, '2016-06-29 10:57:36', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95587322078945', 27, '3 anos', 1815, 6115.95, '2010-07-29 19:45:03', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28214394881575', 305, '1 anos', 4268, 7149.25, '2023-04-30 05:26:49', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31524367436035', 306, '5 anos', 8271, 1012.04, '2021-11-19 23:08:17', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54662755477526', 28, '3 anos', 5255, 1872.93, '2021-04-05 12:10:04', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49588582038903', 307, '2 anos', 7444, 3421.96, '2010-07-25 02:50:58', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98609370108210', 308, '3 anos', 8495, 7364.71, '2022-08-08 21:34:06', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82557151229736', 309, '4 anos', 3523, 5504.61, '2012-01-09 06:11:23', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49462358289146', 310, '4 anos', 9181, 2606.76, '2017-09-19 16:32:20', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60649690785386', 311, '1 anos', 9828, 5541.79, '2011-09-28 03:40:32', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39718663537168', 312, '5 anos', 3942, 1637.35, '2014-07-22 22:28:44', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45622925307035', 313, '5 anos', 106, 4649.99, '2012-10-06 06:50:44', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49462358289146', 314, '2 anos', 4419, 9919.45, '2020-06-14 09:02:31', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88576988071958', 315, '2 anos', 6152, 9260.8, '2012-07-20 01:46:19', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78514088976125', 316, '5 anos', 2027, 5626.67, '2022-03-09 06:34:22', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25708993605087', 317, '4 anos', 1944, 9781.26, '2008-08-27 11:41:43', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89065962118018', 318, '1 anos', 2372, 9174.07, '2011-07-20 07:37:44', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34714441878188', 319, '4 anos', 9326, 2349.43, '2017-03-01 05:08:00', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31250229263825', 320, '4 anos', 3425, 1183.43, '2017-08-27 05:07:48', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13839586951786', 321, '5 anos', 8532, 8513.47, '2020-03-09 19:09:19', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58745955662709', 322, '4 anos', 5513, 4048.08, '2018-01-03 20:05:11', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87853887057098', 323, '4 anos', 2099, 1199.85, '2022-04-27 01:56:35', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 324, '5 anos', 8556, 8349.06, '2010-12-30 16:16:42', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71049734804167', 325, '1 anos', 2119, 9537.33, '2017-10-07 13:52:49', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01706954671372', 326, '2 anos', 2059, 5539.76, '2012-04-08 18:32:52', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22958924438847', 327, '1 anos', 3276, 7349.15, '2016-03-14 22:19:53', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49692318453114', 328, '4 anos', 886, 2111.79, '2017-06-26 17:07:09', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27331618479147', 329, '5 anos', 6280, 3404.9, '2012-09-09 00:55:48', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61691356124910', 330, '5 anos', 6161, 3152.12, '2017-05-29 08:17:16', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71049734804167', 331, '4 anos', 4936, 8459.49, '2022-01-10 04:34:47', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00640584369556', 332, '2 anos', 7268, 7122.75, '2014-08-19 03:03:57', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34229530770499', 333, '1 anos', 9900, 608.97, '2016-12-07 12:16:33', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90794390984478', 334, '1 anos', 8399, 8429.81, '2009-07-28 15:25:34', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25501058444726', 335, '2 anos', 206, 2682.97, '2013-07-11 17:05:23', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94714815536054', 336, '3 anos', 160, 458.34, '2016-12-17 06:56:21', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47944747739660', 337, '3 anos', 1460, 9802.14, '2021-01-26 02:12:21', 'Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71049734804167', 338, '5 anos', 5611, 6928.49, '2020-04-05 17:32:25', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41391569946950', 339, '1 anos', 9856, 1979.16, '2022-04-03 23:16:02', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59830377741206', 340, '5 anos', 3358, 2083.81, '2011-06-05 09:11:08', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15783427174529', 341, '1 anos', 7247, 4320.25, '2011-01-26 03:43:12', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81117613140060', 342, '3 anos', 5056, 7636.13, '2010-10-27 19:54:57', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78191260532623', 343, '5 anos', 6795, 1427.26, '2020-10-20 16:30:09', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53656804209412', 344, '3 anos', 2842, 8855.6, '2012-07-13 09:16:46', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('52198700930318', 345, '4 anos', 7782, 8822.73, '2014-10-19 10:48:08', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71042745201781', 29, '2 anos', 6382, 4615.44, '2016-06-29 20:53:44', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87594783132419', 346, '2 anos', 5953, 3322.92, '2020-03-17 03:05:37', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07505958957858', 30, '2 anos', 4318, 8930.16, '2017-06-20 00:07:33', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62832194571253', 347, '4 anos', 992, 407.1, '2018-11-22 20:10:11', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('99524668496008', 348, '1 anos', 6445, 6777.05, '2013-12-03 07:41:14', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50637318268571', 349, '2 anos', 177, 1882.86, '2009-11-23 04:13:58', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11833255579116', 350, '2 anos', 4354, 3590.29, '2011-02-28 05:09:59', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16908611482599', 351, '1 anos', 1751, 1027.2, '2010-08-14 00:41:26', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08282096324540', 352, '5 anos', 9871, 3778.47, '2018-07-06 19:20:56', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65466938820833', 353, '1 anos', 1880, 6219.18, '2016-10-03 20:47:30', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62422136217445', 354, '3 anos', 6644, 469.03, '2023-01-31 23:40:21', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49664225583690', 355, '5 anos', 9330, 5813.05, '2017-04-09 05:55:36', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54671082454467', 31, '5 anos', 5227, 1333.82, '2017-09-11 06:00:12', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16908611482599', 356, '3 anos', 990, 2613.87, '2010-01-24 03:47:03', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38086945753488', 357, '3 anos', 6294, 4468.41, '2020-08-05 02:30:57', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05669178078582', 358, '5 anos', 6209, 3399.36, '2014-05-07 16:23:45', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26960317847796', 359, '5 anos', 9296, 7572.44, '2011-07-16 08:37:19', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 360, '2 anos', 3085, 7785.99, '2008-05-19 10:08:37', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('14021054681659', 361, '2 anos', 9283, 2819.01, '2010-11-18 22:26:27', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08817814429254', 362, '2 anos', 9066, 756.53, '2018-06-20 14:56:07', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47944747739660', 363, '4 anos', 8016, 6993.84, '2011-02-18 15:51:34', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89802954427203', 364, '2 anos', 7456, 5550.69, '2014-07-27 11:42:37', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59368832888120', 365, '2 anos', 7218, 6703.28, '2018-12-21 09:41:54', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 366, '5 anos', 8739, 3710.77, '2012-05-11 10:57:24', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84388135925252', 367, '4 anos', 8031, 4185.19, '2020-05-08 21:42:09', 'Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96028811836805', 368, '5 anos', 9421, 7695.03, '2012-05-31 09:10:35', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01537801097095', 369, '2 anos', 8541, 1390.4, '2014-01-30 23:23:25', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('73786792957956', 370, '5 anos', 8979, 2887.94, '2010-11-03 11:15:16', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 371, '2 anos', 8517, 4366.05, '2015-09-26 01:16:49', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85106660826815', 372, '1 anos', 332, 4635.46, '2010-12-04 15:21:57', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94062818657535', 373, '1 anos', 6382, 6948.42, '2015-11-17 02:46:24', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20821694675256', 374, '2 anos', 5872, 9790.33, '2018-12-19 23:22:33', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62832194571253', 375, '3 anos', 8446, 963.85, '2017-08-12 18:14:08', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98609370108210', 376, '3 anos', 9058, 4457.32, '2017-09-25 08:57:31', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08368779329563', 377, '1 anos', 2497, 8116.46, '2019-01-06 07:55:40', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45686168008854', 378, '2 anos', 9341, 2121.36, '2015-03-05 19:45:14', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67045382125304', 379, '1 anos', 8698, 706.39, '2016-07-10 02:49:24', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 380, '5 anos', 2972, 5215.87, '2014-07-25 14:10:55', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45686168008854', 381, '1 anos', 4410, 8267.88, '2018-10-15 13:57:12', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15783427174529', 382, '2 anos', 1662, 5482.8, '2015-02-01 11:06:35', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79538225436295', 383, '3 anos', 4797, 6260.07, '2010-12-03 11:19:31', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46629629377423', 384, '5 anos', 1291, 5058.31, '2011-03-28 10:16:39', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34714441878188', 385, '5 anos', 4666, 8421.35, '2011-02-13 23:51:32', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39718663537168', 386, '3 anos', 6997, 9120.37, '2021-09-28 10:25:51', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28214394881575', 387, '5 anos', 7181, 2811.44, '2011-01-06 21:40:23', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66141554631090', 388, '1 anos', 2264, 4630.2, '2015-12-28 23:47:26', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71596852063162', 389, '1 anos', 8206, 138.35, '2019-01-14 21:12:00', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00640584369556', 390, '4 anos', 8916, 6930.31, '2023-07-07 00:02:25', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23879318943567', 391, '2 anos', 1043, 5515.39, '2011-04-12 14:38:26', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25501058444726', 392, '3 anos', 6283, 2791.77, '2020-05-15 10:43:40', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05107669365965', 393, '4 anos', 2850, 4616.94, '2019-06-03 22:05:04', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67934065677686', 394, '3 anos', 9916, 6091.37, '2018-07-09 13:59:13', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39796039142836', 395, '1 anos', 4465, 5592.14, '2020-10-11 07:52:26', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98996050767313', 396, '1 anos', 526, 7695.15, '2010-01-26 06:52:21', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94105954832876', 397, '2 anos', 3633, 755.2, '2016-09-07 09:25:38', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05838631823551', 398, '4 anos', 371, 7261.04, '2014-03-14 08:51:36', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57864079314455', 399, '5 anos', 227, 9426.97, '2015-02-03 18:10:08', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67554234193019', 400, '2 anos', 4651, 1722.63, '2014-12-19 19:23:42', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68278212138648', 401, '3 anos', 924, 2161.2, '2015-08-23 05:19:22', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19292492979759', 402, '1 anos', 5713, 7477.47, '2018-07-14 02:37:05', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08723275156053', 403, '3 anos', 8711, 4127.6, '2012-09-04 05:57:21', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16182193254144', 404, '2 anos', 3386, 1533.74, '2012-10-11 12:21:24', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81166779131971', 405, '3 anos', 3932, 7472.79, '2010-07-06 03:03:16', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53805963619139', 406, '2 anos', 148, 7495.46, '2018-12-01 07:06:37', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49331048053497', 407, '4 anos', 8838, 1487.77, '2022-03-01 11:26:41', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90167235114776', 408, '3 anos', 1922, 9057.6, '2012-08-22 02:54:34', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78191260532623', 409, '1 anos', 6595, 6074.31, '2013-08-06 19:09:20', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85740613470472', 410, '3 anos', 4216, 9498.45, '2008-12-17 06:08:07', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34036077127222', 411, '4 anos', 1810, 3023.37, '2018-09-24 12:14:30', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90794390984478', 412, '1 anos', 5434, 1213.18, '2018-08-28 10:45:21', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32874606494024', 413, '1 anos', 3646, 6980.2, '2013-10-30 23:24:37', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20821694675256', 414, '4 anos', 7272, 8458.71, '2021-05-25 12:11:30', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47944747739660', 415, '3 anos', 5019, 4295.3, '2013-07-17 05:42:53', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23879318943567', 416, '4 anos', 8689, 6655.02, '2010-05-16 04:33:03', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18423660428412', 417, '3 anos', 2666, 2486.02, '2011-04-19 12:18:23', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08282096324540', 418, '4 anos', 457, 8274.53, '2016-01-27 18:53:53', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45686168008854', 419, '1 anos', 6721, 5995.65, '2009-05-02 11:40:39', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08728697956326', 420, '4 anos', 1763, 680.4, '2019-01-30 20:33:35', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53211136593874', 421, '5 anos', 1192, 3996.18, '2021-08-13 14:11:30', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60649690785386', 422, '1 anos', 8614, 2631.54, '2017-06-19 07:32:41', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38997128558815', 423, '5 anos', 10, 8206.54, '2012-04-17 06:06:29', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49664225583690', 424, '4 anos', 8962, 3073.93, '2011-02-12 02:00:15', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01537801097095', 425, '1 anos', 7882, 3876.84, '2008-04-25 11:59:42', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94105954832876', 426, '2 anos', 5660, 2837.93, '2010-09-20 18:49:36', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71049734804167', 427, '4 anos', 1373, 1084.87, '2014-10-30 17:01:30', 'Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91809679529558', 428, '3 anos', 5665, 8019.03, '2015-02-04 12:53:35', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 429, '3 anos', 7635, 4824.14, '2021-08-13 18:05:57', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13712249121189', 430, '3 anos', 9480, 4475.86, '2023-05-15 22:59:36', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25501058444726', 431, '2 anos', 5269, 3289.45, '2019-06-07 16:13:35', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50637318268571', 432, '2 anos', 7338, 8524.36, '2023-10-21 10:33:47', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68258182383723', 433, '1 anos', 5023, 4401.88, '2023-08-20 18:45:31', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58050827026855', 434, '2 anos', 9549, 2211.79, '2012-07-07 21:08:05', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49462358289146', 435, '4 anos', 7635, 4564.73, '2013-11-13 18:56:00', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26029854489794', 436, '4 anos', 7960, 8237.06, '2021-10-19 05:17:21', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 437, '5 anos', 1777, 255.15, '2009-07-19 04:19:38', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94062818657535', 438, '4 anos', 5462, 3887.11, '2023-04-14 04:23:06', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13839586951786', 439, '2 anos', 6298, 7265.93, '2013-04-24 14:09:55', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01537801097095', 440, '2 anos', 6426, 2157.97, '2020-10-09 19:04:12', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78191260532623', 441, '2 anos', 692, 5226.12, '2017-09-23 01:32:41', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42144614662726', 442, '3 anos', 872, 3436.7, '2019-06-23 10:36:24', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80517388143791', 443, '3 anos', 6877, 7158.11, '2017-06-30 04:36:05', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59368832888120', 444, '3 anos', 8845, 4358.06, '2018-05-09 17:10:30', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 445, '4 anos', 1371, 9523.42, '2013-12-20 03:40:37', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06277287100169', 446, '1 anos', 4399, 1388.26, '2012-04-04 14:55:10', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68632986305026', 447, '1 anos', 4316, 2200.26, '2008-08-19 22:27:30', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08368779329563', 448, '1 anos', 8582, 5458.63, '2018-04-28 01:34:07', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65635754344929', 449, '1 anos', 2230, 598.74, '2008-07-13 00:16:11', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13712249121189', 450, '3 anos', 2348, 8302.22, '2010-02-07 11:25:24', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81166779131971', 451, '2 anos', 1698, 4108.14, '2023-07-26 01:41:17', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90794390984478', 452, '3 anos', 7992, 5688.06, '2019-12-07 20:36:42', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65869138718148', 453, '2 anos', 7209, 5820.3, '2021-11-04 09:28:30', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44393460927962', 454, '1 anos', 8270, 453.62, '2016-05-24 23:40:38', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93398310125736', 455, '5 anos', 1257, 9845.29, '2018-07-11 00:01:36', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78191260532623', 456, '5 anos', 1989, 6182.19, '2008-09-10 18:39:43', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08350053761517', 457, '4 anos', 9537, 3438.36, '2018-02-25 00:37:01', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05669178078582', 458, '3 anos', 7223, 4509.34, '2023-06-10 15:13:35', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91714729879810', 459, '4 anos', 3447, 7114.68, '2013-04-06 09:33:13', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 460, '3 anos', 7992, 358.19, '2010-08-22 14:49:49', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71375229654740', 461, '1 anos', 2568, 3920.03, '2008-12-24 07:53:09', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42144614662726', 462, '2 anos', 4193, 6952.31, '2010-02-06 17:40:41', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64975097259523', 463, '2 anos', 7410, 8386.4, '2009-12-14 02:21:32', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31864800611904', 464, '4 anos', 2129, 8400.57, '2018-06-08 20:18:21', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05838631823551', 465, '5 anos', 9740, 9749.3, '2015-07-24 10:18:51', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 466, '3 anos', 4700, 4344.12, '2010-12-17 10:09:13', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71049734804167', 467, '4 anos', 264, 2685.08, '2021-10-21 09:29:39', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93811878071863', 468, '4 anos', 6182, 2809.96, '2011-07-01 03:05:51', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65635754344929', 469, '2 anos', 4704, 4021.0, '2019-09-22 02:32:55', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13712249121189', 470, '4 anos', 1514, 7038.07, '2014-04-10 20:53:29', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25708993605087', 471, '4 anos', 3466, 8756.49, '2022-05-25 03:40:14', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 472, '2 anos', 1132, 6738.86, '2017-07-05 11:36:04', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78643037451526', 473, '2 anos', 7043, 3647.43, '2023-01-10 19:11:09', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24952438559550', 474, '4 anos', 8388, 6678.05, '2022-02-03 01:00:31', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66785520794893', 475, '2 anos', 7981, 6398.58, '2016-05-04 20:21:32', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53695282078294', 476, '5 anos', 1675, 5943.92, '2011-08-17 02:37:27', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61691356124910', 477, '5 anos', 847, 2091.62, '2018-01-11 22:07:05', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70199071376507', 478, '2 anos', 5281, 6211.36, '2012-02-20 09:00:46', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80517388143791', 479, '1 anos', 2295, 343.67, '2018-02-28 18:21:59', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31524367436035', 480, '3 anos', 5641, 8611.26, '2011-12-26 14:52:07', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90495219907304', 481, '1 anos', 9360, 5161.03, '2018-12-11 09:16:11', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01227583549097', 482, '3 anos', 7041, 355.59, '2014-07-31 06:47:52', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16984928040296', 483, '5 anos', 9038, 7046.99, '2008-02-13 12:09:42', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98609370108210', 484, '4 anos', 4626, 3720.36, '2008-10-10 13:24:44', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06868308679031', 485, '2 anos', 7627, 5552.58, '2017-12-20 03:46:05', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45622925307035', 486, '5 anos', 1299, 3047.35, '2008-10-07 01:13:50', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25136238673293', 487, '2 anos', 2848, 9850.21, '2020-05-13 23:09:58', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60649690785386', 488, '5 anos', 5171, 1580.86, '2016-08-21 10:39:00', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39718663537168', 489, '5 anos', 9735, 8884.69, '2019-06-13 02:48:03', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25136238673293', 490, '5 anos', 7942, 4516.24, '2016-04-19 17:19:51', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35973618694224', 491, '5 anos', 5640, 4580.48, '2016-11-26 01:31:15', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82946101516686', 492, '4 anos', 6648, 9800.93, '2019-07-13 12:12:24', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49331048053497', 493, '2 anos', 9661, 8426.54, '2013-08-28 09:35:16', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49331048053497', 494, '1 anos', 7184, 4547.97, '2009-03-31 20:01:15', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09629990597436', 495, '1 anos', 4387, 9580.24, '2013-03-22 13:15:21', 'Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08368779329563', 496, '3 anos', 1206, 7171.47, '2020-02-22 04:27:20', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87710277500631', 497, '4 anos', 3586, 2377.82, '2017-05-08 15:45:14', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38086945753488', 498, '1 anos', 4165, 5368.63, '2008-01-20 10:58:33', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('99745333931727', 499, '2 anos', 1240, 8468.41, '2009-12-08 21:42:24', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07902940356501', 500, '1 anos', 7479, 4323.1, '2012-11-06 18:38:50', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71049734804167', 501, '3 anos', 4545, 7057.43, '2018-09-27 09:45:03', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67045382125304', 502, '3 anos', 8256, 7603.76, '2021-01-22 05:55:03', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90495219907304', 503, '3 anos', 8211, 9425.23, '2020-05-02 17:23:57', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58050827026855', 504, '5 anos', 5106, 3044.22, '2022-08-27 13:10:13', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('72418572856806', 505, '2 anos', 8083, 3065.67, '2008-01-12 06:08:32', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58050827026855', 506, '5 anos', 7619, 1994.17, '2020-08-01 06:00:38', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90167235114776', 507, '5 anos', 5285, 246.16, '2017-11-07 16:55:01', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79544723245740', 508, '5 anos', 5206, 9377.73, '2019-09-27 11:14:05', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06277287100169', 509, '1 anos', 2836, 4454.8, '2014-11-15 16:29:25', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53656804209412', 510, '2 anos', 4172, 7397.19, '2022-11-23 11:48:45', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95519864206480', 511, '4 anos', 89, 8146.23, '2015-03-19 09:23:29', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57864079314455', 512, '5 anos', 9599, 7354.78, '2017-05-25 05:09:35', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09907024406368', 513, '5 anos', 2651, 1743.39, '2013-05-13 23:09:06', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47944747739660', 514, '3 anos', 1251, 4108.52, '2011-12-01 13:54:15', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70199071376507', 515, '1 anos', 4832, 7203.7, '2017-03-10 03:02:38', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31172043372359', 516, '1 anos', 797, 6815.19, '2017-05-22 08:31:53', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94062818657535', 517, '3 anos', 9796, 8731.64, '2023-12-25 16:40:04', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26975747792388', 518, '5 anos', 5609, 948.87, '2016-07-03 06:02:24', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82557151229736', 519, '2 anos', 4099, 9690.26, '2019-11-18 08:25:23', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98996050767313', 520, '1 anos', 4535, 9254.59, '2010-07-21 20:45:09', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34036077127222', 521, '5 anos', 6393, 4571.06, '2010-04-18 01:19:53', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25501058444726', 522, '5 anos', 2953, 7691.08, '2014-10-23 04:37:41', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31250229263825', 523, '2 anos', 3010, 4175.58, '2014-03-31 13:22:27', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13226509710000', 524, '5 anos', 1844, 9007.02, '2013-07-22 14:15:53', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08728697956326', 525, '5 anos', 5524, 581.73, '2018-08-09 06:16:44', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15563341264655', 526, '5 anos', 2982, 5515.17, '2009-11-29 00:46:12', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71049734804167', 527, '2 anos', 4453, 4913.81, '2009-10-20 10:41:15', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31864800611904', 528, '3 anos', 1318, 575.93, '2008-04-27 21:41:18', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34714441878188', 529, '5 anos', 6551, 6678.15, '2021-02-13 15:11:34', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70199071376507', 530, '3 anos', 6462, 9213.52, '2017-05-26 05:48:50', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06868308679031', 531, '4 anos', 3100, 9724.22, '2012-08-18 19:07:52', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89065962118018', 532, '2 anos', 5921, 8166.56, '2015-02-19 00:51:20', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56160391179660', 533, '2 anos', 4431, 5068.81, '2018-07-11 23:38:57', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91714729879810', 534, '5 anos', 3848, 4217.71, '2022-01-19 13:50:30', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('03300831514305', 535, '2 anos', 3359, 4447.41, '2021-05-13 20:31:29', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16908611482599', 536, '4 anos', 9655, 2764.7, '2023-11-05 09:47:09', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78191260532623', 537, '5 anos', 7546, 2261.2, '2011-04-19 12:54:36', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53211136593874', 538, '3 anos', 4023, 7339.13, '2012-05-01 10:59:26', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62832194571253', 539, '1 anos', 2071, 1420.93, '2011-06-03 13:12:40', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34229530770499', 540, '2 anos', 1111, 2709.83, '2019-10-07 08:38:50', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78643037451526', 541, '5 anos', 6339, 12.07, '2009-04-20 23:25:31', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('99745333931727', 542, '1 anos', 9171, 5112.26, '2020-10-01 10:16:59', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79538225436295', 543, '4 anos', 7999, 5504.67, '2021-04-21 21:58:40', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39480697547333', 544, '2 anos', 3448, 7396.01, '2021-06-11 04:51:39', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 545, '1 anos', 2005, 5351.8, '2018-06-21 13:43:54', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66785520794893', 546, '5 anos', 6933, 2096.34, '2012-06-12 01:37:51', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90167235114776', 547, '4 anos', 7255, 26.54, '2008-09-25 12:44:23', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49331048053497', 548, '5 anos', 4412, 3288.76, '2012-06-07 06:10:07', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18423660428412', 549, '3 anos', 4845, 4273.39, '2016-04-30 14:48:57', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95874926965001', 550, '5 anos', 7984, 3365.92, '2022-08-02 17:26:37', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06978638538186', 551, '4 anos', 895, 7353.33, '2010-06-12 13:39:14', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66090881888541', 552, '1 anos', 629, 4184.01, '2013-09-29 04:01:10', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04306242467363', 553, '5 anos', 43, 2687.68, '2010-03-09 10:53:36', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27331618479147', 554, '2 anos', 2141, 9534.91, '2013-09-01 21:16:37', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95519864206480', 555, '4 anos', 3877, 2679.74, '2008-04-13 10:48:37', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05107669365965', 556, '1 anos', 1499, 1294.72, '2021-08-26 05:43:11', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32720117170509', 557, '4 anos', 7157, 6028.62, '2020-04-19 05:29:41', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60519593676544', 558, '5 anos', 4651, 8161.88, '2017-09-23 19:46:35', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84388135925252', 559, '4 anos', 8305, 4737.89, '2019-11-11 08:50:12', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58050827026855', 560, '2 anos', 8645, 633.43, '2021-10-01 21:29:51', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 561, '5 anos', 8723, 854.18, '2009-08-26 19:11:31', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16632174555357', 562, '1 anos', 5039, 2884.15, '2017-07-23 14:38:00', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31864800611904', 563, '2 anos', 9462, 1016.84, '2010-11-25 07:11:56', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81117613140060', 564, '3 anos', 4626, 2089.26, '2012-03-26 02:07:52', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00640584369556', 565, '1 anos', 4736, 404.86, '2020-11-11 19:49:57', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11411436275872', 566, '5 anos', 9667, 83.29, '2010-07-19 20:17:04', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78191260532623', 567, '5 anos', 6612, 3466.53, '2011-05-16 08:24:53', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01227583549097', 568, '1 anos', 9360, 1387.69, '2021-01-03 08:15:45', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77628213336390', 569, '3 anos', 4441, 9077.0, '2009-08-17 03:58:06', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05838631823551', 570, '3 anos', 3280, 2667.54, '2009-07-26 07:13:10', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91714729879810', 571, '5 anos', 8018, 6702.21, '2021-12-22 04:18:02', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25501058444726', 572, '1 anos', 1166, 3550.33, '2009-09-01 19:22:15', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67934065677686', 573, '3 anos', 8830, 9266.03, '2008-09-08 11:13:18', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 574, '4 anos', 3931, 4382.79, '2014-05-15 02:02:04', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39480697547333', 575, '3 anos', 7070, 6594.18, '2008-10-08 02:47:41', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49664225583690', 576, '4 anos', 7968, 8027.45, '2018-01-25 18:49:04', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26975747792388', 577, '5 anos', 7144, 5129.13, '2019-03-11 22:48:20', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81117613140060', 578, '1 anos', 3274, 5986.79, '2008-08-20 02:52:52', 'Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('03300831514305', 579, '2 anos', 3709, 3858.41, '2020-10-31 22:34:07', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01429606225085', 580, '2 anos', 5019, 8699.7, '2012-06-27 03:19:09', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06978638538186', 581, '4 anos', 9464, 921.55, '2012-10-18 17:32:18', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31250229263825', 582, '5 anos', 7719, 4234.95, '2020-03-23 23:59:15', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28214394881575', 583, '4 anos', 2947, 8557.55, '2021-11-19 02:03:12', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 584, '3 anos', 9222, 8347.81, '2015-11-13 19:07:02', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53695282078294', 585, '4 anos', 7597, 1167.0, '2017-09-03 13:52:14', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07902940356501', 586, '5 anos', 1887, 633.8, '2023-09-01 04:06:03', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31250229263825', 587, '3 anos', 9623, 3263.81, '2014-10-04 15:14:52', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34482074015567', 588, '4 anos', 1085, 3767.06, '2010-07-01 11:06:57', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68587344400884', 589, '3 anos', 5252, 6392.31, '2021-06-23 21:32:40', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46629629377423', 590, '2 anos', 7084, 1442.12, '2021-02-02 05:20:10', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01706954671372', 591, '1 anos', 1998, 9802.1, '2016-12-09 11:30:49', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23198278139290', 592, '4 anos', 7533, 6198.59, '2010-04-09 21:31:17', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19292492979759', 593, '4 anos', 4371, 280.11, '2023-06-05 21:11:29', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94714815536054', 594, '1 anos', 7917, 2243.87, '2013-09-30 23:12:51', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00036904191354', 595, '4 anos', 9643, 5222.58, '2021-08-20 22:43:52', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66785520794893', 596, '3 anos', 1537, 7507.31, '2008-03-22 17:47:37', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06978638538186', 597, '1 anos', 6011, 7649.96, '2023-01-03 05:35:49', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79538225436295', 598, '2 anos', 6597, 6604.21, '2023-04-16 17:34:50', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91714729879810', 599, '4 anos', 8369, 9745.69, '2015-11-02 14:48:08', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98996050767313', 600, '2 anos', 7044, 413.91, '2012-06-25 18:01:54', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23198278139290', 601, '2 anos', 9658, 3165.41, '2016-09-28 12:31:27', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24813106449624', 602, '4 anos', 8685, 982.68, '2017-09-27 22:16:14', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96028811836805', 603, '5 anos', 8895, 3000.31, '2011-05-24 10:20:49', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80903876671724', 604, '3 anos', 2241, 4281.44, '2015-07-12 18:52:58', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20569726407371', 605, '1 anos', 5540, 1627.6, '2019-03-09 09:58:45', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49692318453114', 606, '5 anos', 6549, 8071.88, '2018-06-26 14:56:06', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78643037451526', 607, '2 anos', 3519, 3956.75, '2016-04-06 04:48:36', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08282096324540', 608, '3 anos', 8097, 3580.0, '2009-12-04 18:38:46', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80517388143791', 609, '3 anos', 3350, 4506.08, '2017-05-12 21:47:35', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80517388143791', 610, '4 anos', 7603, 9552.5, '2008-10-03 08:08:33', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 611, '4 anos', 2104, 7245.46, '2021-02-13 21:54:42', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22643039533154', 612, '3 anos', 2921, 166.11, '2012-03-31 03:54:56', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 613, '1 anos', 4041, 3187.0, '2009-04-04 23:46:27', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20821694675256', 614, '5 anos', 3042, 2917.87, '2023-11-13 15:49:37', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('52198700930318', 615, '4 anos', 3229, 4143.96, '2012-02-23 11:27:04', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26728923764754', 616, '3 anos', 1536, 5626.99, '2019-01-24 20:14:21', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87482623307630', 617, '3 anos', 4413, 5578.42, '2010-03-02 08:01:24', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35973618694224', 618, '3 anos', 6477, 2086.54, '2022-12-28 01:03:28', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65635754344929', 619, '4 anos', 8494, 3492.06, '2020-07-10 22:03:05', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31524367436035', 620, '2 anos', 1936, 4705.48, '2008-12-08 17:09:07', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49588582038903', 621, '2 anos', 192, 8029.42, '2023-12-11 20:43:09', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81443648925064', 622, '2 anos', 2071, 5131.32, '2015-04-25 11:03:45', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38086945753488', 623, '5 anos', 2712, 1854.22, '2019-06-26 22:29:39', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34482074015567', 624, '3 anos', 4004, 140.04, '2014-09-18 12:44:43', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61513450714942', 625, '3 anos', 5598, 1457.87, '2023-03-18 17:15:48', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08350053761517', 626, '4 anos', 7354, 8333.32, '2015-03-28 01:09:47', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47780150671900', 627, '3 anos', 9948, 5835.83, '2015-10-19 11:03:12', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97198984307237', 628, '5 anos', 9006, 8727.19, '2012-02-02 20:49:12', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 629, '5 anos', 2967, 9064.94, '2010-12-03 21:59:17', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91809679529558', 630, '2 anos', 3664, 9527.29, '2023-12-20 02:31:36', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47780150671900', 631, '5 anos', 6875, 2491.52, '2018-11-03 19:12:48', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32874606494024', 632, '3 anos', 3526, 610.61, '2009-01-07 06:43:33', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 633, '1 anos', 3443, 9891.18, '2018-08-23 08:19:03', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06277287100169', 634, '5 anos', 2449, 3377.39, '2021-09-21 10:49:18', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38651897534685', 635, '4 anos', 434, 1806.87, '2010-11-30 20:45:59', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64975097259523', 636, '1 anos', 6453, 2372.91, '2013-02-23 05:35:31', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58991621624880', 637, '2 anos', 9799, 9939.49, '2016-08-20 07:41:10', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44393460927962', 638, '5 anos', 1988, 8490.06, '2019-08-15 05:39:18', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71111803371951', 639, '4 anos', 402, 109.74, '2017-04-07 10:18:57', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('72418572856806', 640, '4 anos', 5864, 1401.5, '2015-06-04 19:15:15', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87853887057098', 641, '5 anos', 7771, 8127.03, '2011-03-09 23:40:53', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90495219907304', 642, '2 anos', 5601, 62.4, '2021-01-21 09:25:01', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62840170169521', 643, '3 anos', 8875, 136.13, '2020-10-20 21:56:50', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90101893342255', 644, '2 anos', 5918, 2695.76, '2022-05-07 12:25:07', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75085678419891', 645, '1 anos', 4250, 27.51, '2019-04-08 05:00:34', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01429606225085', 646, '2 anos', 2114, 5158.69, '2023-10-23 22:44:09', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45970314014457', 647, '3 anos', 8992, 9737.8, '2014-09-27 13:05:39', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93398310125736', 648, '4 anos', 2442, 1891.82, '2018-10-30 20:17:57', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05107669365965', 649, '2 anos', 7560, 9869.72, '2023-03-04 02:29:33', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49462358289146', 650, '5 anos', 9283, 4607.54, '2023-07-13 08:29:03', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13839586951786', 651, '2 anos', 6849, 4185.64, '2022-04-04 20:25:56', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01706954671372', 652, '5 anos', 2630, 2666.44, '2022-05-28 07:00:46', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45777137073423', 653, '3 anos', 42, 4666.32, '2014-09-24 22:53:31', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26029854489794', 654, '2 anos', 7565, 1642.54, '2022-07-06 17:24:24', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24952438559550', 655, '1 anos', 2607, 2263.75, '2022-12-04 20:39:09', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09907024406368', 656, '2 anos', 7854, 4846.07, '2020-07-11 18:18:56', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47780150671900', 657, '3 anos', 8000, 6154.9, '2011-04-02 06:15:11', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80517388143791', 658, '4 anos', 1544, 6241.31, '2022-02-12 18:30:12', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46629629377423', 659, '1 anos', 3183, 1273.31, '2020-12-28 13:53:31', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45686168008854', 660, '5 anos', 2751, 5844.06, '2011-01-25 01:20:12', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
-
-Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('03300831514305', 661, '2 anos', 7572, 2739.16, '2012-02-25 04:18:49', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45686168008854', 662, '5 anos', 3738, 3529.79, '2011-12-20 06:01:46', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32874606494024', 663, '3 anos', 5721, 4268.2, '2014-06-30 23:59:32', 'Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08282096324540', 664, '4 anos', 5747, 6543.54, '2013-05-02 14:19:28', 'Fusce consequat. Nulla nisl. Nunc nisl.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15034767639037', 32, '5 anos', 3463, 559.24, '2016-09-09 09:18:28', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41981555843254', 33, '5 anos', 1043, 9325.68, '2013-02-11 14:41:22', 'Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('99745333931727', 665, '1 anos', 8913, 7850.61, '2009-03-13 18:28:19', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65635754344929', 666, '5 anos', 590, 2315.71, '2010-11-20 22:17:37', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('99524668496008', 667, '3 anos', 5374, 7780.85, '2009-04-02 23:35:10', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26029746194470', 668, '2 anos', 6575, 1991.23, '2023-08-31 00:29:53', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08728697956326', 669, '1 anos', 6951, 7805.56, '2022-09-07 19:09:48', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11411436275872', 670, '1 anos', 6694, 4754.84, '2015-04-13 07:05:20', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13226509710000', 671, '5 anos', 9391, 6961.06, '2014-12-24 23:22:09', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 672, '2 anos', 4608, 7518.64, '2010-09-01 19:52:04', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44393460927962', 673, '3 anos', 9967, 8270.84, '2014-10-25 20:22:16', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30507102237432', 674, '5 anos', 3202, 3709.12, '2018-03-13 18:35:38', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53211136593874', 675, '1 anos', 660, 2909.01, '2023-04-24 21:13:02', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 676, '4 anos', 8071, 8508.25, '2022-01-29 18:54:59', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16632174555357', 677, '4 anos', 3108, 8722.33, '2023-12-10 11:59:57', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49462358289146', 678, '1 anos', 3530, 1566.47, '2022-04-09 15:30:20', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32874606494024', 679, '3 anos', 8568, 8662.8, '2010-11-22 03:28:51', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31250229263825', 680, '4 anos', 8707, 8327.01, '2016-05-30 17:43:56', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38456032927056', 681, '2 anos', 5117, 3930.66, '2010-02-27 21:24:50', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25136238673293', 682, '1 anos', 5140, 7226.53, '2021-07-24 00:31:20', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01706954671372', 683, '5 anos', 8873, 3790.88, '2022-04-03 13:32:40', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05838631823551', 684, '4 anos', 1986, 2792.71, '2019-08-05 03:27:35', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05107669365965', 685, '5 anos', 2577, 5269.22, '2011-06-22 12:15:53', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('80903876671724', 686, '3 anos', 4010, 6757.35, '2013-06-06 16:34:33', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27940603865982', 687, '3 anos', 4686, 6203.28, '2019-07-19 01:06:52', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68632986305026', 688, '3 anos', 7252, 8565.74, '2014-08-31 02:16:54', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34482074015567', 689, '5 anos', 1833, 9750.19, '2016-06-11 01:15:21', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04306242467363', 690, '1 anos', 4331, 1724.15, '2012-11-06 11:12:45', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97198984307237', 691, '1 anos', 938, 7116.53, '2018-09-01 17:40:43', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60649690785386', 692, '2 anos', 5809, 9530.07, '2009-06-25 05:49:28', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06868308679031', 693, '3 anos', 4561, 5551.64, '2008-02-11 14:48:48', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59368832888120', 694, '4 anos', 8808, 5748.5, '2016-04-07 21:36:07', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60649690785386', 695, '5 anos', 8436, 2797.86, '2020-09-14 21:38:19', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38456032927056', 696, '3 anos', 6548, 8579.97, '2012-01-20 20:47:47', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71111803371951', 697, '2 anos', 5465, 2239.14, '2021-09-21 02:39:36', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35973618694224', 698, '3 anos', 7113, 3761.36, '2023-02-10 03:35:18', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75085678419891', 699, '4 anos', 3510, 663.51, '2014-06-22 23:20:29', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38651897534685', 700, '4 anos', 3225, 6797.77, '2011-02-16 14:09:11', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76675613844881', 701, '5 anos', 6898, 7001.37, '2009-05-31 03:03:41', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26029746194470', 702, '3 anos', 8136, 7373.22, '2022-10-14 09:16:58', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00640584369556', 703, '1 anos', 5828, 9248.91, '2020-01-19 03:20:20', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94062818657535', 704, '1 anos', 6333, 5629.58, '2010-08-13 01:55:24', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16182193254144', 705, '1 anos', 9605, 8331.01, '2012-07-23 11:53:43', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25708993605087', 706, '2 anos', 6651, 6056.26, '2017-11-21 14:32:33', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06868308679031', 707, '3 anos', 6510, 3679.23, '2019-07-05 10:44:44', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 708, '3 anos', 4315, 130.87, '2008-02-09 02:23:29', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85106660826815', 709, '5 anos', 6728, 8801.38, '2015-06-05 19:58:14', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93811878071863', 710, '1 anos', 3915, 6404.21, '2020-08-09 19:22:37', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79544723245740', 711, '5 anos', 5763, 148.36, '2010-09-29 19:26:19', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62840170169521', 712, '1 anos', 6830, 9446.05, '2022-07-27 12:52:55', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39796039142836', 713, '5 anos', 1999, 4734.4, '2019-01-19 08:16:12', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88576988071958', 714, '1 anos', 6615, 9680.67, '2009-09-01 11:25:36', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24952438559550', 715, '5 anos', 1029, 1928.51, '2021-09-26 22:30:05', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49331048053497', 716, '5 anos', 3092, 4995.48, '2021-03-12 18:38:47', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22958924438847', 717, '3 anos', 6932, 111.8, '2010-09-30 16:49:02', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77628213336390', 718, '1 anos', 3544, 4292.41, '2008-02-29 19:53:22', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53211136593874', 719, '5 anos', 1442, 8751.68, '2021-09-13 17:01:18', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93398310125736', 720, '1 anos', 4881, 668.72, '2023-07-27 04:19:10', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34714441878188', 721, '1 anos', 5746, 5472.35, '2022-01-21 19:06:53', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45970314014457', 722, '2 anos', 741, 7899.82, '2012-01-18 10:29:13', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44393460927962', 723, '2 anos', 8695, 2645.98, '2016-03-16 05:20:45', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82946101516686', 724, '4 anos', 1304, 3016.37, '2016-05-12 22:03:40', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34229530770499', 725, '1 anos', 4445, 3308.66, '2012-07-29 10:37:29', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06868308679031', 726, '1 anos', 9113, 9752.27, '2013-11-06 02:27:01', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49692318453114', 727, '3 anos', 3616, 5402.02, '2013-05-27 16:42:58', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47944747739660', 728, '2 anos', 5387, 9283.81, '2014-08-11 13:53:21', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08368779329563', 729, '5 anos', 9100, 1929.38, '2018-09-20 06:48:48', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30507102237432', 730, '5 anos', 1830, 8390.17, '2019-12-14 00:17:57', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94714815536054', 731, '2 anos', 8754, 9146.98, '2017-09-29 12:40:10', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59830377741206', 732, '3 anos', 25, 9972.34, '2009-01-17 12:20:18', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 733, '2 anos', 9291, 6011.78, '2019-06-29 18:59:41', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32874606494024', 734, '3 anos', 8126, 2364.26, '2017-09-02 02:37:33', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53656804209412', 735, '1 anos', 1324, 2662.25, '2017-10-16 05:26:48', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16984928040296', 736, '5 anos', 4630, 8356.26, '2011-11-07 02:11:39', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87710277500631', 737, '5 anos', 4681, 9072.33, '2022-01-01 13:34:54', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45622925307035', 738, '1 anos', 7584, 1699.13, '2012-08-13 04:31:53', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67554234193019', 739, '4 anos', 7316, 8323.06, '2021-10-17 16:19:32', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85105703159166', 740, '3 anos', 4287, 3329.03, '2013-09-16 15:12:00', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68258182383723', 741, '1 anos', 2006, 2579.64, '2011-06-22 01:55:23', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13839586951786', 742, '4 anos', 7678, 3299.32, '2010-07-08 04:12:57', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81166779131971', 743, '1 anos', 8937, 4037.85, '2022-11-23 18:48:08', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87853887057098', 744, '4 anos', 7465, 7735.48, '2008-08-01 20:01:48', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09208094474709', 745, '3 anos', 9440, 8683.48, '2016-09-30 12:28:47', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95874926965001', 746, '1 anos', 5741, 2025.69, '2013-09-22 18:20:52', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11411436275872', 747, '2 anos', 4326, 6412.39, '2022-07-16 12:28:38', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75085678419891', 748, '3 anos', 5571, 8136.84, '2020-11-13 13:03:13', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32502420169139', 749, '1 anos', 7628, 9262.66, '2020-06-29 06:04:28', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01706954671372', 750, '1 anos', 3791, 8841.34, '2019-05-18 01:24:16', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31172043372359', 751, '3 anos', 4149, 7605.8, '2019-07-17 04:20:53', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 752, '3 anos', 9708, 4459.32, '2021-09-04 14:29:44', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('99524668496008', 753, '2 anos', 4459, 756.58, '2012-03-21 12:49:14', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79544723245740', 754, '4 anos', 3940, 4268.71, '2010-01-31 19:18:13', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09629990597436', 755, '4 anos', 1601, 407.31, '2018-06-26 20:14:30', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08350053761517', 756, '3 anos', 4723, 1718.1, '2022-08-02 13:57:19', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34807336800165', 757, '2 anos', 5911, 8071.1, '2010-01-14 17:30:12', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15563341264655', 758, '5 anos', 4981, 4310.08, '2012-10-28 00:27:27', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11411436275872', 759, '5 anos', 3349, 2385.97, '2015-01-19 19:38:10', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08723275156053', 760, '4 anos', 5081, 6760.33, '2023-10-18 01:44:16', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85740613470472', 761, '5 anos', 866, 8299.42, '2009-04-20 00:00:28', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28214394881575', 762, '3 anos', 75, 5767.02, '2013-07-03 11:29:53', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57864079314455', 763, '4 anos', 1746, 8881.08, '2018-01-30 11:48:15', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90167235114776', 764, '4 anos', 3994, 5982.58, '2013-10-08 17:06:19', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23198278139290', 765, '3 anos', 9596, 2403.52, '2015-10-09 21:47:47', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65869138718148', 766, '5 anos', 6451, 6205.76, '2017-12-11 10:19:31', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66141554631090', 767, '1 anos', 4091, 5767.59, '2021-02-24 02:20:16', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 768, '3 anos', 8289, 7208.78, '2014-11-02 18:57:45', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25136238673293', 769, '1 anos', 6253, 4259.48, '2019-01-23 21:04:23', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75085678419891', 770, '4 anos', 1444, 8103.7, '2010-04-26 08:58:43', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25708993605087', 771, '2 anos', 2215, 2364.1, '2016-07-18 08:10:39', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64975097259523', 772, '1 anos', 5829, 3050.65, '2023-09-21 01:39:08', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
-
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70199071376507', 773, '4 anos', 4711, 6034.65, '2016-05-20 06:51:49', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 774, '4 anos', 1954, 3015.36, '2017-01-15 02:53:31', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34807336800165', 775, '1 anos', 3066, 4920.52, '2010-06-27 20:41:37', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56160391179660', 776, '2 anos', 8260, 4846.16, '2019-03-28 01:53:58', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39796039142836', 777, '2 anos', 1971, 4880.1, '2015-05-02 17:11:29', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08728697956326', 778, '4 anos', 621, 9375.39, '2008-05-14 12:46:28', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('03300831514305', 779, '2 anos', 8844, 1221.96, '2016-05-08 03:05:03', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64975097259523', 780, '2 anos', 8858, 4049.78, '2023-12-08 06:54:14', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06868308679031', 781, '5 anos', 233, 6842.06, '2012-12-21 03:18:14', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08282096324540', 782, '5 anos', 8081, 1771.05, '2012-03-02 18:06:15', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27331618479147', 783, '1 anos', 3649, 232.1, '2019-03-04 14:35:55', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90794390984478', 784, '3 anos', 7111, 8038.09, '2015-12-16 12:07:50', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30507102237432', 785, '1 anos', 3350, 8731.51, '2017-02-08 14:00:19', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67045382125304', 786, '5 anos', 3702, 374.27, '2015-02-11 02:31:39', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78514088976125', 787, '3 anos', 6046, 9872.76, '2008-12-09 11:24:39', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88576988071958', 788, '4 anos', 3127, 5454.25, '2013-06-08 12:15:51', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84388135925252', 789, '5 anos', 6415, 5507.2, '2020-07-19 12:02:16', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78510469695477', 790, '4 anos', 7806, 9587.47, '2011-04-10 11:57:30', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13712249121189', 791, '5 anos', 8198, 4111.81, '2010-12-22 02:40:59', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08350053761517', 792, '3 anos', 2597, 7701.9, '2009-07-11 10:30:57', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00036904191354', 793, '4 anos', 1938, 9862.37, '2022-03-14 05:43:24', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67934065677686', 794, '2 anos', 4572, 8596.77, '2010-10-10 12:25:18', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28935890970693', 795, '3 anos', 556, 6692.33, '2020-07-29 21:55:13', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01429606225085', 796, '3 anos', 4155, 175.27, '2014-05-16 01:47:55', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13226509710000', 797, '4 anos', 6792, 8652.06, '2018-01-19 20:32:51', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 798, '2 anos', 7758, 9015.45, '2015-08-12 07:21:40', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81117613140060', 799, '2 anos', 695, 3857.73, '2009-09-19 02:54:43', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 800, '5 anos', 9650, 3804.81, '2020-05-19 16:36:11', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05838631823551', 801, '5 anos', 8419, 8732.53, '2020-11-26 09:21:28', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81763852989095', 802, '2 anos', 1266, 8567.74, '2011-05-20 03:51:41', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90167235114776', 803, '5 anos', 7039, 3769.18, '2010-07-29 23:54:37', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45622925307035', 804, '1 anos', 8813, 3968.53, '2023-10-25 14:53:00', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67934065677686', 805, '4 anos', 9208, 8097.04, '2015-11-20 11:06:38', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76675613844881', 806, '2 anos', 8893, 9513.26, '2017-04-17 15:24:33', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78510469695477', 807, '5 anos', 8885, 1356.9, '2017-09-03 17:29:43', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16984928040296', 808, '5 anos', 634, 9440.78, '2021-01-14 22:39:08', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56160391179660', 809, '3 anos', 617, 3946.04, '2019-08-14 01:46:20', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26960317847796', 810, '1 anos', 9955, 732.03, '2021-01-16 23:34:27', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11411436275872', 811, '1 anos', 7261, 1698.55, '2022-10-06 12:29:50', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96028811836805', 812, '3 anos', 2527, 1281.69, '2022-05-16 02:29:16', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68278212138648', 813, '3 anos', 7459, 2454.23, '2017-12-20 23:05:43', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47944747739660', 814, '3 anos', 4494, 2233.23, '2013-10-20 17:26:42', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66090881888541', 815, '4 anos', 5054, 2879.81, '2012-11-29 23:45:26', 'Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85106660826815', 816, '5 anos', 7052, 1441.98, '2022-07-22 16:05:23', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39718663537168', 817, '3 anos', 7046, 8671.14, '2008-10-30 14:21:35', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60649690785386', 818, '1 anos', 8535, 688.33, '2010-11-27 20:45:18', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49664225583690', 819, '1 anos', 6748, 6638.17, '2021-03-06 17:53:19', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08282096324540', 820, '3 anos', 9735, 2765.79, '2015-03-23 17:36:31', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77469422591167', 821, '4 anos', 2853, 6430.45, '2008-01-19 07:40:43', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98996050767313', 822, '1 anos', 7737, 3197.19, '2017-01-02 03:44:41', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38997128558815', 823, '2 anos', 2343, 4690.76, '2019-03-29 06:45:57', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77469422591167', 824, '5 anos', 2099, 3524.08, '2012-03-20 02:56:13', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26029854489794', 825, '2 anos', 4642, 526.18, '2011-09-27 00:22:26', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95519864206480', 826, '3 anos', 5142, 8251.56, '2009-08-31 05:54:56', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34482074015567', 827, '3 anos', 8817, 3652.36, '2020-05-16 17:58:05', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58745955662709', 828, '5 anos', 3602, 9468.88, '2016-11-24 06:26:14', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78643037451526', 829, '3 anos', 457, 2516.34, '2014-05-24 22:12:37', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89065962118018', 830, '2 anos', 451, 1297.6, '2021-06-08 02:34:03', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16908611482599', 831, '4 anos', 3200, 3274.5, '2023-02-04 05:04:15', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32502420169139', 832, '4 anos', 9765, 7648.42, '2014-10-31 13:23:40', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58991621624880', 833, '3 anos', 1239, 2332.03, '2008-02-16 00:05:52', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53656804209412', 834, '5 anos', 5965, 1840.49, '2015-07-04 16:24:24', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81763852989095', 835, '1 anos', 4263, 3153.53, '2008-02-11 07:40:44', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87710277500631', 836, '1 anos', 5084, 2942.17, '2016-03-27 07:47:29', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90101893342255', 837, '2 anos', 2026, 3694.6, '2022-10-07 10:16:22', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91714729879810', 838, '5 anos', 5605, 2060.29, '2011-09-14 07:47:56', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34036077127222', 839, '3 anos', 3642, 9732.13, '2013-11-23 03:30:11', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62422136217445', 840, '2 anos', 5638, 2571.29, '2022-04-27 01:53:40', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19292492979759', 841, '1 anos', 843, 7814.89, '2011-07-04 13:27:44', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97198984307237', 842, '2 anos', 5828, 1571.55, '2009-02-13 19:12:22', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19888367709268', 843, '3 anos', 5614, 3138.64, '2013-05-04 12:09:32', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34229530770499', 844, '5 anos', 5318, 3415.43, '2017-07-27 13:42:01', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26975747792388', 845, '4 anos', 3667, 2772.46, '2017-05-08 12:22:02', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 846, '5 anos', 1833, 1895.84, '2016-10-24 07:20:27', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76675613844881', 847, '5 anos', 7164, 2134.62, '2012-05-11 16:36:18', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08817814429254', 848, '1 anos', 971, 5874.56, '2010-11-22 04:21:16', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34482074015567', 849, '4 anos', 9350, 1856.85, '2013-10-15 05:17:50', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28214394881575', 850, '2 anos', 2169, 7021.02, '2016-01-27 21:27:49', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85106660826815', 851, '5 anos', 695, 6811.79, '2016-04-27 02:36:19', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49664225583690', 852, '4 anos', 6671, 7151.27, '2011-08-19 21:02:50', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45970314014457', 853, '3 anos', 9478, 6166.83, '2008-10-21 23:03:22', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97198984307237', 854, '1 anos', 8834, 7725.16, '2016-09-10 14:10:59', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38086945753488', 855, '1 anos', 5548, 303.03, '2023-11-11 15:13:04', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
-
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87482623307630', 856, '5 anos', 4563, 3013.6, '2017-03-07 02:17:56', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87853887057098', 857, '4 anos', 855, 9325.1, '2014-11-25 22:46:11', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
-
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79538225436295', 858, '4 anos', 3130, 5364.44, '2010-07-24 10:16:49', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20355787650419', 859, '1 anos', 5530, 1779.47, '2023-10-11 04:51:53', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94105954832876', 860, '2 anos', 4729, 5029.43, '2018-07-05 06:19:27', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('73786792957956', 861, '3 anos', 2512, 3705.18, '2019-08-04 08:43:46', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85740613470472', 862, '2 anos', 5248, 6303.88, '2023-07-26 17:27:42', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19888367709268', 863, '4 anos', 2188, 7396.06, '2011-04-29 15:21:18', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 34, '5 anos', 3707, 4074.41, '2023-10-05 17:22:28', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13712249121189', 864, '1 anos', 2649, 2833.06, '2015-09-21 16:21:34', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 35, '5 anos', 2780, 6384.51, '2019-06-24 11:53:53', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95605416387886', 36, '1 anos', 2376, 1098.01, '2008-11-18 15:15:00', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34229530770499', 865, '1 anos', 1593, 6270.37, '2009-04-24 05:17:46', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31250229263825', 866, '4 anos', 70, 8515.02, '2011-02-18 23:53:20', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71111803371951', 867, '2 anos', 2787, 4083.96, '2019-12-29 23:18:57', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98751650170902', 868, '4 anos', 2670, 3924.23, '2008-04-12 09:43:29', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62840170169521', 869, '3 anos', 501, 9950.5, '2018-11-12 21:16:10', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87594783132419', 870, '2 anos', 9864, 4274.79, '2022-08-04 15:25:56', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08723275156053', 871, '4 anos', 1396, 8601.32, '2013-10-29 05:06:52', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45777137073423', 872, '2 anos', 4205, 2957.12, '2011-01-03 17:22:58', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 873, '5 anos', 6539, 4554.63, '2015-02-28 20:51:01', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19888367709268', 874, '4 anos', 3328, 5762.55, '2012-11-14 07:22:04', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01706954671372', 875, '1 anos', 2358, 7928.0, '2019-07-16 05:45:24', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47780150671900', 876, '4 anos', 8292, 682.01, '2023-07-09 16:50:57', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
-
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49692318453114', 877, '1 anos', 6482, 4826.97, '2014-09-11 19:48:29', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00036904191354', 878, '1 anos', 1256, 7985.71, '2014-09-03 11:39:34', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68632986305026', 879, '2 anos', 9662, 7419.75, '2009-06-26 23:25:10', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13839586951786', 880, '2 anos', 7741, 6467.33, '2012-03-10 06:24:56', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
-
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 881, '3 anos', 6305, 7224.46, '2014-10-14 18:30:15', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
-
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34036077127222', 882, '5 anos', 6012, 1142.34, '2017-01-28 06:59:13', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26029746194470', 883, '4 anos', 9892, 6000.35, '2021-04-09 10:25:06', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
-
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('09629990597436', 884, '5 anos', 9968, 6263.15, '2019-05-24 09:04:14', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26728923764754', 885, '2 anos', 9806, 6064.8, '2020-05-01 17:42:56', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93398310125736', 886, '4 anos', 4139, 1449.65, '2016-07-14 21:34:58', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24952438559550', 887, '2 anos', 2220, 8009.69, '2011-05-16 22:00:45', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05838631823551', 888, '3 anos', 926, 8379.66, '2015-01-04 06:42:22', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95519864206480', 889, '4 anos', 2568, 1540.78, '2013-07-04 05:21:45', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79538225436295', 890, '2 anos', 589, 9447.85, '2015-05-10 16:16:45', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95874926965001', 891, '1 anos', 1301, 2684.84, '2015-06-23 05:43:02', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47944747739660', 892, '4 anos', 9669, 8420.61, '2018-12-12 11:34:23', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26029854489794', 893, '1 anos', 4952, 3945.35, '2016-11-24 02:56:04', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81763852989095', 894, '1 anos', 9856, 9986.84, '2010-06-19 20:40:59', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59368832888120', 895, '4 anos', 7759, 6219.12, '2010-05-18 07:28:35', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78643037451526', 896, '3 anos', 2362, 7126.16, '2015-10-13 13:32:36', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20569726407371', 897, '3 anos', 9652, 1738.35, '2023-04-01 19:10:51', 'Fusce consequat. Nulla nisl. Nunc nisl.
-
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41391569946950', 898, '5 anos', 5346, 5183.49, '2011-10-12 15:19:33', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85105703159166', 899, '4 anos', 8434, 4290.41, '2021-03-08 00:11:26', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75199641178217', 900, '5 anos', 4485, 354.62, '2011-12-16 02:26:00', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
-
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49462358289146', 901, '5 anos', 2521, 2899.62, '2020-05-29 13:48:17', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39796039142836', 902, '3 anos', 6786, 5977.1, '2010-02-13 10:32:06', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 903, '1 anos', 6575, 8721.77, '2017-01-04 12:46:57', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66090881888541', 904, '1 anos', 551, 7405.02, '2019-10-14 06:31:10', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90101893342255', 905, '1 anos', 357, 9892.48, '2023-12-07 00:26:51', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20821694675256', 906, '3 anos', 2306, 1007.91, '2018-08-04 04:35:53', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08723275156053', 907, '4 anos', 1977, 4027.64, '2008-06-14 08:31:11', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
-
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13712249121189', 908, '4 anos', 7077, 7903.69, '2021-12-08 23:23:26', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
-
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75733540505705', 909, '5 anos', 9991, 3662.71, '2015-05-01 05:15:27', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98751650170902', 910, '3 anos', 305, 8575.3, '2010-09-11 20:48:44', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71375229654740', 911, '2 anos', 5335, 9466.8, '2008-07-19 16:03:22', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53211136593874', 912, '4 anos', 4013, 6693.07, '2012-08-31 02:03:33', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34807336800165', 913, '4 anos', 6014, 8252.84, '2010-09-24 13:40:34', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71010371545821', 914, '1 anos', 2664, 2290.0, '2022-06-16 18:26:21', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23198278139290', 915, '1 anos', 5037, 2586.07, '2015-06-05 14:32:22', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60519593676544', 916, '1 anos', 807, 7896.58, '2009-06-05 19:08:26', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06978638538186', 917, '3 anos', 7717, 4913.89, '2009-11-09 07:16:00', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
-
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38456032927056', 918, '1 anos', 8523, 289.26, '2010-11-10 03:49:51', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23198278139290', 919, '4 anos', 8583, 3774.92, '2012-10-03 16:41:51', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26728923764754', 920, '1 anos', 317, 4975.35, '2022-04-26 08:10:30', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71111803371951', 921, '2 anos', 5983, 2146.83, '2020-10-19 20:26:57', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89065962118018', 922, '2 anos', 4577, 6569.76, '2017-12-09 08:59:09', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
-
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
-
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01706954671372', 923, '3 anos', 6175, 2277.03, '2023-10-09 12:25:49', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26975747792388', 924, '2 anos', 143, 2269.39, '2015-07-12 15:14:28', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98609370108210', 925, '1 anos', 6018, 2579.43, '2010-06-04 10:08:19', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08723275156053', 926, '4 anos', 5614, 8359.37, '2020-07-24 12:07:39', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20355787650419', 927, '4 anos', 5377, 7496.46, '2009-10-29 17:02:13', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31172043372359', 928, '3 anos', 1422, 3172.34, '2021-08-03 10:48:01', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28935890970693', 929, '3 anos', 1223, 7426.02, '2013-08-07 09:33:17', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45622925307035', 930, '5 anos', 7307, 3771.09, '2014-11-01 02:05:41', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22643039533154', 931, '3 anos', 5150, 7823.47, '2017-02-15 15:06:17', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 932, '5 anos', 4144, 7233.08, '2017-06-07 20:15:56', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61691356124910', 933, '4 anos', 6656, 7363.44, '2022-12-06 05:41:35', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62840170169521', 934, '1 anos', 9732, 5435.65, '2011-07-19 04:51:08', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
-
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06978638538186', 935, '1 anos', 7756, 2316.73, '2019-11-23 03:19:11', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58745955662709', 936, '5 anos', 161, 2861.4, '2010-02-01 23:35:13', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42144614662726', 937, '2 anos', 657, 5432.9, '2022-01-29 11:10:17', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
-
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
-
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49588582038903', 938, '2 anos', 8196, 6115.67, '2015-07-16 20:24:25', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45686168008854', 939, '2 anos', 5416, 5983.35, '2009-02-26 04:36:47', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
-
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70199071376507', 940, '3 anos', 304, 231.59, '2013-05-11 13:59:11', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13576772203144', 941, '2 anos', 5899, 7014.09, '2023-02-08 20:27:43', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 942, '4 anos', 3415, 9948.57, '2013-01-16 06:46:04', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66141554631090', 943, '4 anos', 2445, 1968.89, '2008-10-17 20:57:16', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
-
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04306242467363', 944, '1 anos', 2531, 9094.59, '2022-10-27 23:12:03', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
-
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('45777137073423', 945, '4 anos', 6424, 8464.02, '2010-10-10 07:32:43', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88576988071958', 946, '3 anos', 3627, 9749.81, '2014-09-15 08:23:00', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-
-Sed ante. Vivamus tortor. Duis mattis egestas metus.
-
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32720117170509', 947, '5 anos', 9513, 4331.0, '2009-07-27 12:35:00', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39796039142836', 948, '2 anos', 4271, 6056.04, '2009-05-22 22:47:37', 'In congue. Etiam justo. Etiam pretium iaculis justo.
-
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 949, '4 anos', 9458, 4264.55, '2012-11-17 04:27:04', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61731112214100', 950, '5 anos', 8906, 5797.12, '2018-06-26 00:30:06', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
-
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78816366916602', 951, '3 anos', 5462, 5628.68, '2011-01-03 15:49:38', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39480697547333', 952, '4 anos', 6883, 2788.63, '2016-12-21 15:33:14', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97198984307237', 953, '2 anos', 1047, 2540.57, '2011-01-29 18:50:39', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34714441878188', 954, '5 anos', 7962, 2678.19, '2019-02-02 02:27:59', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19292492979759', 955, '4 anos', 6098, 1088.46, '2021-12-29 01:23:07', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
-
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67045382125304', 956, '1 anos', 4383, 5997.32, '2016-01-31 15:23:50', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08817814429254', 957, '4 anos', 3058, 2192.34, '2012-01-10 11:58:50', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79538225436295', 958, '3 anos', 4377, 7624.28, '2009-11-15 00:16:00', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
-
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26728923764754', 959, '4 anos', 3126, 4461.23, '2008-05-13 01:41:31', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
-
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23198278139290', 960, '4 anos', 4122, 3464.52, '2015-10-08 14:16:25', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
-
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00036904191354', 961, '4 anos', 439, 3971.11, '2020-10-31 16:17:17', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
-
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38997128558815', 962, '2 anos', 6795, 3151.23, '2009-06-02 03:17:58', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13576772203144', 963, '1 anos', 2037, 7214.38, '2010-09-17 19:07:26', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
-
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('06978638538186', 964, '2 anos', 137, 7456.16, '2010-06-07 09:25:59', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
-
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62840170169521', 965, '2 anos', 6422, 3910.98, '2013-03-15 10:32:17', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('52687648195514', 37, '1 anos', 9191, 4713.77, '2016-08-08 02:30:29', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39480697547333', 966, '1 anos', 3097, 5814.65, '2009-04-29 09:02:21', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41281875363969', 38, '4 anos', 4625, 8415.08, '2011-03-03 21:53:21', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12037476084714', 39, '4 anos', 4895, 6602.94, '2017-08-03 08:38:51', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+
+Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('51189040151223', 40, '2 anos', 6599, 809.16, '2018-10-18 06:15:39', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47121409077566', 41, '3 anos', 5664, 491.66, '2017-04-04 22:26:25', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77157350920083', 42, '2 anos', 5918, 8750.89, '2011-04-04 19:54:03', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08787541748350', 43, '1 anos', 3749, 481.65, '2015-12-28 20:00:43', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04563356861829', 44, '3 anos', 9449, 2240.23, '2023-05-10 09:40:54', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01311059935849', 45, '2 anos', 8193, 6097.86, '2017-03-22 21:50:29', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40047990072143', 46, '3 anos', 9000, 9787.51, '2012-05-05 10:21:15', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89629451688902', 47, '2 anos', 8586, 2644.91, '2015-12-26 15:54:55', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81035364959601', 48, '3 anos', 4642, 5203.3, '2016-06-02 02:47:39', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 49, '2 anos', 9122, 5383.51, '2009-08-03 18:11:39', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78628380563263', 50, '2 anos', 3940, 9212.17, '2012-02-02 20:48:23', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15034767639037', 51, '3 anos', 2191, 2408.86, '2013-11-21 18:18:20', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('51028292747512', 52, '3 anos', 5295, 5358.57, '2019-05-11 06:28:04', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04849711651733', 53, '2 anos', 3930, 5620.42, '2013-07-17 06:18:06', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60947276608874', 54, '3 anos', 6098, 5441.25, '2012-06-14 13:32:49', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16037614939739', 55, '5 anos', 6855, 1065.53, '2019-02-03 18:31:30', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02133035800089', 56, '3 anos', 1218, 1891.95, '2015-07-22 12:05:31', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07896563155908', 57, '2 anos', 4905, 4246.87, '2023-02-20 17:18:33', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22240707871831', 58, '3 anos', 7109, 9261.15, '2021-01-19 02:02:30', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30085597978293', 59, '2 anos', 988, 38.88, '2012-12-24 16:11:51', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('37487193140273', 60, '4 anos', 5057, 90.55, '2013-01-02 06:00:42', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57688126944571', 61, '4 anos', 1187, 9978.23, '2018-06-12 14:55:46', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44102375503690', 62, '4 anos', 5795, 8691.17, '2012-05-07 06:25:15', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97517441328446', 63, '5 anos', 1118, 5911.51, '2022-07-06 11:00:01', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13695165102635', 64, '2 anos', 5257, 7467.49, '2012-03-12 19:58:49', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50464438902056', 65, '2 anos', 1598, 6393.26, '2013-06-14 00:23:05', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68819291289354', 66, '4 anos', 3958, 11.83, '2017-11-16 07:09:54', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62986784057932', 67, '5 anos', 2847, 8098.97, '2013-12-31 12:28:35', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54285367327615', 68, '1 anos', 4116, 7198.53, '2022-12-20 20:19:23', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33604762148625', 69, '1 anos', 3021, 765.95, '2014-08-15 20:24:44', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('52687648195514', 70, '1 anos', 2549, 5722.99, '2010-11-14 16:10:01', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('36068774964168', 71, '5 anos', 270, 1220.58, '2010-08-30 10:35:50', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20772247722773', 72, '2 anos', 6472, 7694.69, '2013-07-26 13:27:50', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33679496996888', 73, '4 anos', 1904, 4212.0, '2022-02-23 22:06:43', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71042745201781', 74, '5 anos', 5331, 4090.41, '2012-01-13 23:02:38', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42435542580319', 75, '3 anos', 5072, 1628.78, '2019-10-24 12:00:48', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02578901321037', 76, '1 anos', 3906, 1623.0, '2019-02-06 18:15:54', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95587322078945', 77, '1 anos', 1306, 2139.81, '2015-10-11 16:48:46', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42120175416163', 78, '3 anos', 9303, 2578.33, '2015-03-10 17:09:39', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57932298177077', 79, '3 anos', 7682, 5277.94, '2021-12-31 00:53:21', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81035364959601', 80, '3 anos', 9993, 5388.76, '2018-03-21 22:05:18', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('29536698157773', 81, '2 anos', 152, 683.58, '2012-08-14 12:57:11', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43038225274577', 82, '2 anos', 687, 5865.56, '2009-10-16 09:33:30', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('21028458111538', 83, '2 anos', 2491, 4227.76, '2017-12-01 10:44:46', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('92214876664004', 84, '4 anos', 7215, 9807.62, '2021-05-27 06:07:15', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41281875363969', 85, '2 anos', 272, 5227.99, '2018-07-10 22:37:53', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20569726407371', 967, '2 anos', 6035, 8286.71, '2012-05-11 07:07:43', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62035575386328', 86, '5 anos', 5898, 6366.26, '2015-03-28 09:20:38', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 87, '1 anos', 7068, 6701.37, '2020-09-08 21:52:26', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59300902256050', 88, '1 anos', 3114, 299.51, '2018-02-26 23:31:39', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22958924438847', 968, '2 anos', 1572, 756.25, '2017-10-11 01:08:57', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49992180502381', 89, '1 anos', 2175, 7393.19, '2010-02-12 11:39:56', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65466938820833', 969, '4 anos', 4524, 5570.4, '2014-10-29 22:10:12', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
-
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28935890970693', 970, '5 anos', 328, 2513.49, '2017-07-28 07:35:55', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35284308175788', 90, '3 anos', 7167, 9603.11, '2016-12-02 03:05:05', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28235254937751', 91, '5 anos', 5593, 8062.31, '2014-01-07 20:06:35', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39718663537168', 971, '2 anos', 8871, 6364.77, '2022-04-29 16:49:18', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18423660428412', 972, '3 anos', 4495, 6637.48, '2010-02-16 00:49:30', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41981555843254', 92, '5 anos', 2396, 4333.3, '2020-04-17 22:07:18', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75736506482099', 93, '2 anos', 5987, 2762.2, '2008-01-14 14:44:55', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32624834384165', 94, '1 anos', 9681, 2890.97, '2017-10-25 09:58:42', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25678421714576', 95, '2 anos', 1508, 8189.75, '2021-02-10 03:11:32', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34271713519508', 96, '3 anos', 1067, 498.72, '2018-10-26 20:19:40', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42637374613551', 97, '4 anos', 653, 1686.51, '2009-07-07 18:05:37', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17745275889972', 98, '2 anos', 1235, 3844.13, '2008-11-03 11:23:29', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02133035800089', 99, '3 anos', 4790, 1722.75, '2008-11-23 04:24:13', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97455025902146', 100, '1 anos', 3167, 4214.93, '2023-10-08 05:37:07', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35284308175788', 101, '4 anos', 9176, 2221.57, '2008-09-19 22:46:17', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42637374613551', 102, '5 anos', 3449, 5022.18, '2013-05-20 08:02:36', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04962686155203', 103, '1 anos', 6741, 8609.5, '2010-12-22 17:42:47', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11311604916743', 104, '2 anos', 5407, 3293.77, '2014-08-05 05:24:01', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 105, '3 anos', 5225, 3621.31, '2015-12-22 07:51:39', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44828898670071', 106, '1 anos', 8919, 8940.07, '2023-06-12 18:25:42', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91458090883824', 107, '5 anos', 8311, 10.01, '2008-11-02 23:24:08', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 108, '2 anos', 1803, 21.04, '2009-12-20 19:55:59', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93259917988685', 109, '1 anos', 3862, 5520.69, '2017-06-29 06:55:37', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62986784057932', 110, '2 anos', 2192, 3935.24, '2016-06-21 12:53:26', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11822296792536', 111, '5 anos', 7155, 6921.36, '2022-01-09 01:49:22', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01805934148087', 112, '1 anos', 2604, 6580.53, '2009-02-06 09:05:57', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87204490405142', 113, '5 anos', 4444, 8961.49, '2015-09-06 18:03:27', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30085597978293', 114, '2 anos', 3674, 8300.83, '2011-06-15 10:55:27', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33679496996888', 115, '1 anos', 4725, 1914.3, '2009-02-25 14:33:24', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49299869221562', 116, '5 anos', 6195, 6860.72, '2021-12-12 21:53:03', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04563356861829', 117, '2 anos', 3193, 1540.71, '2016-08-05 06:23:40', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77577605303734', 118, '3 anos', 7650, 975.73, '2020-06-13 13:10:21', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18950314405184', 119, '4 anos', 6707, 5890.12, '2015-11-11 19:19:31', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47198660164343', 120, '5 anos', 94, 8117.16, '2020-02-24 09:59:52', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39334727437716', 121, '4 anos', 9784, 1903.54, '2019-11-19 11:47:01', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11311604916743', 122, '1 anos', 5447, 6436.03, '2008-03-09 00:21:04', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76520562291031', 123, '3 anos', 8021, 5502.22, '2021-01-12 04:36:01', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11433794747620', 124, '1 anos', 5969, 6815.24, '2017-01-07 16:06:57', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22110846250540', 125, '2 anos', 678, 3653.99, '2017-05-27 11:49:16', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66758900876349', 126, '3 anos', 5508, 1855.85, '2009-08-23 05:40:10', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04563356861829', 127, '4 anos', 7278, 3295.59, '2016-02-09 22:10:29', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94708408302696', 128, '3 anos', 2040, 7018.46, '2015-02-06 06:37:23', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62664748403886', 129, '2 anos', 679, 4634.08, '2012-03-17 20:32:31', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61432236816270', 130, '4 anos', 902, 3985.01, '2023-03-24 23:24:56', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05781287518931', 131, '4 anos', 9554, 3281.17, '2017-04-11 19:02:42', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87200591150850', 132, '4 anos', 5618, 6333.25, '2021-11-07 04:14:45', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78628380563263', 133, '5 anos', 5447, 7712.74, '2022-07-30 05:26:02', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31458061902121', 134, '5 anos', 5384, 2074.83, '2019-09-06 06:38:27', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41981555843254', 135, '3 anos', 2879, 1660.52, '2013-05-30 10:35:33', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43038225274577', 136, '1 anos', 1536, 2385.62, '2023-03-10 22:34:24', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31680506487689', 137, '4 anos', 1089, 7425.91, '2010-01-08 15:35:02', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35284308175788', 138, '4 anos', 3155, 5011.35, '2014-02-11 19:48:43', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('14167173402992', 139, '2 anos', 7664, 2014.53, '2010-05-08 23:54:01', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48535667079591', 140, '4 anos', 8682, 1571.96, '2020-03-28 16:35:31', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96352567947128', 141, '4 anos', 5991, 4404.53, '2009-04-28 11:55:54', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('92214876664004', 142, '3 anos', 7444, 2199.57, '2011-03-02 15:56:32', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 143, '5 anos', 3303, 7741.22, '2008-12-09 17:12:26', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47121409077566', 144, '5 anos', 7813, 1322.15, '2009-08-08 10:59:20', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88983461746547', 145, '3 anos', 2476, 7219.47, '2020-06-30 21:30:38', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43038225274577', 146, '4 anos', 7277, 4428.06, '2013-06-20 20:10:37', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35503923014796', 147, '4 anos', 6553, 1531.11, '2013-07-17 04:40:44', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87200591150850', 148, '5 anos', 195, 2606.96, '2011-12-09 14:31:39', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33604762148625', 149, '1 anos', 2618, 7071.18, '2022-08-17 06:36:16', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81035364959601', 150, '4 anos', 8422, 8070.43, '2010-09-10 06:25:43', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28656991583097', 151, '1 anos', 8789, 4232.13, '2023-01-06 16:17:04', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97455025902146', 152, '4 anos', 3435, 207.95, '2019-05-31 17:20:26', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89994434427680', 153, '1 anos', 4541, 3859.92, '2008-12-19 04:31:27', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28656991583097', 154, '3 anos', 2090, 137.14, '2021-02-15 20:20:32', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75736506482099', 155, '4 anos', 7629, 147.96, '2008-08-10 08:44:44', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('51189040151223', 156, '4 anos', 9268, 5830.72, '2014-01-04 16:24:25', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48535667079591', 157, '3 anos', 6498, 302.99, '2015-10-05 19:04:21', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+
+Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 158, '1 anos', 2796, 4850.02, '2023-01-30 08:03:08', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04849711651733', 159, '2 anos', 1974, 7188.52, '2008-11-14 12:19:32', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27997996750751', 160, '5 anos', 8749, 371.66, '2009-10-04 11:01:31', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98109021148177', 161, '5 anos', 5335, 1340.7, '2015-02-08 17:33:27', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90473579418421', 162, '2 anos', 9250, 5930.36, '2011-07-14 23:58:26', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68386387608408', 163, '1 anos', 3560, 226.66, '2023-06-22 03:43:42', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('52687648195514', 164, '5 anos', 3845, 3263.96, '2008-07-24 06:16:30', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42435542580319', 165, '5 anos', 9549, 6026.16, '2023-10-20 08:28:38', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59481012292258', 166, '4 anos', 2099, 9280.36, '2009-05-07 02:01:34', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 167, '1 anos', 3732, 8006.25, '2017-12-28 00:38:06', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40456548224244', 168, '4 anos', 9650, 7461.54, '2023-10-20 19:04:11', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38160978048638', 169, '3 anos', 5267, 7529.63, '2009-06-21 04:09:21', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41047254506405', 170, '3 anos', 3015, 4546.06, '2008-07-21 11:37:00', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 171, '1 anos', 7683, 5699.31, '2013-08-22 09:20:18', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28342894398887', 172, '2 anos', 521, 3458.31, '2021-05-03 03:19:52', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83649856263872', 173, '3 anos', 7620, 5532.82, '2019-03-24 19:00:17', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56227307596383', 174, '3 anos', 8743, 115.65, '2013-07-26 02:24:25', 'Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13695165102635', 175, '1 anos', 8880, 7420.42, '2014-02-23 22:54:34', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53175943711046', 176, '5 anos', 5042, 8129.38, '2010-01-09 18:39:01', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27127472044636', 177, '4 anos', 100, 324.95, '2015-03-13 18:57:59', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47198660164343', 178, '4 anos', 4672, 9647.57, '2019-07-13 13:47:07', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83669267847911', 179, '4 anos', 562, 9221.26, '2020-07-15 15:52:20', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89877919704738', 180, '4 anos', 6797, 615.34, '2019-08-02 22:05:42', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69028069151376', 181, '4 anos', 926, 1870.66, '2022-05-14 22:04:31', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69501991781929', 182, '1 anos', 3691, 5199.53, '2009-09-26 16:48:36', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07204487639919', 183, '3 anos', 9511, 792.4, '2015-05-14 09:40:05', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13199243830903', 184, '4 anos', 486, 6231.94, '2019-01-29 17:51:30', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16037614939739', 185, '1 anos', 8420, 7856.36, '2012-05-24 10:21:23', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31680506487689', 186, '1 anos', 1725, 4039.09, '2010-05-08 09:07:40', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23179990436598', 187, '4 anos', 1724, 734.37, '2013-06-09 01:41:56', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96352567947128', 188, '5 anos', 7965, 7700.82, '2020-04-12 12:45:22', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01311059935849', 189, '1 anos', 921, 3499.07, '2018-05-27 13:43:25', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33679496996888', 190, '4 anos', 8705, 481.58, '2009-03-30 16:52:55', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32624834384165', 191, '4 anos', 6004, 6309.46, '2009-10-06 21:35:41', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49992180502381', 192, '3 anos', 3518, 3141.87, '2010-09-12 21:06:59', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53175943711046', 193, '3 anos', 4752, 3403.96, '2018-05-15 05:15:15', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89629451688902', 194, '5 anos', 6976, 2603.41, '2014-10-02 03:21:18', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91458090883824', 195, '4 anos', 1360, 6179.62, '2012-06-30 07:34:52', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85234522642283', 196, '2 anos', 5439, 4160.0, '2014-11-04 21:31:22', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49158249516083', 197, '5 anos', 2027, 8792.03, '2012-12-30 05:48:05', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98109021148177', 198, '4 anos', 6488, 6693.95, '2008-05-23 17:20:24', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44102375503690', 199, '3 anos', 6191, 1962.23, '2014-07-21 19:20:08', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81035364959601', 200, '5 anos', 2774, 6369.86, '2008-03-22 01:37:11', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59300902256050', 201, '1 anos', 9232, 1337.93, '2017-10-22 22:25:01', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24685253485479', 202, '4 anos', 2639, 13.35, '2021-05-04 05:06:16', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42435542580319', 203, '2 anos', 3925, 4012.5, '2020-05-17 05:22:57', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42435542580319', 204, '5 anos', 7932, 5084.06, '2012-12-09 00:14:27', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13199243830903', 205, '1 anos', 9297, 7130.7, '2015-08-21 05:53:28', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44102375503690', 206, '1 anos', 2635, 5522.37, '2018-07-03 01:17:13', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11620783368318', 207, '1 anos', 9330, 3145.43, '2021-11-29 00:50:27', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02578901321037', 208, '2 anos', 5238, 1294.71, '2018-07-13 06:19:11', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41981555843254', 209, '1 anos', 8891, 8300.29, '2021-05-20 09:28:58', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84147622438955', 210, '4 anos', 1538, 3371.07, '2011-12-23 06:59:14', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42435542580319', 211, '2 anos', 8382, 1806.21, '2010-02-28 19:55:33', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50464438902056', 212, '3 anos', 7972, 3.44, '2015-11-02 07:45:04', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83649856263872', 213, '2 anos', 3492, 4414.39, '2013-12-15 05:59:56', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97210379909641', 214, '4 anos', 5955, 1996.03, '2020-12-30 08:37:21', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35461640616231', 215, '2 anos', 5796, 8387.35, '2012-11-09 22:52:19', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15034767639037', 216, '2 anos', 7883, 5633.33, '2020-01-31 10:50:44', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35284308175788', 217, '2 anos', 7549, 7206.94, '2019-10-12 21:22:02', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82474783058170', 218, '4 anos', 2770, 6663.53, '2008-09-24 20:14:43', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97517441328446', 219, '3 anos', 2961, 84.46, '2009-04-08 06:08:35', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86353145271967', 220, '3 anos', 773, 7348.98, '2010-04-29 05:02:57', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91458090883824', 221, '2 anos', 200, 9246.05, '2023-10-16 06:36:01', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81035364959601', 222, '3 anos', 4297, 5197.36, '2015-10-04 14:12:58', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35503923014796', 223, '1 anos', 780, 9892.15, '2013-06-07 07:00:51', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23179990436598', 224, '1 anos', 5335, 8258.98, '2015-06-27 08:56:01', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82474783058170', 225, '2 anos', 4491, 537.86, '2012-05-04 06:32:56', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90473579418421', 226, '1 anos', 668, 269.52, '2013-12-28 20:22:12', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 227, '5 anos', 5871, 8583.79, '2016-05-04 10:09:55', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22240707871831', 228, '3 anos', 8427, 5330.78, '2023-06-02 20:56:23', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57688126944571', 229, '5 anos', 3508, 4438.16, '2010-04-02 12:32:47', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18109417707703', 230, '4 anos', 9173, 7676.12, '2018-10-15 15:11:15', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02133035800089', 231, '5 anos', 9184, 9016.78, '2013-04-07 02:43:44', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33679496996888', 232, '2 anos', 8704, 7309.84, '2019-05-17 08:20:17', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19961968071052', 233, '1 anos', 9051, 530.43, '2017-04-20 11:05:39', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81285291094205', 234, '5 anos', 8888, 341.06, '2015-09-29 20:34:52', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('29536698157773', 235, '1 anos', 3043, 2206.05, '2011-11-12 15:37:49', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81035364959601', 236, '3 anos', 3119, 8212.87, '2017-07-06 21:50:37', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28005993583835', 237, '4 anos', 7989, 8784.08, '2009-10-14 20:35:10', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01311059935849', 238, '4 anos', 1507, 2685.32, '2019-07-06 22:02:33', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08787541748350', 239, '5 anos', 7816, 9093.54, '2020-12-27 11:02:29', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83398468414611', 240, '1 anos', 9359, 4487.67, '2020-11-13 14:22:09', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22110846250540', 241, '2 anos', 3, 3011.85, '2014-12-16 02:31:41', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19007865616308', 242, '3 anos', 4300, 6789.5, '2011-10-16 14:54:41', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76520562291031', 243, '5 anos', 4239, 4554.68, '2013-06-15 06:29:11', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98872552263748', 244, '2 anos', 150, 3655.12, '2018-01-07 05:49:21', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68819291289354', 245, '2 anos', 6863, 7944.09, '2016-01-23 14:02:45', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12044218715991', 246, '4 anos', 2440, 9362.78, '2012-09-20 15:16:13', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62664748403886', 247, '3 anos', 7945, 133.86, '2023-08-28 02:10:10', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57932298177077', 248, '5 anos', 8974, 6559.46, '2018-01-23 18:58:14', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35461640616231', 249, '2 anos', 3950, 2819.92, '2018-10-13 08:58:13', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57511745349131', 250, '3 anos', 8486, 7047.06, '2014-03-01 21:16:50', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 251, '3 anos', 3321, 94.31, '2012-09-14 12:41:52', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97455025902146', 252, '3 anos', 321, 2595.17, '2009-08-24 17:22:48', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82474783058170', 253, '5 anos', 2854, 8371.64, '2018-05-08 13:41:28', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47390695230879', 254, '1 anos', 2041, 6268.3, '2023-08-26 06:19:47', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88983461746547', 255, '5 anos', 8154, 7195.28, '2022-04-30 17:24:31', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 256, '2 anos', 8213, 747.18, '2021-06-17 06:19:28', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50464438902056', 257, '2 anos', 5760, 567.7, '2019-10-21 11:43:15', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46286211740168', 258, '3 anos', 922, 7892.52, '2021-07-29 01:51:00', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39334727437716', 259, '4 anos', 5237, 585.91, '2021-09-24 01:24:45', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 260, '5 anos', 2731, 7086.08, '2012-12-13 18:20:10', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02578901321037', 261, '3 anos', 5425, 9971.75, '2013-12-31 05:28:12', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('03311511046402', 262, '1 anos', 1591, 6966.46, '2008-08-12 13:51:35', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56310426212318', 263, '3 anos', 4644, 2876.64, '2022-01-08 08:04:35', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13199243830903', 264, '2 anos', 5749, 9249.83, '2022-05-13 10:08:34', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59481012292258', 265, '2 anos', 2764, 4320.31, '2022-05-12 11:27:43', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32624834384165', 266, '2 anos', 8299, 3155.67, '2010-05-22 00:14:31', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98109021148177', 267, '3 anos', 1410, 7620.6, '2008-09-14 14:42:47', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59182832031448', 268, '5 anos', 7836, 1308.32, '2022-05-25 01:33:43', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('36068774964168', 269, '1 anos', 6924, 519.53, '2008-08-11 21:56:54', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46286211740168', 270, '3 anos', 744, 6704.22, '2019-06-29 09:05:26', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43038225274577', 271, '5 anos', 9449, 5253.52, '2016-09-24 04:48:01', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62986784057932', 272, '1 anos', 2286, 6028.98, '2021-06-06 00:42:00', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23179990436598', 273, '2 anos', 2941, 2030.32, '2014-02-11 04:48:29', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93259917988685', 274, '4 anos', 6635, 1035.09, '2014-03-21 04:22:48', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82474783058170', 275, '4 anos', 381, 2947.28, '2021-04-25 04:23:52', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95605416387886', 276, '2 anos', 17, 6830.69, '2013-03-30 07:24:04', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27127472044636', 277, '4 anos', 222, 969.21, '2022-02-28 05:44:49', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97517441328446', 278, '3 anos', 1372, 2858.97, '2012-03-30 17:51:02', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54671082454467', 279, '5 anos', 8889, 9474.96, '2019-09-10 11:40:11', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22110846250540', 280, '5 anos', 1752, 629.11, '2015-06-19 15:56:13', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12037476084714', 281, '3 anos', 7441, 1508.65, '2018-12-15 23:08:55', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42435542580319', 282, '1 anos', 5236, 2578.31, '2020-07-10 17:22:00', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44102375503690', 283, '1 anos', 5080, 2001.76, '2008-07-12 03:47:35', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96967096996105', 284, '1 anos', 5915, 1233.53, '2016-08-09 02:50:30', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39334727437716', 285, '5 anos', 5959, 789.8, '2009-11-10 19:06:35', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50401865873362', 286, '2 anos', 928, 4034.44, '2020-07-08 15:05:31', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47773742062071', 287, '2 anos', 8110, 4799.36, '2023-05-13 14:20:36', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88983461746547', 288, '2 anos', 7886, 3031.61, '2012-04-26 15:55:47', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98109021148177', 289, '5 anos', 3714, 6737.57, '2009-11-09 10:51:18', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83669267847911', 290, '4 anos', 2234, 7025.57, '2012-04-13 18:41:54', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28387459962063', 291, '2 anos', 6640, 1264.02, '2011-05-12 23:48:44', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48535667079591', 292, '1 anos', 8046, 8195.21, '2023-05-03 00:40:31', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61275050968382', 293, '5 anos', 4196, 8411.16, '2021-08-08 01:03:45', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23179990436598', 294, '3 anos', 8720, 9125.04, '2017-07-18 17:42:01', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81035364959601', 295, '1 anos', 764, 5938.05, '2013-06-07 09:56:14', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46286211740168', 296, '5 anos', 5549, 397.13, '2012-03-16 12:28:44', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15048207036826', 297, '2 anos', 219, 497.45, '2017-10-11 22:54:25', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 298, '4 anos', 4092, 9308.77, '2020-09-03 21:01:43', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82826053548745', 299, '5 anos', 9779, 738.44, '2009-04-29 17:50:15', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16719185523698', 300, '1 anos', 4079, 112.44, '2017-01-22 20:26:02', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97210379909641', 301, '4 anos', 5663, 4713.71, '2009-08-28 21:35:00', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95605416387886', 302, '2 anos', 8263, 4605.8, '2014-10-22 04:43:50', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68386387608408', 303, '3 anos', 558, 9539.43, '2020-08-08 12:12:37', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 304, '2 anos', 9455, 1683.33, '2011-04-29 16:34:44', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 305, '5 anos', 8871, 53.41, '2019-08-19 03:58:24', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04849711651733', 306, '3 anos', 3558, 1220.65, '2017-03-03 09:13:42', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('29536698157773', 307, '5 anos', 7868, 3102.45, '2010-12-13 06:15:26', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 308, '1 anos', 6790, 8838.08, '2023-11-15 04:53:48', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 309, '3 anos', 8629, 8054.71, '2021-01-06 10:30:04', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28342894398887', 310, '5 anos', 6647, 5756.8, '2009-01-08 21:00:54', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11311604916743', 311, '3 anos', 5170, 7167.53, '2017-10-20 07:38:08', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56310426212318', 312, '4 anos', 7955, 6103.92, '2016-08-06 05:19:33', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20170734430608', 313, '1 anos', 3635, 1947.75, '2017-08-22 02:43:35', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('37487193140273', 314, '5 anos', 4390, 3852.33, '2014-11-12 13:39:17', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42435542580319', 315, '3 anos', 2148, 869.1, '2018-10-03 11:09:49', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95587322078945', 316, '3 anos', 88, 3653.52, '2020-03-14 00:34:08', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('14167173402992', 317, '2 anos', 8095, 5402.39, '2011-04-19 14:40:14', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34271713519508', 318, '5 anos', 9670, 9747.63, '2017-06-05 15:41:07', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 319, '5 anos', 4395, 6283.26, '2014-01-25 08:58:13', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77568803555168', 320, '3 anos', 9404, 1716.78, '2009-12-02 14:25:07', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28342894398887', 321, '1 anos', 1250, 9654.57, '2020-01-31 12:07:13', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34271713519508', 322, '4 anos', 7107, 9122.66, '2018-01-22 05:41:31', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96967096996105', 323, '3 anos', 2003, 8889.52, '2017-03-13 17:44:54', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54285367327615', 324, '4 anos', 4708, 4762.93, '2012-09-27 20:50:10', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77568803555168', 325, '4 anos', 8523, 9728.95, '2008-02-26 21:42:05', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88983461746547', 326, '3 anos', 2911, 5237.69, '2016-04-20 01:42:36', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60947276608874', 327, '5 anos', 8770, 105.34, '2013-05-02 04:55:49', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75736506482099', 328, '1 anos', 2929, 8551.34, '2019-12-26 09:38:34', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61847643521836', 329, '1 anos', 5582, 1118.3, '2020-03-26 19:05:30', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83649856263872', 330, '5 anos', 612, 3930.97, '2011-02-26 04:38:56', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66758900876349', 331, '3 anos', 2318, 4453.04, '2023-10-10 22:16:05', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17745275889972', 332, '5 anos', 9470, 4363.82, '2014-09-03 23:54:25', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11106018319338', 333, '4 anos', 6401, 3115.45, '2009-09-12 20:02:58', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43682146926299', 334, '1 anos', 2243, 9320.2, '2022-01-07 22:14:47', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97517441328446', 335, '3 anos', 6129, 5161.82, '2022-12-13 04:52:21', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54662755477526', 336, '5 anos', 5545, 3564.51, '2011-02-07 17:56:21', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95587322078945', 337, '3 anos', 8101, 5797.62, '2011-02-11 05:00:02', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84147622438955', 338, '3 anos', 3276, 9236.64, '2014-01-01 01:00:19', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01311059935849', 339, '4 anos', 7055, 9033.88, '2013-12-28 22:32:50', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81035364959601', 340, '2 anos', 2352, 2591.2, '2018-08-13 05:59:52', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35461640616231', 341, '1 anos', 5597, 6996.28, '2008-08-06 10:52:20', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61655331544091', 342, '5 anos', 8947, 4848.48, '2023-03-17 05:41:34', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43038225274577', 343, '2 anos', 408, 4828.45, '2011-12-05 17:15:11', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49448380564898', 344, '4 anos', 9979, 5133.4, '2016-05-06 13:56:16', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87204490405142', 345, '3 anos', 4775, 3848.59, '2016-11-29 20:12:30', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59481012292258', 346, '3 anos', 1107, 7628.75, '2017-03-03 15:44:04', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04306242467363', 973, '2 anos', 7653, 9178.34, '2016-01-13 18:42:06', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25136238673293', 974, '4 anos', 1525, 520.82, '2020-08-08 11:18:42', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42637374613551', 347, '3 anos', 1699, 9331.08, '2016-05-20 15:14:39', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75736506482099', 348, '3 anos', 9186, 7629.41, '2021-01-26 17:03:26', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66758900876349', 349, '3 anos', 7429, 2241.6, '2013-06-05 22:41:22', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13199243830903', 350, '5 anos', 1420, 9156.62, '2012-02-14 11:55:36', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69501991781929', 351, '2 anos', 5367, 8285.24, '2011-04-18 10:39:21', 'Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57688126944571', 352, '3 anos', 4984, 2183.35, '2018-01-30 21:26:29', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00045993088204', 353, '1 anos', 4413, 3216.14, '2023-12-25 21:37:04', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04563356861829', 354, '2 anos', 8415, 6778.59, '2008-11-09 22:06:20', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('29536698157773', 355, '1 anos', 1809, 2291.59, '2014-06-05 01:02:16', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84147622438955', 356, '3 anos', 4164, 9637.52, '2015-06-07 20:54:51', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25155686801130', 357, '3 anos', 3219, 2013.66, '2019-08-10 01:35:15', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58235630305307', 358, '1 anos', 2791, 9658.09, '2015-06-22 18:23:22', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41047254506405', 359, '2 anos', 8208, 7132.41, '2011-06-26 01:59:53', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('52687648195514', 360, '2 anos', 3992, 945.09, '2008-02-22 01:24:51', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40047990072143', 361, '5 anos', 5198, 6135.89, '2020-10-11 17:27:02', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50464438902056', 362, '2 anos', 3096, 1835.23, '2016-03-07 05:13:44', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04849711651733', 363, '4 anos', 7089, 686.67, '2018-03-14 07:07:59', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57688126944571', 364, '5 anos', 6516, 9442.98, '2022-02-12 20:58:39', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43682146926299', 365, '1 anos', 7668, 9144.17, '2015-01-12 21:02:05', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57688126944571', 366, '1 anos', 1946, 9764.63, '2022-07-27 16:20:19', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('10697624412580', 367, '4 anos', 93, 5485.78, '2021-12-03 21:40:18', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43038225274577', 368, '2 anos', 3801, 8079.91, '2010-01-12 05:18:30', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49448380564898', 369, '1 anos', 6510, 1693.4, '2014-11-27 10:45:49', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41281875363969', 370, '5 anos', 5946, 5880.59, '2016-07-03 13:18:35', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89629451688902', 371, '5 anos', 3319, 7352.89, '2017-07-02 10:12:17', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24685253485479', 372, '4 anos', 2702, 2140.56, '2008-02-23 21:09:29', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13199243830903', 373, '2 anos', 6514, 7333.12, '2009-03-13 11:17:54', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81401013743127', 374, '2 anos', 5069, 3722.93, '2015-09-07 15:56:41', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25678421714576', 375, '1 anos', 4692, 3777.79, '2014-09-17 08:38:26', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 376, '3 anos', 1060, 5844.8, '2019-12-19 21:13:37', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83649856263872', 377, '5 anos', 1173, 1270.78, '2015-01-13 07:01:48', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('52687648195514', 378, '1 anos', 2086, 9106.96, '2015-10-30 08:10:45', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35278497924503', 379, '2 anos', 5641, 7288.93, '2016-10-01 19:55:58', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57511745349131', 380, '1 anos', 2261, 5005.7, '2023-10-17 14:32:53', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98109021148177', 381, '3 anos', 9099, 7183.32, '2017-09-03 23:58:44', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('36068774964168', 382, '4 anos', 3345, 4941.49, '2021-06-25 03:14:52', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28005993583835', 383, '1 anos', 3272, 1099.12, '2016-11-19 20:30:02', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89877919704738', 384, '4 anos', 7352, 646.15, '2018-07-08 14:40:50', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62623731533629', 385, '1 anos', 4864, 1794.95, '2015-06-16 01:38:16', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57688126944571', 386, '5 anos', 8663, 6414.85, '2018-01-24 16:07:53', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('51028292747512', 387, '3 anos', 6952, 4684.24, '2009-05-27 16:28:46', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66374645534396', 388, '2 anos', 842, 8994.96, '2020-07-01 04:55:57', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07505958957858', 389, '1 anos', 421, 4850.0, '2013-06-21 18:59:23', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86454909279706', 390, '3 anos', 2634, 2431.11, '2012-09-20 15:11:03', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('14167173402992', 391, '1 anos', 3330, 9598.91, '2012-01-02 01:10:41', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02133035800089', 392, '2 anos', 1408, 4669.5, '2015-12-18 07:48:17', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('37487193140273', 393, '5 anos', 7094, 3013.83, '2017-02-02 00:29:24', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76520562291031', 394, '5 anos', 9686, 52.89, '2015-01-12 12:38:12', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34271713519508', 395, '3 anos', 2246, 3772.51, '2009-07-18 20:35:39', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57688126944571', 396, '5 anos', 1487, 4508.87, '2010-10-02 03:42:57', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84147622438955', 397, '2 anos', 2818, 2984.53, '2016-09-21 04:17:57', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62664748403886', 398, '5 anos', 2745, 4076.7, '2014-06-11 18:52:26', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62320622350561', 399, '5 anos', 9163, 6740.97, '2013-07-17 05:23:11', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35461640616231', 400, '5 anos', 4020, 3917.92, '2008-10-05 06:10:19', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62664748403886', 401, '5 anos', 4000, 4754.8, '2010-01-14 10:20:46', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84147622438955', 402, '4 anos', 3826, 8241.22, '2012-06-06 09:45:00', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94708408302696', 403, '5 anos', 7259, 4408.19, '2019-03-02 23:55:10', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 404, '3 anos', 3050, 8810.15, '2010-07-01 19:41:05', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77280986101395', 405, '1 anos', 8886, 3510.41, '2014-09-17 20:52:15', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43038225274577', 406, '3 anos', 1262, 2455.21, '2009-12-23 21:20:32', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08787541748350', 407, '3 anos', 3566, 702.69, '2019-07-16 13:43:12', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35284308175788', 408, '2 anos', 6517, 8524.66, '2017-08-26 12:01:16', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04563356861829', 409, '5 anos', 2906, 9907.72, '2022-09-18 23:23:17', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55375237966325', 410, '1 anos', 911, 1864.45, '2011-11-08 12:37:35', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76520562291031', 411, '3 anos', 5765, 6720.14, '2012-09-29 09:42:17', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40456548224244', 412, '3 anos', 135, 6231.55, '2017-07-20 12:59:48', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19961968071052', 413, '4 anos', 161, 2273.77, '2015-03-17 14:53:49', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62664748403886', 414, '2 anos', 6673, 5398.56, '2022-02-22 21:13:40', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78628380563263', 415, '3 anos', 4027, 8456.37, '2021-08-03 13:24:27', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68386387608408', 416, '5 anos', 2262, 8747.4, '2019-08-09 08:37:39', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20772247722773', 417, '4 anos', 8295, 4202.06, '2021-09-03 22:59:55', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07896563155908', 418, '2 anos', 1881, 6982.95, '2016-01-07 03:25:20', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07896563155908', 419, '4 anos', 8147, 1620.04, '2011-02-17 17:47:26', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82826053548745', 420, '4 anos', 6191, 2642.81, '2008-05-31 22:03:42', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25155686801130', 421, '3 anos', 5128, 5479.66, '2023-01-05 14:32:27', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55375237966325', 422, '3 anos', 8633, 2573.04, '2017-01-22 20:52:40', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 423, '1 anos', 2701, 2432.71, '2019-11-16 16:53:37', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34271713519508', 424, '1 anos', 9143, 8282.99, '2013-01-17 06:43:51', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27127472044636', 425, '2 anos', 6671, 1677.17, '2008-05-07 06:00:58', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34271713519508', 426, '2 anos', 1149, 1099.96, '2022-01-28 16:08:45', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93259917988685', 427, '2 anos', 3892, 5715.68, '2009-10-24 16:39:37', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82826053548745', 428, '4 anos', 4257, 9173.27, '2020-10-15 05:43:59', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96967096996105', 429, '2 anos', 4453, 8877.18, '2012-06-02 05:25:56', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 430, '4 anos', 2916, 164.74, '2023-01-04 08:39:37', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61847643521836', 431, '2 anos', 9484, 7369.88, '2012-04-21 17:06:54', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84916586154236', 432, '3 anos', 1231, 3771.56, '2016-10-12 02:26:54', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33679496996888', 433, '4 anos', 4064, 9955.79, '2011-10-05 11:59:32', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87200591150850', 434, '1 anos', 9064, 1286.26, '2008-09-03 13:29:29', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16719185523698', 435, '5 anos', 6284, 6661.59, '2012-06-27 07:55:17', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59182832031448', 436, '4 anos', 6582, 7969.41, '2023-01-01 09:23:27', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17049284064582', 437, '4 anos', 2782, 7647.15, '2015-03-21 23:09:54', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89877919704738', 438, '5 anos', 2706, 9747.41, '2018-04-22 13:33:39', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13199243830903', 439, '5 anos', 86, 1302.06, '2014-12-04 04:54:08', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 440, '5 anos', 8486, 1680.41, '2010-10-11 17:54:06', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57932298177077', 441, '4 anos', 7884, 7915.49, '2022-05-09 15:34:56', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89877919704738', 442, '4 anos', 1106, 7805.68, '2019-09-25 12:36:02', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83398468414611', 443, '3 anos', 4889, 4672.43, '2012-10-31 17:59:23', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28235254937751', 444, '5 anos', 3348, 816.93, '2011-11-15 19:34:44', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91458090883824', 445, '5 anos', 5772, 7503.32, '2023-04-27 17:56:19', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47121409077566', 446, '3 anos', 1584, 4624.56, '2010-10-29 03:05:21', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54285367327615', 447, '2 anos', 3693, 7142.25, '2018-08-05 03:23:53', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84147622438955', 448, '2 anos', 2589, 1709.85, '2014-07-23 01:42:34', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49448380564898', 449, '4 anos', 1695, 3298.41, '2009-02-23 17:45:30', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62035575386328', 450, '1 anos', 7147, 6352.12, '2019-07-15 19:59:53', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34271713519508', 451, '1 anos', 9025, 4230.86, '2020-02-01 10:06:39', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69028069151376', 452, '2 anos', 1027, 5173.32, '2011-06-04 09:11:39', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20170734430608', 453, '5 anos', 7767, 8823.14, '2010-02-06 06:41:42', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23179990436598', 454, '3 anos', 5288, 8821.2, '2022-04-13 08:18:16', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95605416387886', 455, '1 anos', 7956, 3835.9, '2017-01-19 20:11:40', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84147622438955', 456, '5 anos', 1303, 2182.95, '2020-07-30 01:46:46', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11433794747620', 457, '3 anos', 7652, 8790.37, '2009-10-23 19:17:16', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85234522642283', 458, '3 anos', 5087, 9378.84, '2015-12-26 03:44:58', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17049284064582', 459, '1 anos', 9113, 4420.95, '2016-04-17 15:18:28', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67549037689098', 460, '4 anos', 9540, 4837.8, '2022-10-11 08:24:10', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79538225436295', 975, '2 anos', 5249, 1401.34, '2021-04-03 03:12:24', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27997996750751', 461, '1 anos', 3730, 2527.56, '2018-09-07 19:40:52', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69501991781929', 462, '4 anos', 9555, 9667.56, '2023-02-02 14:34:38', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11311604916743', 463, '5 anos', 1847, 5256.38, '2018-06-04 10:33:20', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68819291289354', 464, '5 anos', 1672, 6202.91, '2022-03-19 06:00:52', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+
+Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08787541748350', 465, '2 anos', 8404, 7656.49, '2019-03-31 23:21:22', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02578901321037', 466, '4 anos', 9505, 8258.1, '2018-01-17 22:50:45', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50401865873362', 467, '5 anos', 3705, 970.54, '2010-03-19 14:15:59', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83649856263872', 468, '3 anos', 7962, 5689.36, '2011-04-13 17:08:30', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78628380563263', 469, '4 anos', 7309, 6289.09, '2018-06-06 21:30:27', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84147622438955', 470, '1 anos', 10, 263.88, '2022-10-21 21:47:23', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54671082454467', 471, '1 anos', 7456, 8202.17, '2010-02-10 19:59:27', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83649856263872', 472, '5 anos', 3992, 3722.04, '2015-12-19 06:24:53', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84916586154236', 473, '5 anos', 2627, 3521.17, '2010-09-12 09:11:47', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('21087129494846', 474, '3 anos', 6376, 9913.1, '2008-03-23 04:00:31', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68975610949821', 475, '4 anos', 3524, 8873.27, '2018-07-26 09:03:02', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 476, '4 anos', 9323, 4779.09, '2021-12-12 14:19:05', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('10697624412580', 477, '5 anos', 6873, 8844.17, '2014-03-26 13:04:28', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25119466579691', 478, '3 anos', 4162, 507.92, '2023-07-22 02:28:59', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75736506482099', 479, '5 anos', 3922, 3828.56, '2022-01-25 08:01:09', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 480, '2 anos', 5255, 2260.19, '2022-05-25 00:15:43', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95587322078945', 481, '5 anos', 2973, 744.5, '2008-12-26 19:25:03', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 482, '2 anos', 1095, 8340.24, '2008-12-29 17:09:13', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 483, '3 anos', 7807, 5907.16, '2022-12-30 18:58:48', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40456548224244', 484, '1 anos', 8760, 5720.45, '2014-04-18 04:39:50', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88561211295964', 485, '1 anos', 6867, 5233.9, '2018-10-23 06:28:02', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67549037689098', 486, '5 anos', 6583, 3754.13, '2023-06-11 11:26:21', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19961968071052', 487, '2 anos', 1355, 5735.56, '2020-02-19 21:47:47', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53639994410156', 488, '2 anos', 7793, 4367.46, '2022-05-30 19:59:55', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44828898670071', 489, '3 anos', 4681, 4344.9, '2022-06-05 01:04:13', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 490, '1 anos', 3837, 1541.87, '2013-03-30 00:59:16', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15048207036826', 491, '2 anos', 3209, 6413.75, '2010-03-08 03:26:23', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64589505283575', 492, '2 anos', 9536, 1474.28, '2020-05-15 05:33:18', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41769277002244', 493, '4 anos', 8921, 7670.64, '2015-07-04 22:55:51', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02578901321037', 494, '5 anos', 2023, 8896.1, '2010-07-26 14:56:36', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95587322078945', 495, '1 anos', 3106, 1882.38, '2008-07-02 18:11:24', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68975610949821', 496, '1 anos', 4289, 6426.37, '2022-01-02 05:16:54', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60947276608874', 497, '4 anos', 7843, 1172.67, '2010-12-09 06:22:50', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32624834384165', 498, '1 anos', 1398, 195.08, '2018-09-28 06:31:57', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49992180502381', 499, '4 anos', 80, 1574.89, '2017-09-19 01:32:41', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44102375503690', 500, '5 anos', 9809, 7858.38, '2023-08-31 22:42:09', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('70199071376507', 976, '2 anos', 728, 4979.18, '2013-11-14 04:49:52', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23879318943567', 977, '3 anos', 5139, 6799.93, '2019-11-04 08:18:59', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19796209490893', 501, '4 anos', 1341, 5877.32, '2015-06-28 04:16:08', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00640584369556', 978, '4 anos', 9751, 6097.0, '2019-09-05 05:46:43', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71375229654740', 979, '4 anos', 1318, 6124.21, '2010-11-27 03:38:56', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15563341264655', 980, '5 anos', 777, 1004.23, '2016-06-13 02:19:19', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53175943711046', 502, '5 anos', 7085, 1179.02, '2022-04-04 16:53:04', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32874606494024', 981, '5 anos', 4562, 8910.2, '2019-09-10 14:20:00', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15247150551841', 503, '1 anos', 6351, 4348.64, '2017-03-17 06:07:36', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35461640616231', 504, '2 anos', 8013, 1285.94, '2023-01-31 10:42:19', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-Fusce consequat. Nulla nisl. Nunc nisl.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34229530770499', 982, '1 anos', 8150, 390.63, '2017-10-30 02:39:51', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01706954671372', 983, '4 anos', 1197, 4925.2, '2013-02-28 08:46:41', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08350053761517', 984, '2 anos', 9662, 3716.25, '2017-08-21 14:35:38', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87594783132419', 985, '1 anos', 4314, 5115.92, '2020-09-08 04:02:51', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+In congue. Etiam justo. Etiam pretium iaculis justo.
 
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87204490405142', 505, '3 anos', 1728, 599.38, '2021-10-30 14:19:46', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19796209490893', 506, '5 anos', 1159, 8573.82, '2011-04-17 18:11:40', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19888367709268', 986, '3 anos', 2632, 3924.97, '2021-05-22 08:31:10', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13695165102635', 507, '3 anos', 5274, 9848.36, '2013-04-28 06:40:47', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94708408302696', 508, '5 anos', 4194, 9646.9, '2016-11-16 06:55:10', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22353148275349', 509, '3 anos', 3279, 4206.91, '2010-04-12 00:56:28', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54671082454467', 510, '5 anos', 5587, 7902.86, '2011-10-07 15:05:38', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43682146926299', 511, '2 anos', 6680, 1154.92, '2022-09-30 14:33:02', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22240707871831', 512, '3 anos', 6682, 6234.4, '2022-04-22 10:12:19', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+In congue. Etiam justo. Etiam pretium iaculis justo.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53168409960432', 987, '5 anos', 5474, 2708.34, '2012-09-17 00:18:08', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('21028458111538', 513, '3 anos', 5500, 3430.45, '2022-12-05 21:20:00', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33604762148625', 514, '5 anos', 2318, 4892.18, '2008-07-05 15:56:16', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12842856470668', 515, '3 anos', 5907, 2308.22, '2009-12-21 22:49:05', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07896563155908', 516, '1 anos', 7183, 4760.15, '2009-06-19 21:49:10', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42637374613551', 517, '3 anos', 2500, 1345.95, '2018-04-01 18:32:18', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12163863973376', 988, '5 anos', 6560, 1596.88, '2017-03-06 01:32:32', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62320622350561', 518, '5 anos', 3606, 2224.19, '2018-08-01 00:33:55', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88983461746547', 519, '1 anos', 2366, 8953.67, '2018-06-25 15:26:52', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25823926521761', 520, '3 anos', 2388, 9408.52, '2016-06-23 04:50:32', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15247150551841', 521, '2 anos', 6454, 4548.86, '2008-09-30 19:12:21', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71042745201781', 522, '3 anos', 3029, 8410.09, '2014-04-22 21:37:36', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81401013743127', 523, '5 anos', 6928, 9476.3, '2012-06-14 08:28:54', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28387459962063', 524, '2 anos', 4378, 113.9, '2010-05-10 09:15:07', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18950314405184', 525, '3 anos', 6444, 1300.08, '2021-11-09 13:38:56', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 526, '2 anos', 2747, 6342.68, '2016-02-05 14:10:43', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69465680138023', 527, '5 anos', 4210, 460.97, '2015-09-09 09:53:53', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96352567947128', 528, '1 anos', 6074, 2656.61, '2020-06-24 01:08:39', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61847643521836', 529, '5 anos', 9377, 6372.43, '2018-09-11 01:46:49', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53805963619139', 989, '2 anos', 6762, 5537.58, '2020-03-07 14:03:35', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46503958887949', 530, '5 anos', 9011, 9342.41, '2012-01-01 10:16:11', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08350053761517', 990, '3 anos', 8444, 1999.29, '2016-07-08 20:01:44', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43682146926299', 531, '4 anos', 1533, 2989.88, '2014-10-05 03:51:19', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44102375503690', 532, '1 anos', 1867, 1362.8, '2011-10-11 16:03:25', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-In congue. Etiam justo. Etiam pretium iaculis justo.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90495219907304', 991, '3 anos', 5077, 3063.63, '2023-04-08 06:12:27', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15783427174529', 992, '2 anos', 7396, 9879.47, '2023-09-03 05:47:13', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
-
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27940603865982', 993, '2 anos', 4771, 4967.42, '2013-01-08 20:52:08', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
-
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57864079314455', 994, '3 anos', 2005, 2696.63, '2023-08-11 00:27:13', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60243794823398', 533, '2 anos', 1892, 6811.88, '2022-11-01 10:08:08', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71596852063162', 995, '4 anos', 3329, 4189.86, '2018-09-14 00:49:59', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89629451688902', 534, '4 anos', 6543, 1841.38, '2008-07-22 09:39:02', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58235630305307', 535, '4 anos', 8424, 5927.78, '2008-02-03 22:14:58', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17745275889972', 536, '5 anos', 2508, 1902.03, '2008-12-02 00:28:18', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04962686155203', 537, '2 anos', 6309, 7522.63, '2013-11-25 01:49:10', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07896563155908', 538, '1 anos', 2037, 2771.16, '2020-05-01 04:35:53', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47198660164343', 539, '5 anos', 7988, 5926.04, '2018-08-08 21:08:57', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35858596424265', 540, '3 anos', 1576, 5413.78, '2009-11-11 20:29:07', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61432236816270', 541, '3 anos', 1608, 3792.82, '2016-07-29 02:38:18', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87200591150850', 542, '1 anos', 6269, 3997.94, '2018-10-18 02:03:15', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44828898670071', 543, '2 anos', 3507, 404.66, '2013-06-20 09:31:34', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75736506482099', 544, '4 anos', 8054, 2537.83, '2017-06-27 17:03:38', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 545, '3 anos', 8232, 9049.13, '2012-09-29 19:40:09', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59300902256050', 546, '5 anos', 1541, 8524.97, '2012-02-10 17:57:31', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83649856263872', 547, '4 anos', 1996, 8768.29, '2020-08-17 08:30:58', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77157350920083', 548, '4 anos', 8025, 8357.67, '2020-06-30 00:25:23', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83398468414611', 549, '3 anos', 4077, 8169.99, '2023-03-29 00:33:20', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42120175416163', 550, '3 anos', 9099, 7593.66, '2009-02-06 18:44:32', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19961968071052', 551, '5 anos', 8076, 8182.57, '2013-11-23 10:51:18', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49448380564898', 552, '5 anos', 7107, 2007.22, '2023-12-21 01:15:52', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34271713519508', 553, '3 anos', 521, 4935.77, '2010-02-08 11:05:52', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53639994410156', 554, '4 anos', 2821, 4297.4, '2014-02-27 00:57:48', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41981555843254', 555, '5 anos', 6203, 4257.27, '2013-03-18 12:17:55', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56310426212318', 556, '1 anos', 2044, 419.38, '2013-02-25 13:12:28', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('75736506482099', 557, '3 anos', 1152, 4156.23, '2023-06-08 06:05:38', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53639994410156', 558, '2 anos', 5289, 5824.4, '2009-11-18 13:18:53', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89877919704738', 559, '4 anos', 5690, 3807.48, '2009-11-10 13:51:51', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66374645534396', 560, '4 anos', 7856, 3248.58, '2011-05-23 09:15:35', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27127472044636', 561, '2 anos', 5903, 2265.54, '2022-10-06 12:27:53', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22353148275349', 562, '3 anos', 778, 3759.01, '2020-01-30 23:33:04', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28656991583097', 563, '4 anos', 4956, 586.3, '2023-03-09 08:58:16', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59182832031448', 564, '3 anos', 3015, 2107.88, '2018-06-23 16:21:43', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77776711143346', 565, '1 anos', 8592, 8372.64, '2011-06-01 02:29:44', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83669267847911', 566, '1 anos', 7374, 5132.81, '2010-07-20 04:15:04', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04849711651733', 567, '1 anos', 5606, 5497.05, '2021-08-12 08:08:04', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47198660164343', 568, '5 anos', 7605, 3988.57, '2012-06-12 02:58:05', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05781287518931', 569, '2 anos', 2583, 9790.5, '2008-08-18 11:49:31', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28656991583097', 570, '3 anos', 2618, 8469.68, '2013-06-14 17:13:51', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97210379909641', 571, '5 anos', 8670, 3554.35, '2019-09-19 19:32:36', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77568803555168', 572, '1 anos', 5432, 863.53, '2020-04-12 18:44:36', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67549037689098', 573, '5 anos', 2447, 6127.91, '2021-05-01 14:09:29', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40456548224244', 574, '1 anos', 6551, 2639.63, '2017-07-03 18:10:50', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02578901321037', 575, '2 anos', 8276, 7883.03, '2022-08-17 04:20:22', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96510530121976', 576, '1 anos', 9214, 2029.96, '2009-01-09 23:29:39', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60243794823398', 577, '1 anos', 9564, 3425.44, '2018-05-31 12:47:58', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55375237966325', 578, '5 anos', 4208, 8470.31, '2013-04-15 18:46:08', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11822296792536', 579, '3 anos', 7684, 3119.72, '2011-11-15 09:47:30', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17049284064582', 580, '5 anos', 5017, 9304.32, '2022-05-13 14:07:46', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40456548224244', 581, '2 anos', 5292, 3422.49, '2017-05-16 11:47:30', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98109021148177', 582, '2 anos', 3203, 8480.32, '2011-06-06 15:31:54', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53175943711046', 583, '3 anos', 8204, 8013.75, '2009-06-24 22:18:06', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58235630305307', 584, '4 anos', 5229, 6934.99, '2023-06-13 21:05:20', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 585, '1 anos', 3111, 2387.94, '2021-06-27 15:38:27', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60947276608874', 586, '4 anos', 9272, 8036.05, '2021-08-20 23:42:43', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25119466579691', 587, '1 anos', 2324, 210.86, '2017-06-03 15:26:56', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58235630305307', 588, '5 anos', 5625, 3416.32, '2008-10-08 23:22:39', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02133035800089', 589, '5 anos', 6588, 803.97, '2020-05-14 14:10:57', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68819291289354', 590, '2 anos', 3236, 2390.29, '2014-03-18 01:26:48', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78628380563263', 591, '3 anos', 7179, 9005.12, '2011-06-24 08:38:06', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43682146926299', 592, '4 anos', 3745, 3043.83, '2021-10-13 08:45:57', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61655331544091', 593, '3 anos', 3513, 6570.78, '2008-06-06 16:04:54', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25678421714576', 594, '4 anos', 7135, 4003.18, '2022-05-23 01:24:18', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41047254506405', 595, '4 anos', 2988, 1536.75, '2013-11-16 12:37:14', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13695165102635', 596, '1 anos', 5780, 4755.64, '2020-03-27 15:58:23', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04962686155203', 597, '1 anos', 1807, 3910.97, '2019-04-13 20:40:14', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53175943711046', 598, '5 anos', 979, 2044.58, '2013-02-18 16:56:03', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 599, '4 anos', 3639, 3274.87, '2009-06-16 17:23:28', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28387459962063', 600, '2 anos', 5066, 6417.14, '2020-07-02 13:04:56', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22240707871831', 601, '2 anos', 6347, 2297.92, '2016-02-23 21:52:29', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50464438902056', 602, '2 anos', 8432, 810.74, '2022-05-28 21:12:03', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93259917988685', 603, '4 anos', 8897, 440.5, '2009-12-06 22:16:35', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28263925314800', 604, '3 anos', 8193, 5812.24, '2018-12-10 07:58:41', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60947276608874', 605, '5 anos', 967, 1999.0, '2008-01-10 05:36:52', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('51189040151223', 606, '1 anos', 2280, 4532.71, '2019-05-19 16:56:17', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 607, '5 anos', 381, 6531.06, '2014-09-27 18:50:03', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86353145271967', 608, '4 anos', 6099, 2248.31, '2009-09-17 13:52:53', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77280986101395', 609, '4 anos', 8531, 6791.23, '2022-01-18 21:55:26', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82474783058170', 610, '2 anos', 295, 618.13, '2015-10-29 23:20:37', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40456548224244', 611, '5 anos', 1941, 6686.69, '2013-01-13 10:53:30', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84916586154236', 612, '5 anos', 6510, 9791.16, '2014-07-26 19:27:34', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86454909279706', 613, '2 anos', 3596, 8939.42, '2015-03-08 07:11:52', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61432236816270', 614, '3 anos', 8219, 657.26, '2015-09-25 00:46:26', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48535667079591', 615, '2 anos', 6884, 5621.54, '2013-05-24 10:49:05', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 616, '2 anos', 7884, 2848.08, '2012-04-09 06:11:12', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85234522642283', 617, '3 anos', 7537, 2070.48, '2019-07-04 12:48:01', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 618, '2 anos', 6806, 2568.37, '2014-12-09 00:53:00', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48535667079591', 619, '1 anos', 1640, 821.3, '2019-02-17 17:12:24', 'In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('14021054681659', 996, '1 anos', 3862, 5906.54, '2022-12-12 17:27:48', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85105703159166', 997, '3 anos', 4155, 4760.46, '2017-09-26 02:39:58', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25155686801130', 620, '5 anos', 7634, 3728.75, '2020-07-19 14:08:24', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68975610949821', 621, '3 anos', 1730, 7340.02, '2010-08-03 19:44:59', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93259917988685', 622, '3 anos', 6037, 840.62, '2010-08-20 09:40:35', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33604762148625', 623, '5 anos', 7714, 1951.22, '2022-06-25 03:42:54', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('90473579418421', 624, '4 anos', 1023, 986.72, '2018-04-14 05:02:15', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47773742062071', 625, '1 anos', 2112, 1579.28, '2015-03-14 04:47:10', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62664748403886', 626, '3 anos', 978, 2803.9, '2014-06-04 16:18:03', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04962686155203', 627, '1 anos', 441, 5666.26, '2008-02-28 21:13:15', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('36068774964168', 628, '3 anos', 518, 2987.14, '2022-09-20 17:11:34', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68819291289354', 629, '3 anos', 9748, 2571.59, '2022-05-20 05:42:53', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35503923014796', 630, '5 anos', 6680, 4412.57, '2019-12-19 12:15:08', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56310426212318', 631, '2 anos', 7924, 9293.46, '2020-05-11 04:49:26', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20772247722773', 632, '2 anos', 1108, 2455.63, '2011-12-27 17:02:50', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('34271713519508', 633, '4 anos', 7802, 7060.01, '2008-01-17 19:10:53', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18109417707703', 634, '4 anos', 5077, 3299.2, '2018-04-03 15:25:30', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86454909279706', 635, '4 anos', 2766, 4849.87, '2009-11-12 15:47:50', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42637374613551', 636, '1 anos', 4132, 2181.16, '2009-05-26 01:05:19', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35284308175788', 637, '3 anos', 9209, 1792.41, '2010-05-26 04:16:24', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81401013743127', 638, '5 anos', 5130, 6439.7, '2021-01-23 23:59:15', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53175943711046', 639, '4 anos', 8129, 1728.29, '2008-12-10 07:18:12', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68819291289354', 640, '2 anos', 354, 4991.05, '2009-05-05 19:53:44', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11620783368318', 641, '1 anos', 8313, 8982.93, '2008-10-04 01:29:28', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07896563155908', 642, '2 anos', 9503, 5751.91, '2018-05-20 14:14:29', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('81035364959601', 643, '2 anos', 3449, 3017.62, '2020-02-05 16:36:38', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07204487639919', 644, '5 anos', 2536, 6088.95, '2014-08-12 12:47:09', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87200591150850', 645, '2 anos', 3729, 544.55, '2023-10-30 09:29:46', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96967096996105', 646, '3 anos', 7411, 578.14, '2019-08-10 18:55:19', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98872552263748', 647, '4 anos', 1635, 5148.04, '2009-05-28 00:44:44', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35461640616231', 648, '4 anos', 3458, 9845.47, '2012-06-10 07:10:02', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97517441328446', 649, '2 anos', 1773, 8700.58, '2018-11-13 00:24:25', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41281875363969', 650, '5 anos', 1921, 2579.43, '2009-04-07 03:03:59', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97077921337617', 651, '3 anos', 479, 2631.05, '2023-03-06 08:21:53', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49158249516083', 652, '3 anos', 3165, 5264.8, '2008-02-06 14:51:52', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56310426212318', 653, '3 anos', 9111, 1058.94, '2019-01-06 16:46:41', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87200591150850', 654, '3 anos', 1877, 8842.99, '2015-05-20 22:21:45', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83398468414611', 655, '2 anos', 1499, 3192.72, '2019-02-23 03:30:45', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('03311511046402', 656, '3 anos', 6001, 4160.45, '2016-05-27 02:45:08', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66758900876349', 657, '3 anos', 8588, 2257.54, '2018-12-13 03:13:19', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69501991781929', 658, '4 anos', 3820, 301.73, '2023-05-04 23:59:38', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42637374613551', 659, '5 anos', 5110, 5155.16, '2018-03-14 12:44:49', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28656991583097', 660, '4 anos', 7470, 6395.79, '2015-12-15 03:56:50', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('05781287518931', 661, '1 anos', 460, 4013.16, '2012-05-24 15:34:14', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04962686155203', 662, '2 anos', 1620, 1857.86, '2011-12-12 22:55:55', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87200591150850', 663, '3 anos', 9923, 1291.09, '2010-09-25 19:47:06', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97077921337617', 664, '1 anos', 3486, 9717.2, '2015-01-11 15:59:32', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11311604916743', 665, '4 anos', 600, 5664.52, '2019-08-13 13:22:57', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62623731533629', 666, '5 anos', 9624, 4023.45, '2008-11-03 15:40:34', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60243794823398', 667, '1 anos', 7166, 3975.02, '2009-02-23 11:11:43', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88983461746547', 668, '3 anos', 5254, 6662.11, '2009-09-11 10:20:04', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18769420821694', 669, '5 anos', 7950, 8743.38, '2014-03-13 09:45:41', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16037614939739', 670, '4 anos', 6474, 6246.46, '2015-04-24 13:01:47', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 671, '1 anos', 9181, 9030.54, '2023-10-03 15:28:57', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62986784057932', 672, '4 anos', 3403, 5625.7, '2008-08-16 13:50:18', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11106018319338', 673, '3 anos', 8968, 1372.5, '2008-10-22 14:21:33', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19961968071052', 674, '5 anos', 8554, 5050.51, '2021-03-19 23:25:43', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41047254506405', 675, '4 anos', 6298, 979.41, '2015-09-07 12:15:15', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47121409077566', 676, '1 anos', 3611, 8084.5, '2009-05-15 01:39:13', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94708408302696', 677, '3 anos', 1624, 5653.92, '2019-12-19 06:24:55', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46286211740168', 678, '4 anos', 5630, 6680.04, '2023-05-14 08:34:43', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55375237966325', 679, '3 anos', 2410, 914.59, '2010-06-08 23:53:51', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42637374613551', 680, '3 anos', 5206, 7015.06, '2008-09-23 20:23:39', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61432236816270', 681, '1 anos', 2534, 6098.52, '2008-08-03 12:17:40', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62986784057932', 682, '2 anos', 5310, 819.47, '2013-08-20 17:38:18', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 683, '2 anos', 3634, 8572.73, '2021-12-03 05:07:01', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94708408302696', 684, '5 anos', 6003, 9145.44, '2021-03-30 11:35:19', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15247150551841', 685, '3 anos', 117, 969.77, '2013-04-13 13:45:28', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 686, '1 anos', 5373, 6575.81, '2010-07-04 17:42:52', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13695165102635', 687, '3 anos', 4559, 2237.59, '2010-06-13 19:26:15', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25823926521761', 688, '5 anos', 1969, 7831.76, '2010-11-27 14:54:42', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47121409077566', 689, '1 anos', 1201, 4659.04, '2010-06-28 06:18:35', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77577605303734', 690, '1 anos', 9950, 5896.72, '2017-01-29 08:08:35', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35503923014796', 691, '5 anos', 4345, 3761.08, '2020-02-20 00:57:26', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49992180502381', 692, '5 anos', 2632, 7293.01, '2016-12-17 23:53:16', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('37487193140273', 693, '2 anos', 991, 9704.94, '2020-07-02 09:35:02', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96967096996105', 694, '2 anos', 4304, 1673.3, '2021-01-26 13:01:41', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18950314405184', 695, '2 anos', 745, 2470.96, '2017-08-22 01:55:11', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12037476084714', 696, '4 anos', 7925, 6467.61, '2023-07-11 12:34:52', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95605416387886', 697, '3 anos', 6345, 2034.23, '2013-09-06 23:48:11', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18950314405184', 698, '4 anos', 8011, 4791.55, '2015-09-10 02:03:40', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66758900876349', 699, '1 anos', 6477, 2161.68, '2011-06-22 18:43:51', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01311059935849', 700, '5 anos', 9782, 9384.66, '2020-12-04 20:42:34', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28263925314800', 701, '3 anos', 1651, 4232.19, '2021-01-09 00:01:08', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54662755477526', 702, '2 anos', 8865, 7756.8, '2009-09-08 21:20:12', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15034767639037', 703, '2 anos', 1795, 4787.5, '2018-10-10 08:43:55', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08787541748350', 704, '5 anos', 939, 4561.11, '2017-04-28 04:02:35', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82826053548745', 705, '1 anos', 6427, 8272.24, '2020-07-10 23:17:20', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('58235630305307', 706, '1 anos', 4028, 2801.5, '2009-09-14 17:35:47', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18769420821694', 707, '1 anos', 4442, 4205.66, '2015-01-22 02:45:07', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76520562291031', 708, '2 anos', 2756, 5188.69, '2022-12-02 14:12:58', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('51189040151223', 709, '1 anos', 779, 8939.75, '2018-04-15 19:49:39', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11311604916743', 710, '1 anos', 4110, 9750.11, '2014-09-03 09:37:20', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84916586154236', 711, '4 anos', 1894, 7595.68, '2023-03-19 10:05:09', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('29536698157773', 712, '2 anos', 8584, 9077.95, '2022-10-02 13:52:55', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59182832031448', 713, '3 anos', 3282, 1274.81, '2022-03-08 03:58:30', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77280986101395', 714, '1 anos', 9119, 2498.1, '2008-06-28 20:17:23', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04962686155203', 715, '1 anos', 9334, 7707.18, '2016-12-17 22:11:21', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12044218715991', 716, '1 anos', 4379, 557.28, '2011-06-09 09:17:17', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44828898670071', 717, '4 anos', 9478, 2805.6, '2015-07-20 21:29:25', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77568803555168', 718, '3 anos', 4160, 113.55, '2015-07-08 06:30:04', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('88561211295964', 719, '4 anos', 3868, 9697.31, '2010-09-23 07:13:59', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53821704214312', 720, '2 anos', 8161, 3417.87, '2012-04-25 09:22:49', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65690506027486', 721, '5 anos', 8265, 1461.37, '2015-08-13 17:51:32', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18769420821694', 722, '1 anos', 3856, 5442.1, '2019-07-19 15:08:20', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47390695230879', 723, '5 anos', 7975, 9303.65, '2018-05-06 21:58:26', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41981555843254', 724, '1 anos', 1515, 1707.98, '2021-01-09 14:20:31', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53175943711046', 725, '2 anos', 9263, 3633.21, '2012-07-10 07:17:59', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15247150551841', 726, '1 anos', 6970, 363.83, '2013-04-06 19:11:24', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('60243794823398', 727, '5 anos', 7272, 2425.05, '2022-03-16 11:15:10', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47198660164343', 728, '5 anos', 8, 4212.05, '2015-06-24 18:28:52', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57688126944571', 729, '1 anos', 6426, 7568.56, '2008-08-06 23:30:29', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18109417707703', 730, '2 anos', 9007, 4720.07, '2011-03-22 07:55:12', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69501991781929', 731, '2 anos', 6236, 2289.96, '2020-03-24 00:02:31', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86353145271967', 732, '5 anos', 5995, 307.78, '2015-05-05 23:59:40', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12842856470668', 733, '2 anos', 5775, 2504.92, '2012-07-04 14:49:07', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55375237966325', 734, '1 anos', 8877, 6837.71, '2018-04-10 06:10:30', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25823926521761', 735, '1 anos', 7559, 160.86, '2020-06-18 02:54:53', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('52687648195514', 736, '3 anos', 9904, 1607.21, '2012-01-26 02:03:31', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('10697624412580', 737, '3 anos', 2888, 2975.48, '2019-11-20 02:45:53', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+
+Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56310426212318', 738, '2 anos', 8471, 6881.1, '2010-12-15 08:00:06', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39334727437716', 739, '5 anos', 4047, 5742.97, '2020-05-26 18:53:48', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('14167173402992', 740, '2 anos', 7482, 4121.69, '2023-06-17 21:18:14', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47773742062071', 741, '2 anos', 6414, 8591.74, '2011-09-20 04:05:18', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33925119131961', 742, '1 anos', 3953, 6712.29, '2009-08-26 16:43:25', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59481012292258', 743, '4 anos', 1477, 8818.28, '2012-05-08 17:29:59', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53821704214312', 744, '4 anos', 9250, 5249.31, '2014-12-31 21:04:26', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28656991583097', 745, '4 anos', 5007, 5773.53, '2013-08-17 13:30:03', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47121409077566', 746, '1 anos', 6033, 4397.31, '2017-09-05 03:41:43', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01805934148087', 747, '4 anos', 9980, 2257.96, '2017-01-19 11:41:41', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35284308175788', 748, '1 anos', 4324, 9067.89, '2016-08-09 08:44:57', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 749, '1 anos', 5871, 8501.2, '2009-07-19 07:30:31', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 750, '4 anos', 4126, 2610.05, '2014-03-19 10:27:34', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87204490405142', 751, '2 anos', 4543, 201.07, '2011-04-06 10:14:37', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69501991781929', 752, '2 anos', 7067, 7338.23, '2017-05-25 10:53:52', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91458090883824', 753, '4 anos', 9287, 1530.35, '2018-10-30 06:02:54', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 754, '5 anos', 9685, 7234.36, '2016-12-28 21:35:25', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42435542580319', 755, '1 anos', 7143, 5370.62, '2021-08-20 00:29:14', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41769277002244', 756, '4 anos', 1070, 7035.97, '2010-08-17 21:32:00', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64589505283575', 757, '1 anos', 9973, 5809.07, '2019-03-19 05:28:57', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61847643521836', 758, '1 anos', 6967, 9475.4, '2010-12-30 04:45:21', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61655331544091', 759, '5 anos', 4262, 9486.76, '2009-05-21 20:13:37', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28387459962063', 760, '2 anos', 4134, 148.53, '2009-09-27 05:50:34', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53821704214312', 761, '4 anos', 4600, 2968.12, '2008-03-24 20:02:37', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47390695230879', 762, '1 anos', 9910, 4964.22, '2008-07-21 02:41:20', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53639994410156', 763, '4 anos', 9129, 3039.88, '2012-11-19 03:28:41', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59182832031448', 764, '1 anos', 6265, 6330.6, '2009-08-12 12:29:02', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44828898670071', 765, '4 anos', 4449, 3248.44, '2013-05-01 05:09:46', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07204487639919', 766, '1 anos', 6071, 855.28, '2023-07-31 02:51:08', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68386387608408', 767, '1 anos', 9715, 1635.8, '2012-09-21 05:16:38', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11620783368318', 768, '5 anos', 2950, 618.29, '2022-08-08 05:06:34', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28005993583835', 769, '1 anos', 8643, 7599.8, '2009-10-28 14:39:30', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('93259917988685', 770, '2 anos', 7017, 1132.6, '2011-03-02 23:45:02', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35461640616231', 771, '1 anos', 9533, 6838.84, '2008-07-23 05:33:42', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27997996750751', 772, '1 anos', 2865, 7159.17, '2015-01-31 01:10:06', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31060613765269', 773, '1 anos', 4109, 2587.12, '2013-01-02 11:35:48', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33604762148625', 774, '5 anos', 9727, 1368.5, '2017-06-20 01:09:29', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13199243830903', 775, '5 anos', 1598, 8447.78, '2016-12-19 12:34:30', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77157350920083', 776, '1 anos', 9505, 162.7, '2019-06-25 01:09:23', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59182832031448', 777, '4 anos', 9045, 1207.38, '2017-03-28 00:00:38', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50401865873362', 778, '1 anos', 7551, 2799.2, '2010-05-06 01:54:05', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57511745349131', 779, '2 anos', 4789, 8184.42, '2017-10-25 19:39:02', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+
+Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49299869221562', 780, '5 anos', 8742, 642.97, '2020-06-24 23:14:25', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87200591150850', 781, '1 anos', 1236, 4354.18, '2008-09-18 10:57:12', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35461640616231', 782, '2 anos', 8768, 9620.02, '2015-01-17 15:11:22', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11106018319338', 783, '3 anos', 2431, 2443.32, '2022-11-06 10:56:55', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62664748403886', 784, '1 anos', 5830, 1868.59, '2023-11-03 08:57:45', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83649856263872', 785, '4 anos', 2650, 5942.18, '2019-06-30 20:17:34', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('79538225436295', 998, '3 anos', 6016, 2624.16, '2010-01-15 00:32:31', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('94105954832876', 999, '5 anos', 7464, 1360.61, '2015-11-23 02:45:59', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62320622350561', 786, '4 anos', 2609, 4439.13, '2014-05-04 02:27:42', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61275050968382', 787, '1 anos', 4240, 320.22, '2021-08-24 00:33:33', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 788, '3 anos', 6701, 8759.05, '2014-05-17 15:20:46', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97455025902146', 789, '1 anos', 1439, 7342.45, '2013-01-30 11:35:09', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89994434427680', 790, '2 anos', 7019, 2386.61, '2013-05-13 02:49:42', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18769420821694', 791, '3 anos', 535, 2082.85, '2014-03-30 00:57:20', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35278497924503', 792, '5 anos', 6930, 1653.54, '2009-08-27 17:36:41', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07505958957858', 793, '3 anos', 6598, 8788.04, '2008-02-20 07:25:45', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30085597978293', 794, '2 anos', 623, 118.35, '2020-07-07 04:19:08', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('92214876664004', 795, '1 anos', 4200, 992.26, '2014-01-21 03:47:11', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47390695230879', 796, '3 anos', 6894, 734.82, '2013-08-19 17:31:56', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18172523458566', 797, '2 anos', 7554, 8561.22, '2018-04-25 05:54:56', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97210379909641', 798, '5 anos', 6531, 7615.61, '2023-09-17 10:15:14', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('02133035800089', 799, '4 anos', 4638, 6847.13, '2013-01-05 04:23:09', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30085597978293', 800, '1 anos', 6377, 9857.65, '2009-12-13 18:36:35', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46286211740168', 801, '2 anos', 4467, 6435.72, '2012-08-11 08:08:02', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('36068774964168', 802, '5 anos', 2979, 2126.84, '2012-01-15 14:51:18', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18109417707703', 803, '4 anos', 5978, 5469.63, '2020-09-24 22:25:30', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69028069151376', 804, '3 anos', 7342, 338.58, '2019-02-18 10:17:07', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82826053548745', 805, '1 anos', 7951, 1386.29, '2020-04-15 16:01:34', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97210379909641', 806, '2 anos', 528, 803.58, '2016-07-20 11:00:09', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
-insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84388135925252', 1000, '1 anos', 1473, 6197.66, '2009-05-06 15:46:10', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97455025902146', 807, '4 anos', 2721, 5299.01, '2010-05-08 23:58:43', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('51028292747512', 808, '4 anos', 1142, 4271.27, '2009-03-14 17:31:40', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96510530121976', 809, '1 anos', 1012, 5950.93, '2012-10-17 12:24:46', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42637374613551', 810, '2 anos', 1535, 6631.79, '2013-01-31 10:44:04', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23179990436598', 811, '2 anos', 5243, 3540.74, '2018-10-03 16:37:17', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59481012292258', 812, '3 anos', 9919, 7931.47, '2010-11-22 19:17:40', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('66758900876349', 813, '5 anos', 6491, 4523.4, '2014-06-17 08:47:03', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53175943711046', 814, '4 anos', 5733, 8764.96, '2021-03-26 21:37:54', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15247150551841', 815, '1 anos', 6087, 902.22, '2022-09-22 22:47:26', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64589505283575', 816, '3 anos', 6163, 2720.62, '2020-03-10 18:45:08', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('37487193140273', 817, '2 anos', 8932, 6261.17, '2010-08-23 14:43:37', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68386387608408', 818, '4 anos', 3782, 3448.09, '2022-09-10 21:25:43', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61432236816270', 819, '4 anos', 1890, 9265.34, '2021-03-28 21:11:18', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11311604916743', 820, '4 anos', 1468, 8797.31, '2016-05-21 11:45:15', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28235254937751', 821, '2 anos', 2804, 8174.92, '2013-12-22 00:39:06', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07896563155908', 822, '4 anos', 6848, 3176.67, '2022-10-22 13:39:11', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17745275889972', 823, '4 anos', 1340, 9997.7, '2017-12-03 14:04:30', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07505958957858', 824, '4 anos', 8672, 5500.5, '2012-11-11 19:22:14', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04563356861829', 825, '1 anos', 5444, 753.98, '2019-03-13 11:27:57', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98109021148177', 826, '3 anos', 1494, 5692.49, '2013-09-20 14:03:08', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('65690506027486', 827, '2 anos', 6595, 1100.33, '2008-02-02 14:04:08', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17745275889972', 828, '2 anos', 3084, 5981.13, '2013-04-25 23:13:39', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42120175416163', 829, '5 anos', 6783, 2990.21, '2019-12-15 21:43:18', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55375237966325', 830, '2 anos', 3004, 5279.09, '2012-10-24 07:05:07', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77568803555168', 831, '3 anos', 1019, 7791.02, '2022-08-02 21:35:31', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20170734430608', 832, '5 anos', 352, 3179.3, '2021-10-20 06:57:02', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47390695230879', 833, '5 anos', 2108, 1487.39, '2013-04-09 15:21:40', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 834, '5 anos', 6489, 9415.18, '2012-02-01 07:46:52', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95605416387886', 835, '2 anos', 9096, 7313.89, '2011-02-07 00:56:32', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('85234522642283', 836, '4 anos', 6139, 6692.21, '2012-09-24 21:14:00', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59300902256050', 837, '1 anos', 7179, 4890.04, '2015-09-18 00:11:26', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('21087129494846', 838, '2 anos', 7598, 4249.42, '2021-05-31 11:46:58', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11311604916743', 839, '2 anos', 2884, 1009.07, '2023-12-04 23:43:37', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('53821704214312', 840, '5 anos', 6199, 9215.64, '2017-09-02 00:04:40', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77776711143346', 841, '2 anos', 6882, 2800.83, '2010-02-08 06:28:56', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00045993088204', 842, '3 anos', 6799, 9350.95, '2010-01-29 01:40:47', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 843, '4 anos', 8221, 2788.0, '2008-05-17 19:01:11', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41769277002244', 844, '1 anos', 2051, 6486.53, '2009-12-24 10:07:53', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('16719185523698', 845, '5 anos', 338, 784.86, '2010-08-01 20:03:07', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77577605303734', 846, '5 anos', 6318, 3195.59, '2021-10-20 19:26:01', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28005993583835', 847, '3 anos', 2105, 3672.14, '2019-04-28 16:10:23', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89629451688902', 848, '5 anos', 9011, 3563.22, '2009-07-02 08:03:10', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83649856263872', 849, '1 anos', 8109, 5621.53, '2019-11-21 00:14:11', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76520562291031', 850, '5 anos', 6989, 81.47, '2019-02-12 09:03:07', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35461640616231', 851, '5 anos', 1033, 4011.96, '2012-07-19 14:05:52', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28656991583097', 852, '5 anos', 1864, 8251.64, '2014-10-31 23:42:51', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17745275889972', 853, '4 anos', 1576, 974.71, '2014-08-23 09:24:21', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19796209490893', 854, '2 anos', 1750, 7373.15, '2021-12-22 15:20:27', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46503958887949', 855, '2 anos', 1893, 840.04, '2022-03-23 11:56:52', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77157350920083', 856, '5 anos', 9952, 4962.13, '2019-06-29 02:34:28', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57932298177077', 857, '5 anos', 6218, 1579.17, '2012-06-20 14:00:52', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19007865616308', 858, '2 anos', 5163, 64.7, '2021-12-03 22:06:27', 'Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17745275889972', 859, '1 anos', 6735, 7628.11, '2017-06-23 05:46:39', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54662755477526', 860, '2 anos', 6000, 3434.95, '2008-11-24 19:30:05', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18950314405184', 861, '3 anos', 5648, 2780.81, '2019-02-11 17:11:44', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86454909279706', 862, '2 anos', 2223, 6069.17, '2017-09-07 11:59:08', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25119466579691', 863, '1 anos', 6437, 90.51, '2012-02-08 03:54:59', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54285367327615', 864, '5 anos', 8978, 88.08, '2021-10-05 06:27:32', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 865, '2 anos', 2018, 8120.39, '2022-09-01 03:13:19', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31458061902121', 866, '4 anos', 7757, 2411.88, '2008-06-30 20:38:25', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40047990072143', 867, '4 anos', 782, 3807.48, '2021-05-22 12:00:24', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19007865616308', 868, '4 anos', 4134, 9967.02, '2018-04-25 03:11:00', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97077921337617', 869, '4 anos', 476, 3966.36, '2020-09-14 15:24:32', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 870, '5 anos', 3401, 3171.0, '2014-07-07 09:51:29', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01805934148087', 871, '3 anos', 3630, 1721.1, '2022-06-11 02:22:43', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54285367327615', 872, '2 anos', 331, 5489.79, '2010-09-28 21:13:44', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28005993583835', 873, '5 anos', 9347, 7968.59, '2013-07-21 16:42:43', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76520562291031', 874, '4 anos', 5254, 7817.25, '2010-08-17 10:44:11', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59481012292258', 875, '3 anos', 7438, 7425.24, '2020-05-19 03:48:09', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04849711651733', 876, '2 anos', 2898, 7446.15, '2023-05-11 14:13:20', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87204490405142', 877, '4 anos', 2507, 3367.36, '2018-11-26 22:53:27', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+
+Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('50464438902056', 878, '4 anos', 9580, 9773.95, '2013-10-21 09:54:31', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('68819291289354', 879, '4 anos', 405, 1533.58, '2013-04-08 08:42:31', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31680506487689', 880, '2 anos', 1212, 5056.49, '2015-04-09 08:34:05', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04962686155203', 881, '1 anos', 7568, 7898.64, '2014-08-24 01:41:15', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77157350920083', 882, '4 anos', 7288, 5227.96, '2008-08-28 18:57:59', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46503958887949', 883, '3 anos', 3180, 3627.96, '2021-08-08 09:06:50', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17049284064582', 884, '5 anos', 5536, 5055.68, '2021-11-28 11:18:20', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96510530121976', 885, '1 anos', 5135, 3527.01, '2013-03-11 08:05:34', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83669267847911', 886, '5 anos', 52, 7650.1, '2022-12-08 14:17:36', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('36068774964168', 887, '4 anos', 3137, 3396.45, '2022-08-30 05:12:25', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33925119131961', 888, '4 anos', 3541, 962.92, '2017-04-23 19:08:45', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44102375503690', 889, '5 anos', 5178, 9753.09, '2008-04-27 13:37:33', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17745275889972', 890, '2 anos', 2300, 9785.56, '2021-01-22 05:00:35', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44828898670071', 891, '3 anos', 2944, 9514.54, '2010-02-04 12:44:03', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77776711143346', 892, '1 anos', 6680, 5668.54, '2016-03-11 20:59:57', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97517441328446', 893, '1 anos', 2886, 5112.97, '2011-05-31 18:42:18', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13695165102635', 894, '1 anos', 7520, 3764.34, '2016-03-19 16:34:43', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57511745349131', 895, '2 anos', 6963, 298.94, '2014-03-30 16:37:31', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42120175416163', 896, '3 anos', 8941, 1094.21, '2017-12-14 12:08:55', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('43038225274577', 897, '5 anos', 2505, 6.49, '2020-09-20 07:34:39', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('', 898, '5 anos', 3862, 4080.8, '2018-06-13 16:31:08', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('15048207036826', 899, '2 anos', 104, 809.97, '2022-12-19 07:05:01', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('69465680138023', 900, '5 anos', 6359, 8924.6, '2014-07-27 21:35:58', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('17745275889972', 901, '4 anos', 4326, 7026.59, '2022-08-13 01:57:47', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('23179990436598', 902, '3 anos', 3826, 3521.25, '2016-12-24 16:27:11', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35858596424265', 903, '1 anos', 5078, 6180.36, '2018-06-19 22:31:21', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97517441328446', 904, '3 anos', 9129, 5085.37, '2011-01-21 20:05:01', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19961968071052', 905, '1 anos', 6205, 3133.92, '2020-11-13 05:50:54', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11822296792536', 906, '5 anos', 754, 7427.91, '2011-11-09 20:33:43', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('24685253485479', 907, '1 anos', 7632, 6762.47, '2018-10-02 13:57:05', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('76520562291031', 908, '5 anos', 1735, 8050.75, '2019-12-11 12:09:50', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96967096996105', 909, '3 anos', 4377, 5256.8, '2021-11-29 18:06:27', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77577605303734', 910, '5 anos', 9399, 4455.29, '2014-09-16 02:32:04', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 911, '4 anos', 1586, 7816.66, '2023-11-23 21:35:38', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27127472044636', 912, '1 anos', 3583, 8406.99, '2023-07-31 12:08:04', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('38160978048638', 913, '3 anos', 8494, 6546.14, '2023-08-08 01:06:32', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('67549037689098', 914, '1 anos', 3237, 6691.18, '2011-08-05 18:29:27', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95605416387886', 915, '2 anos', 4485, 9912.66, '2017-12-09 16:14:31', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46286211740168', 916, '5 anos', 1347, 8380.42, '2017-05-31 13:45:02', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77280986101395', 917, '3 anos', 2145, 1916.72, '2020-06-04 13:51:29', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('41981555843254', 918, '1 anos', 9409, 6698.98, '2008-01-23 17:18:37', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04962686155203', 919, '5 anos', 343, 3310.84, '2016-01-19 04:18:56', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42637374613551', 920, '3 anos', 1992, 9865.34, '2010-08-17 07:54:26', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49299869221562', 921, '3 anos', 573, 6586.59, '2021-07-09 10:00:58', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('61432236816270', 922, '1 anos', 7317, 4818.51, '2011-03-04 08:22:52', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('01311059935849', 923, '3 anos', 5983, 2977.79, '2017-02-22 04:04:31', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('57688126944571', 924, '4 anos', 6560, 3911.28, '2014-07-14 05:36:35', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('40047990072143', 925, '3 anos', 3571, 4453.88, '2014-02-16 09:51:34', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+
+Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89877919704738', 926, '3 anos', 5949, 2725.15, '2010-10-15 22:33:59', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('64589505283575', 927, '4 anos', 2846, 4029.12, '2011-06-21 10:37:56', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('97077921337617', 928, '5 anos', 7520, 6061.02, '2009-01-09 01:22:27', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25678421714576', 929, '2 anos', 4935, 3460.91, '2016-03-26 18:12:49', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19961968071052', 930, '3 anos', 3058, 2404.02, '2015-06-03 23:26:27', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('04563356861829', 931, '2 anos', 6308, 9075.95, '2018-03-18 11:20:28', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27997996750751', 932, '2 anos', 1808, 6018.38, '2023-08-25 07:00:24', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('13695165102635', 933, '5 anos', 1897, 7084.95, '2013-03-11 12:39:41', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35284308175788', 934, '1 anos', 1168, 4544.48, '2023-09-22 21:14:16', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('56532981626905', 935, '2 anos', 5874, 9908.92, '2011-04-25 23:39:40', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('83398468414611', 936, '5 anos', 1839, 7695.29, '2014-05-01 18:59:10', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32624834384165', 937, '2 anos', 397, 3985.55, '2016-04-18 17:20:13', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('07204487639919', 938, '4 anos', 2301, 5310.45, '2015-04-30 13:47:36', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62986784057932', 939, '2 anos', 604, 4589.95, '2022-12-19 06:05:13', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('59300902256050', 940, '3 anos', 2375, 5115.6, '2021-03-04 17:42:48', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54671082454467', 941, '5 anos', 8746, 5468.13, '2017-12-29 17:32:53', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('44102375503690', 942, '1 anos', 6230, 3166.54, '2020-02-06 16:16:28', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('91458090883824', 943, '2 anos', 7873, 4751.31, '2020-11-03 01:09:50', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33604762148625', 944, '1 anos', 1969, 1551.91, '2013-09-16 20:53:16', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98872552263748', 945, '1 anos', 6293, 3876.56, '2020-11-15 06:45:04', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33679496996888', 946, '5 anos', 6208, 8435.99, '2019-03-16 13:06:34', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('87200591150850', 947, '5 anos', 4323, 1361.7, '2018-08-26 09:25:14', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('37487193140273', 948, '4 anos', 5595, 1972.3, '2014-04-06 19:59:08', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48535667079591', 949, '5 anos', 354, 9832.4, '2010-01-19 01:46:41', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('42435542580319', 950, '2 anos', 3416, 3591.21, '2021-05-29 04:50:25', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49992180502381', 951, '2 anos', 2018, 3513.25, '2019-09-19 13:48:09', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('08787541748350', 952, '3 anos', 8135, 5809.74, '2022-05-26 06:14:22', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('36068774964168', 953, '2 anos', 2765, 7138.29, '2011-07-30 03:17:54', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19007865616308', 954, '1 anos', 8913, 3764.76, '2010-10-04 00:46:13', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82826053548745', 955, '5 anos', 9183, 3627.99, '2010-09-11 21:20:47', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('55742028162587', 956, '1 anos', 3259, 5836.14, '2014-06-22 02:35:41', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('20170734430608', 957, '1 anos', 7885, 7828.09, '2009-01-08 15:09:55', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28342894398887', 958, '5 anos', 9644, 4031.46, '2015-09-09 06:23:54', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('71042745201781', 959, '1 anos', 5934, 7233.74, '2016-10-17 22:32:53', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('35278497924503', 960, '5 anos', 3327, 1420.38, '2022-09-15 10:35:22', 'Fusce consequat. Nulla nisl. Nunc nisl.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('19007865616308', 961, '1 anos', 1525, 5295.13, '2016-12-11 07:48:02', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25155686801130', 962, '3 anos', 5804, 9792.8, '2013-12-03 03:01:13', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('12842856470668', 963, '4 anos', 7417, 9414.59, '2017-02-09 20:06:09', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 964, '4 anos', 3430, 2525.04, '2018-12-07 18:12:07', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28387459962063', 965, '3 anos', 1133, 4963.94, '2013-10-04 02:52:54', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('84916586154236', 966, '4 anos', 4635, 6407.93, '2009-02-01 09:15:45', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('32624834384165', 967, '2 anos', 56, 4283.29, '2014-12-11 11:04:02', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+
+Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('95605416387886', 968, '2 anos', 1937, 2584.36, '2019-06-04 17:47:07', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33604762148625', 969, '5 anos', 8132, 162.19, '2021-01-30 14:30:32', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('21028458111538', 970, '1 anos', 1348, 3929.35, '2008-03-04 18:07:46', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28263925314800', 971, '4 anos', 4108, 7203.09, '2012-06-09 18:42:51', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('22110846250540', 972, '3 anos', 7764, 2234.53, '2022-11-22 08:53:42', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('28342894398887', 973, '5 anos', 814, 1449.63, '2011-02-06 11:35:32', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('89994434427680', 974, '1 anos', 1410, 4858.33, '2013-02-15 13:28:24', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('78628380563263', 975, '1 anos', 4097, 9402.79, '2019-11-26 17:31:05', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('47390695230879', 976, '5 anos', 5449, 5398.63, '2016-11-22 17:36:28', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('30085597978293', 977, '2 anos', 3701, 3690.95, '2018-12-22 09:13:15', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('27127472044636', 978, '1 anos', 1926, 4602.4, '2022-11-30 10:45:04', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('33604762148625', 979, '5 anos', 2721, 3731.7, '2017-07-07 07:42:01', 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('29536698157773', 980, '3 anos', 7407, 9595.68, '2008-07-20 15:10:00', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('96352567947128', 981, '1 anos', 44, 2916.4, '2017-12-03 09:05:51', 'In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('11651783141041', 982, '4 anos', 9550, 6200.66, '2015-08-29 12:41:12', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('00045993088204', 983, '1 anos', 6170, 9980.88, '2014-09-19 09:01:01', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('98109021148177', 984, '3 anos', 5804, 5822.66, '2016-11-10 21:07:50', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('46286211740168', 985, '1 anos', 4513, 280.37, '2023-07-22 19:57:32', 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('48802627276153', 986, '1 anos', 5054, 775.27, '2014-12-14 16:02:04', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('62623731533629', 987, '1 anos', 6670, 6948.16, '2014-07-23 16:56:24', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18950314405184', 988, '2 anos', 6130, 8245.14, '2018-01-11 11:12:58', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('82826053548745', 989, '1 anos', 2356, 8761.8, '2010-04-28 11:40:35', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('54662755477526', 990, '4 anos', 5815, 1611.98, '2014-04-16 23:42:34', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('29536698157773', 991, '3 anos', 2665, 7898.14, '2008-11-17 19:04:42', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('77577605303734', 992, '3 anos', 2947, 1173.32, '2022-10-19 04:38:54', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('39334727437716', 993, '2 anos', 6228, 3295.04, '2017-04-15 00:03:53', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('86454909279706', 994, '5 anos', 5575, 6270.54, '2018-06-06 18:02:35', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 995, '5 anos', 8298, 6338.24, '2016-11-03 12:42:51', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('25823926521761', 996, '1 anos', 7788, 6673.99, '2018-12-17 12:32:44', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('49299869221562', 997, '1 anos', 7825, 4937.95, '2009-12-19 20:12:44', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('18109417707703', 998, '1 anos', 9038, 9244.01, '2008-12-19 10:49:39', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('26213910913890', 999, '3 anos', 3199, 8395.23, '2017-06-26 13:13:29', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.');
+insert into Tb_Itens (Tb_Fornecedor_CNPJ, Tb_Produto_idProduto, Duracao_de_garantia, Qt_no_estoque, Preco_de_compra, Data_de_inclusao, Informacoes_adicionais) values ('31680506487689', 1000, '2 anos', 3797, 1376.58, '2013-08-09 00:19:26', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.');
